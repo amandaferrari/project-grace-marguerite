@@ -1,0 +1,16 @@
+---
+layout: default
+title: Amanda's Blog · Travel
+---
+
+<h2>Recent posts</h2>
+
+<ul>
+	{% for post in site.posts %}
+		<li>
+			<a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+			<p>Posted in {{post.date}}</p>
+			<p>Category: {{post.category}}</p>
+		</li>
+	{% endfor%}
+</ul>

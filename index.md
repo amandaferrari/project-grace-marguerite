@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Amanda's Travel Blog · Homepage
+title: Amanda's Blog · Homepage
 ---
 
 # About me

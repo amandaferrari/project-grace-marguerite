@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: My first post
 meta: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 category: travel
