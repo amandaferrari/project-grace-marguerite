@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /project-grace-marguerite
+exclude: ['README.md', 'LICENSE']
