@@ -1,4 +1,4 @@
-markdown: redcarpet
+markdown: kramdown
 baseurl: /project-grace-marguerite
 exclude: ['README.md', 'LICENSE']
 permalink: pretty
