@@ -5,6 +5,41 @@ body {
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 
+.navbar-default {
+	background: none;
+	border: 0 !important;
+	box-shadow: none;
+}
+.navbar-header {
+	float: none;
+}
+.navbar-toggle {
+	display: block;
+	background-color: rgba(255, 255, 255, 0.2);
+}
+.navbar-collapse.collapse {
+	display: none!important;
+}
+.navbar-nav {
+	float: none!important;
+	margin: 7.5px -15px;
+}
+.navbar-nav>li {
+	float: none;
+	background-color: rgba(0,0,0,0.6);
+	letter-spacing: 0.0625em;
+	font-size: 1.3em;
+	color: white!important;
+	font-family: 'Waiting for the Sunrise', cursive;
+	padding-right: 20px;
+}
+.navbar-nav>li>a {
+	color: white!important;
+}
+.navbar-collapse.collapse.in{
+  display:block !important;
+}
+
 #masthead {
 	padding-top: 60px;
 	padding-bottom: 30px;
@@ -14,13 +49,40 @@ body {
 	position: relative;
 }
 
+@media (min-width: 0px) {
+	.navbar-header
+    {
+        float: none;
+    }
+
+    .navbar-toggle
+    {
+        display: block;
+    }
+
+    .navbar-collapse.collapse
+    {
+        display: none !important;
+    }
+}
+
 #site-intro {
 	z-index: 100;
+}
+
+#site-intro .footprint {
+	width: 60px;
+	height: 60px;
+	-ms-transform: rotate(35deg);
+    -webkit-transform: rotate(35deg);
+    transform: rotate(35deg);
+    filter: brightness(0) invert(1);
 }
 
 #title {
 	font-family: "Bitter", serif;
 	font-size: 4em;
+	padding-left: 50px;
 }
 
 #author {

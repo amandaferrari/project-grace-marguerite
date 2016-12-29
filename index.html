@@ -2,10 +2,32 @@
 layout: default
 ---
 <div class="container-fluid">
+	<nav class="navbar navbar-default navbar-fixed-top">
+	  <div class="navbar-header">
+	    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+	      <span class="glyphicon glyphicon-align-justify"></span>
+	    </button>
+	  </div>
+		<div class="row navbar-collapse collapse">
+			<div class="col-md-offset-10 col-md-2">
+				<ul class="nav navbar-nav navbar-right text-right">
+					<li><a href="#">Início</a></li>
+					<li><a href="{{ site.baseurl }}/about">Sobre mim</a></li>
+					<li><a href="{{ site.baseurl }}/travel">Relatos de viagem</a></li>
+					<li><a href="{{ site.baseurl }}/timeline">Linha do tempo</a></li>
+					<li><a href="{{ site.baseurl }}/maps">Mapas</a></li>
+					<li><a href="{{ site.baseurl }}/contact">Contatos</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
 	<div id="masthead" class="row shadow">
 		<div class="black-overlay"></div>
 		<div id="site-intro" class="col-md-offset-2 col-md-8 text-center">	
-			<h1 id="title">Rastros</h1>
+			<h1 id="title">
+				Rastros
+				<img class="footprint" src="{{ site.baseurl }}/assets/images/2patinhas.png" alt="">
+			</h1>
 			<h3 id="author">por Amanda Ferrari</h3>
 			<img src="{{ site.baseurl }}/assets/images/thumbnail.jpg" alt="" class="myphoto img-circle" with="90px" height="90px">
 			<p id="description">Não tenho bicicleta nem patins, não tenho carro nem avião, meus pés tem rodinhas que me levam por esse mundo descobrindo coisas, fazendo amigos, sem pressa nenhuma... <br>de voltar a trabalhar!</p>
