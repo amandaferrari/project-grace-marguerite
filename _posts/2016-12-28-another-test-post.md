@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My second awesome post
-category: test
+category: travel
 tags: ['Travel', 'Waterfall', 'Iceland']
 image: post2.jpg
 ---

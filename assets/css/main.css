@@ -124,6 +124,16 @@ body {
 	background-color: rgba(0, 0, 0, 0.5);
 }
 
+.light-black-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 10;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
 .shadow {
    -moz-box-shadow:    inset 0 0 5px #000000;
    -webkit-box-shadow: inset 0 0 5px #000000;
@@ -143,4 +153,37 @@ body {
 	font-family: "Bitter", serif;
 	text-decoration: underline;
 	font-size: 1.5em;
+}
+
+
+#post-header {
+	position: relative;
+}
+
+.post-image {
+	display: block;
+	width: 100%;
+	height: 400px;
+}
+
+.post-title {
+	padding-top: 150px;
+}
+
+.post-title h1 {
+	font-family: "Bitter", serif;
+	font-size: 4em;
+	color: white;
+}
+
+.article {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 1.5em;
+	padding-top: 20px;
+}
+
+.article-meta {
+	padding-top: 30px;
+	font-family: "Bitter", serif;
+	font-size: 1.2em;
 }
