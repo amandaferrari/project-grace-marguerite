@@ -3,6 +3,17 @@ layout: default
 title: Amanda's Blog · Travel
 ---
 
-<h2>Recent posts</h2>
+<div class="container-fluid">
+	{% include navbar.html %}
 
-{% include post-list.html %}
+	<div class="row">
+		<div id="travel-vertical-photo" class="col-md-6">
+			<div class="black-overlay"></div>
+			<img src="{{site.baseurl}}/assets/images/vertical.jpg" alt="">
+		</div>
+		<div class="timeline col-md-6">
+			<h2>Recent posts</h2>
+			{% include post-list.html %}
+		</div>
+	</div>
+</div>

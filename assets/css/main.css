@@ -5,6 +5,10 @@ body {
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 
+h1, h2, h3, h4 {
+	font-family: "Bitter", serif;
+}
+
 .navbar-default {
 	background: none;
 	border: 0 !important;
@@ -186,4 +190,43 @@ body {
 	padding-top: 30px;
 	font-family: "Bitter", serif;
 	font-size: 1.2em;
+}
+
+.post-list p {
+	margin: 0 0;
+}
+
+.post-list li {
+	margin: 10px 0;
+}
+
+.timeline {
+	color: white;
+	background-color: #2c3e50;
+	height: 800px;
+	padding-top: 50px;
+}
+
+.timeline h2 {
+	margin-bottom: 50px;
+	padding-left: 40px;
+}
+
+.timeline ul {
+	list-style: none;
+}
+
+.timeline li {
+	font-size: 1.0em;
+}
+
+.timeline li a {
+	color: white;
+	text-decoration: underline;
+	font-family: "Bitter", serif;
+	font-size: 1.5em;
+}
+
+#travel-vertical-photo {
+	padding-left: 0;
 }

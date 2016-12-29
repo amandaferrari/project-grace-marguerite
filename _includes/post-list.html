@@ -1,9 +1,10 @@
-<ul>
+<ul class="post-list">
 	{% for post in site.posts %}
 		<li>
-			<a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
-			<p>Posted in {{post.date}}</p>
-			<p>Category: {{post.category}}</p>
+			<p><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></p>
+			<p>Postado em {{ post.date | date_to_string }}</p>
+			<p>Tags: {{ post.tags | array_to_sentence_string }}</p>
 		</li>
+		<hr>
 	{% endfor%}
 </ul>
