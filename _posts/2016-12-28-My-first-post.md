@@ -1,9 +1,10 @@
 ---
 layout: post
 title: My first post
-meta: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 category: travel
-tags: ['tag1', 'tag2']
+tags: ['Iceland', 'Dive']
+image: post1.jpg
 ---
 
 This is my [travel blog](https://amandaferrari.github.io/project-grace-marguerite/).

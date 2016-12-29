@@ -1,7 +1,9 @@
 ---
 layout: post
-title: My second awesome post... nothing interesting, yet!
+title: My second awesome post
 category: test
+tags: ['Travel', 'Waterfall', 'Iceland']
+image: post2.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
