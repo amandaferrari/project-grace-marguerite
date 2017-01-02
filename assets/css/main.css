@@ -1,6 +1,11 @@
 ---
 ---
 
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
 body {
 	font-family: 'Open Sans Condensed', sans-serif;
 }
@@ -44,13 +49,18 @@ h1, h2, h3, h4 {
   display:block !important;
 }
 
+#main-homepage {
+	height: 100%;
+}
+
 #masthead {
-	padding-top: 60px;
+	padding-top: 100px;
 	padding-bottom: 30px;
 	background: #000 url({{site.baseurl}}/assets/images/masthead.jpg) no-repeat fixed center;
 	background-size: cover;
 	color: white;
 	position: relative;
+	min-height: 70%;
 }
 
 @media (min-width: 0px) {
@@ -107,15 +117,20 @@ h1, h2, h3, h4 {
 	font-size: 1.3em;
 }
 
+#highlighted-posts {
+	height: 30%;
+}
+
 #highlighted-posts .col-md-3 {
 	padding: 0 0;
 	position: relative;
+	height: 100%;
 }
 
 .post-call-image {
 	display: block;
 	width: 100%;
-	height: 190px;
+	height: 100%;
 }
 
 .black-overlay {
