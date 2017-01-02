@@ -35,13 +35,20 @@ h1, h2, h3, h4 {
 }
 .navbar-nav>li {
 	float: none;
-	background-color: rgba(0,0,0,0.6);
+	background-color: rgba(0,0,0,0.9);
 	letter-spacing: 0.0625em;
 	font-size: 1.3em;
 	color: white!important;
 	font-family: 'Waiting for the Sunrise', cursive;
 	padding-right: 20px;
 }
+
+@media (min-width: 768px) {
+	.navbar-nav>li {
+		background-color: rgba(0,0,0,0.6);
+	}
+}
+
 .navbar-nav>li>a {
 	color: white!important;
 }
