@@ -4,9 +4,8 @@
 			<img src="{{ site.baseurl }}/assets/images/1patinha.png" class="patinha img-circle pull-left">
 			<p><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></p>
 			<p>
-				Postado em {{ post.date | date_to_string }}, Tags: {{ post.tags | array_to_sentence_string }}
+				Postado em {{ post.date | date_to_string }}, Tags: {{ post.tags | join: ', ' }}
 			</p>
 		</li>
-		<!-- <hr> -->
 	{% endfor%}
 </ul>
