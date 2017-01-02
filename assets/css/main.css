@@ -128,7 +128,7 @@ h1, h2, h3, h4 {
 	height: 30%;
 }
 
-#highlighted-posts .col-md-3 {
+.highlighted-post {
 	padding: 0 0;
 	position: relative;
 	height: 100%;

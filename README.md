@@ -1,6 +1,6 @@
 # project-grace-marguerite
 
-This is the travel blog of Amanda Ferrari.
+This is the [travel blog](https://amandaferrari.github.io/project-grace-marguerite/) of Amanda Ferrari.
 
 The name of this project is inspired by [Grace Marguerite](https://en.wikipedia.org/wiki/Grace_Marguerite_Hay_Drummond-Hay)
 
