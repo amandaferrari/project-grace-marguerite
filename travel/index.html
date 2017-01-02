@@ -5,15 +5,13 @@ title: Amanda's Blog · Travel
 
 <div class="container-fluid">
 	{% include navbar.html %}
-
-	<div class="row">
-		<div id="travel-vertical-photo" class="col-md-6">
-			<div class="black-overlay"></div>
-			<img src="{{site.baseurl}}/assets/images/vertical.jpg" alt="">
-		</div>
-		<div class="timeline col-md-6">
-			<h2>Recent posts</h2>
-			{% include post-list.html %}
+	<div id="travel-post-list" class="row">
+		<div class="black-overlay"></div>
+		<div class="timeline col-md-offset-2 col-md-8">
+			<div class="recent-posts">
+				<h1>Postagens Recentes</h1>
+				{% include post-list.html %}
+			</div>
 		</div>
 	</div>
 </div>
