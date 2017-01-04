@@ -300,7 +300,6 @@ img.patinha {
 }
 
 
-
 /*li:nth-child(odd) img.patinha {
 	-ms-transform: rotate(10deg);
     -webkit-transform: rotate(10deg);
@@ -317,8 +316,13 @@ li:nth-child(even) img.patinha {
 .made-with-love {
 	font-family: 'Waiting for the Sunrise', cursive;
 	font-size: 1.1em;
-	padding: 10px 0;
+	padding: 10px 10px;
 	border-top: 1px dotted #2c3e50;
+}
+
+.made-with-love p {
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 .made-with-love span.glyphicon {
@@ -342,4 +346,19 @@ li:nth-child(even) img.patinha {
 .nav-post li a {
 	color: #2980b9;
 	text-decoration: underline;
+}
+
+
+.copyleft-symbol {
+    display: inline-block;
+    text-align: right;
+    margin: 0;
+    font-size: 1.0em;
+    font-family: sans-serif;
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: FlipH;
 }
