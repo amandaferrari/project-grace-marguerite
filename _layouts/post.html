@@ -33,7 +33,7 @@ layout: default
 						<ul class="center-block">
 							<li>
 								{% if page.next.url %}
-									<a href="{{ site.baseurl }}{{ page.next.url }}" title="{{ page.next.title }}"><span class="glyphicon glyphicon-menu-left"></span></a>
+									<a href="{{ site.baseurl }}{{ page.next.url }}" data-toggle="tooltip" data-placement="left" title="{{ page.next.title }}"><span class="glyphicon glyphicon-menu-left"></span></a>
 								{% else %}
 									<span class="glyphicon glyphicon-menu-left text-muted"></span>
 							  {% endif %}
@@ -45,7 +45,7 @@ layout: default
 							<li><a href="{{ site.baseurl }}/maps">Mapas</a></li>
 							<li>
 								{% if page.previous.url %}
-							    <a href="{{ site.baseurl }}{{ page.previous.url }}" title="{{ page.previous.title }}"><span class="glyphicon glyphicon-menu-right"></span></a>
+							    <a href="{{ site.baseurl }}{{ page.previous.url }}" data-toggle="tooltip" data-placement="right" title="{{ page.previous.title }}"><span class="glyphicon glyphicon-menu-right"></span></a>
 							  {% else %}
 									<span class="glyphicon glyphicon-menu-right text-muted"></span>
 							  {% endif %}
