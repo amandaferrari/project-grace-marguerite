@@ -4,6 +4,8 @@ title: My unsupervisioned post
 category: travel
 tags: ['Iceland', 'Waterfall']
 image: post4.jpg
+country-code: cn
+country: China
 ---
 
 <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam quod laudantium optio similique id quia dolorum! Recusandae perspiciatis at pariatur minima! Commodi quidem doloremque rem aliquam quis error quam ea.</div>

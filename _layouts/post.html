@@ -22,10 +22,13 @@ layout: default
 		<div class="row">
 			<div class="col-md-offset-2 col-md-8">
 				<header class="post-meta text-left">
-					<p>Postado em
-					{% for tag in page.tags %}
-					<a href="{{ site.baseurl }}/travel/tags/#{{ tag }}" class="tag-link">{{ tag }}</a>
-					{% endfor %}
+					<p>
+						<img src="{{ site.baseurl }}/assets/images/blank.png" class="flag flag-{{page.country-code}}" alt="{{page.country}}" />
+						&middot;
+						{% for tag in page.tags %}
+						<a href="{{ site.baseurl }}/travel/tags/#{{ tag }}" class="tag-link">{{ tag }}</a>
+						{% endfor %}
+					</p>
 					<p class="text-muted">{{ page.date | date_to_string }}</p>
 				</header>
 				<article class="post">

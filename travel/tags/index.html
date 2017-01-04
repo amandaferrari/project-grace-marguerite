@@ -37,7 +37,8 @@ title: Amanda's Blog · Tags
 										<p>
 											{{ post.date | date_to_string }}
 											&middot;
-											tags:
+											<img src="{{ site.baseurl }}/assets/images/blank.png" class="flag flag-{{post.country-code}}" alt="{{post.country}}" />
+											&middot;
 											{% for tag in post.tags %}
 											<a href="{{ site.baseurl }}/travel/tags/#{{ tag }}" class="tag-link">{{ tag }}</a>
 											{% endfor %}

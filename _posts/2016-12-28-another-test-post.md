@@ -4,6 +4,8 @@ title: My second awesome post
 category: travel
 tags: ['Travel', 'Waterfall', 'Iceland']
 image: post2.jpg
+country-code: br
+country: Brasil
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

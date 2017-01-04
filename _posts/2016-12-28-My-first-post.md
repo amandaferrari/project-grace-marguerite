@@ -5,6 +5,8 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
 category: travel
 tags: ['Iceland', 'Dive']
 image: post1.jpg
+country-code: is
+country: Iceland
 ---
 
 This is my [travel blog](https://amandaferrari.github.io/project-grace-marguerite/).
