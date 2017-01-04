@@ -2,30 +2,63 @@
 layout: default
 ---
 
-<div class="container-fluid">
-	{% include navbar.html %}
+<header>{% include navbar.html %}</header>
 
-	<div id="post-header" class="row">
-		<div class="post-image shadow" style="background: url({{ site.baseurl }}/assets/images/{{ page.image }}) no-repeat left center; background-size: cover">
-		</div>
-		<div class="light-black-overlay">
-			<div class="post-title">
-				<h1 class="text-center">{{page.title}}</h1>
-			</div>
-		</div>
-	</div>
-</div>
+<main>
 
-<div class="container">
-	<div class="row">
-		<div class="col-md-offset-2 col-md-8">
-			<div class="article-meta text-left">
-				<p>Postado em {{ page.tags | array_to_sentence_string }}</p>
-				<p class="text-muted">{{ page.date | date_to_string }}</p>
+	<header class="container-fluid">
+		<div id="post-header" class="row">
+			<div class="post-image shadow" style="background: url({{ site.baseurl }}/assets/images/{{ page.image }}) no-repeat left center; background-size: cover">
 			</div>
-			<div class="article">
-				{{content}}
+			<div class="light-black-overlay">
+				<div class="post-title">
+					<h1 class="text-center">{{ page.title }}</h1>
+				</div>
 			</div>
 		</div>
-	</div>
-</div>
+	</header>
+
+	<article class="container">
+		<div class="row">
+			<div class="col-md-offset-2 col-md-8">
+				<header class="post-meta text-left">
+					<p>Postado em {{ page.tags | join: ', ' }}</p>
+					<p class="text-muted">{{ page.date | date_to_string }}</p>
+				</header>
+				<article class="post">
+					{{content}}
+				</article>
+				<footer class="text-center">
+					<nav class="nav-post">
+						<ul class="center-block">
+							<li>
+								{% if page.next.url %}
+									<a href="{{ page.next.url }}"><span class="glyphicon glyphicon-menu-left"></span></a>
+								{% else %}
+									<span class="glyphicon glyphicon-menu-left text-muted"></span>
+							  {% endif %}
+							</li>
+							<li><a href="{{ site.baseurl }}/#">Início</a></li>
+							<li>&bull;</li>
+							<li><a href="{{ site.baseurl }}/travel">Posts</a></li>
+							<li>&bull;</li>
+							<li><a href="{{ site.baseurl }}/maps">Mapas</a></li>
+							<li>
+								{% if page.previous.url %}
+							    <a href="{{ page.previous.url }}"><span class="glyphicon glyphicon-menu-right"></span></a>
+							  {% else %}
+									<span class="glyphicon glyphicon-menu-right text-muted"></span>
+							  {% endif %}
+							</li>
+						</ul>
+					</nav>
+				</footer>
+			</div>
+		</div>
+	</article>
+
+	<footer class="container-fluid made-with-love">
+		<p class="text-center">Feito com <span class="glyphicon glyphicon-heart"></span> por Chico & Chica</p>
+	</footer>
+
+</main>

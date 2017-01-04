@@ -213,16 +213,17 @@ h1, h2, h3, h4 {
 	color: white;
 }
 
-.article {
+article.post {
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 1.5em;
-	padding-top: 20px;
+	padding: 20px 0;
 }
 
-.article-meta {
+.post-meta {
 	padding-top: 30px;
 	font-family: "Bitter", serif;
-	font-size: 1.2em;
+	font-size: 1.3em;
+	color: #2980b9;
 }
 
 .post-list p {
@@ -312,3 +313,33 @@ li:nth-child(even) img.patinha {
     transform: rotate(-10deg);
 }
 */
+
+.made-with-love {
+	font-family: 'Waiting for the Sunrise', cursive;
+	font-size: 1.1em;
+	padding: 10px 0;
+	border-top: 1px dotted #2c3e50;
+}
+
+.made-with-love span.glyphicon {
+	color: #c0392b;
+}
+
+.nav-post ul {
+	margin: 0;
+	margin-bottom: 50px;
+	padding: 0;
+	list-style-type: none;
+}
+
+.nav-post li {
+	display: inline;
+	padding: 0 5px;
+	font-family: "Bitter", serif;
+	font-size: 1.3em;
+}
+
+.nav-post li a {
+	color: #2980b9;
+	text-decoration: underline;
+}
