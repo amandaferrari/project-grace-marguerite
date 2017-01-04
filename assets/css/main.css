@@ -391,3 +391,9 @@ li:nth-child(even) img.patinha {
     filter: FlipH;
     -ms-filter: FlipH;
 }
+
+#map {
+	margin: 0 auto;
+	height: 100%;
+	width: 100%;
+}

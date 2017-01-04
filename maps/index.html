@@ -1,0 +1,134 @@
+---
+layout: default
+title: Amanda's Blog · Linha do Tempo & Mapa
+---
+
+<div id="map"></div>
+
+<script>
+	var cities = [
+		'Sorocaba, Brazil',
+		'New Zealand',
+		'Australia',
+		'Indonesia',
+		'Philippines',
+		'Japan',
+		'China',
+		'Bhutan',
+		'Nepal',
+		'India',
+		'Sri Lanka',
+		'Turkey',
+		'Greece',
+		'Egypt',
+		'Bulgaria',
+		'Romania',
+		'Serbia',
+		'Montenegro',
+		'Macedonia',
+		'Slovakia',
+		'Slovenia',
+		'Lithuania',
+		'Latvia',
+		'Bosnia and Herzegovina',
+		'Croatia',
+		'Morocco',
+		'Ethiopia',
+		'Tanzania',
+		'Madagascar',
+		'Kenya',
+		'United States',
+		'Ecuador',
+		'Alaska',
+		'Namibia',
+		'México',
+		'Cuba',
+		'Belize',
+		'São Paulo, Brazil'
+	];
+
+	var cities_coordinates = [];
+
+
+	function draw_travel_path(map) {
+		if (cities_coordinates.length == cities.length &&
+			cities_coordinates.every(function(element, index, array) {
+				return element !== 'None';
+			}))
+		{
+			var icon = {
+			    url: '{{ site.baseurl }}/assets/images/1patinha.png',
+			    scaledSize: new google.maps.Size(20, 20),
+			    origin: new google.maps.Point(0,0),
+			    anchor: new google.maps.Point(30,30)
+			};
+
+			for (let i = 0; i < cities_coordinates.length; ++i) {
+				let city_marker = new google.maps.Marker({
+					position: cities_coordinates[i],
+					// icon: icon,
+					map: map
+				});
+			}
+
+			for (let i = 1; i < cities_coordinates.length; ++i) {
+				let from = cities_coordinates[i-1];
+				let to   = cities_coordinates[i];
+				let travel_path = new google.maps.Polyline({
+					path: [from, to],
+					geodesic: false,
+					strokeColor: '#d35400',
+					strokeOpacity: 1.0,
+					strokeWeight: 2,
+					icons: [{
+						icon: {path: google.maps.SymbolPath.FORWARD_CLOSED_ARROW},
+						offset: '50%',
+						// repeat: '25%'
+					}]
+		        });
+				travel_path.setMap(map);
+			}
+		}
+		else {
+			window.setTimeout(function() {
+				draw_travel_path(map);
+		    }, 1000);
+		}
+	}
+
+	function initMap() {
+
+		var geocoder = new google.maps.Geocoder();
+		for (let i = 0; i < cities.length; ++i) {
+			cities_coordinates.push('None');
+			window.setTimeout(function() {
+				geocoder.geocode( { 'address': cities[i] }, function(results, status) {
+					if (status == 'OK') {
+						cities_coordinates[i] = results[0].geometry.location;
+						console.log('iteration #' + i + ' / ' + cities_coordinates.length);
+						console.log(cities[i]);
+						console.log(cities_coordinates[i]);
+					}
+					else {
+						cities_coordinates[i] = { error: status };
+						var error_msg = 'Geocode was not successful for the following reason: ' + status;
+						console.log(error_msg);
+						alert(error_msg);
+					}
+				});
+			}, i*cities.length/40*1000);
+		}
+
+		var sp = { lat: -23.550520, lng: -46.633309 };
+		var map = new google.maps.Map(document.getElementById('map'), {
+			center: sp,
+			zoom: 2
+		});
+
+		draw_travel_path(map);
+
+		alert('Say you love me! And please wait a few seconds...');
+	}
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCZdrFY6Jw_UlHROPTXiC5urXeAstSojs&callback=initMap" async defer></script>
