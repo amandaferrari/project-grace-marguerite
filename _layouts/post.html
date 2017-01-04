@@ -22,7 +22,10 @@ layout: default
 		<div class="row">
 			<div class="col-md-offset-2 col-md-8">
 				<header class="post-meta text-left">
-					<p>Postado em {{ page.tags | join: ', ' }}</p>
+					<p>Postado em
+					{% for tag in page.tags %}
+					<a href="{{ site.baseurl }}/travel/tags/#{{ tag }}" class="tag-link">{{ tag }}</a>
+					{% endfor %}
 					<p class="text-muted">{{ page.date | date_to_string }}</p>
 				</header>
 				<article class="post">
@@ -41,6 +44,8 @@ layout: default
 							<li><a href="{{ site.baseurl }}/#">Início</a></li>
 							<li>&middot;</li>
 							<li><a href="{{ site.baseurl }}/travel">Posts</a></li>
+							<li>&middot;</li>
+							<li><a href="{{ site.baseurl }}/travel/Tags">Tags</a></li>
 							<li>&middot;</li>
 							<li><a href="{{ site.baseurl }}/maps">Mapas</a></li>
 							<li>

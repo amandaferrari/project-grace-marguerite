@@ -3,15 +3,18 @@ layout: default
 title: Amanda's Blog · Travel
 ---
 
-<div class="container-fluid">
-	{% include navbar.html %}
-	<div id="travel-post-list" class="row">
-		<div class="full-black-overlay"></div>
-		<div class="timeline col-md-offset-2 col-md-8">
-			<div class="recent-posts">
-				<h1>Pegadas Filosóficas</h1>
-				{% include post-list.html %}
+<header>{% include navbar.html %}</header>
+
+<main>
+	<div class="container-fluid">
+		<div id="travel-post-list" class="row">
+			<div class="full-black-overlay"></div>
+			<div class="timeline col-md-offset-2 col-md-8">
+				<article class="recent-posts">
+					<header><h1>Postagens Recentes</h1></header>
+					<main>{% include post-list.html %}</main>
+				</article>
 			</div>
 		</div>
 	</div>
-</div>
+</main>

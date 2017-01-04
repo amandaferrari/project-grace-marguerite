@@ -4,7 +4,12 @@
 			<img src="{{ site.baseurl }}/assets/images/1patinha.png" class="patinha img-circle pull-left">
 			<p><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></p>
 			<p>
-				Postado em {{ post.date | date_to_string }}, Tags: {{ post.tags | join: ', ' }}
+				{{ post.date | date_to_string }}
+				&middot;
+				tags:
+				{% for tag in post.tags %}
+				<a href="{{ site.baseurl }}/travel/tags/#{{ tag }}" class="tag-link">{{ tag }}</a>
+				{% endfor %}
 			</p>
 		</li>
 	{% endfor%}
