@@ -13,43 +13,7 @@ title: Amanda's Blog · Tags
 				<article class="recent-posts">
 					<header><h1>Postagens por Tags</h1></header>
 					<main>
-						<!--
-						<ul class="tags">
-							{% for tag in site.tags %}
-							  {% assign t = tag | first %}
-							  {% assign posts = tag | last %}
-							  <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
-							{% endfor %}
-						</ul>
-						-->
-						<div class="tag-list">
-						{% for tag in site.tags %}
-						  {% assign t = tag | first %}
-						  {% assign posts = tag | last %}
-							<div id="{{ t }}">
-								<h2 class="tag">{{ t }}</h2>
-								<ul class="post-list">
-								{% for post in posts %}
-								  {% if post.tags contains t %}
-								  <li>
-										<img src="{{ site.baseurl }}/assets/images/1patinha.png" class="patinha img-circle pull-left">
-										<p><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></p>
-										<p>
-											{{ post.date | date_to_string }}
-											&middot;
-											<img src="{{ site.baseurl }}/assets/images/blank.png" class="flag flag-{{post.country-code}}" alt="{{post.country}}" />
-											&middot;
-											{% for tag in post.tags %}
-											<a href="{{ site.baseurl }}/travel/tags/#{{ tag }}" class="tag-link">{{ tag }}</a>
-											{% endfor %}
-										</p>
-								  </li>
-								  {% endif %}
-								{% endfor %}
-								</ul>
-							</div>
-						{% endfor %}
-						</div>
+						{% include tag-list.html %}
 					</main>
 				</article>
 			</div>
