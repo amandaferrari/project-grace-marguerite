@@ -3,6 +3,12 @@
 	background-size: cover;
 }
 
+#tags-post-list {
+	background: #000 url({{ site.baseurl }}/assets/images/post4.jpg) no-repeat fixed center;
+	background-size: cover;
+}
+
+
 .timeline {
 	color: white;
 	min-height: 100vh;

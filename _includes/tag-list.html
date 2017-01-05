@@ -8,14 +8,14 @@
 </ul>
 -->
 
-{% for tag in site.tags %}
-	{% assign t = tag | first %}
-	{% assign posts = tag | last %}
-	<div id="{{ t }}" class="tag-list">
-		<h2 class="tag">{{ t }}</h2>
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tag_words = site_tags | split:',' | sort %}
+{% for item in (0..site.tags.size) %}{% unless forloop.last %}
+    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+	<div id="{{ this_word }}" class="tag-list">
+		<h2 class="tag">{{ this_word }}</h2>
 		<ul class="post-list">
-		{% for post in posts %}
-			{% if post.tags contains t %}
+		{% for post in site.tags[this_word] %}
 			<li>
 				<img src="{{ site.baseurl }}/assets/images/1patinha.png" class="patinha img-circle pull-left">
 				<p><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></p>
@@ -29,8 +29,7 @@
 					{% endfor %}
 				</p>
 			</li>
-			{% endif %}
 		{% endfor %}
 		</ul>
 	</div>
-{% endfor %}
+{% endunless %}{% endfor %}
