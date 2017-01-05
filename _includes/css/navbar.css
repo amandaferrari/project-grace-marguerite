@@ -1,0 +1,80 @@
+.navbar-default {
+	background: none;
+	border: 0 !important;
+	box-shadow: none;
+}
+
+.navbar-header {
+	float: none;
+}
+
+.navbar-toggle {
+	display: block;
+	background-color: rgba(255, 255, 255, 0.2);
+}
+
+.navbar-collapse.collapse {
+	display: none!important;
+}
+
+.navbar-nav {
+	float: none!important;
+	margin: 7.5px -15px;
+}
+
+.navbar-nav>li {
+	float: none;
+	background-color: rgba(0,0,0,0.9);
+	letter-spacing: 0.0625em;
+	font-size: 1.3em;
+	color: white!important;
+	font-family: 'Waiting for the Sunrise', cursive;
+	padding-right: 20px;
+}
+
+@media (min-width: 768px) {
+	.navbar-nav>li {
+		background-color: rgba(0,0,0,0.6);
+	}
+}
+
+.navbar-nav>li>a {
+	color: white!important;
+}
+
+.navbar-collapse.collapse.in{
+  display:block !important;
+}
+
+@media (min-width: 0px) {
+	.navbar-header {
+        float: none;
+    }
+
+    .navbar-toggle {
+        display: block;
+    }
+
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+}
+
+.nav-post ul {
+	margin: 0;
+	margin-bottom: 50px;
+	padding: 0;
+	list-style-type: none;
+}
+
+.nav-post li {
+	display: inline;
+	padding: 0 5px;
+	font-family: "Bitter", serif;
+	font-size: 1.3em;
+}
+
+.nav-post li a {
+	color: #2980b9;
+	text-decoration: underline;
+}
