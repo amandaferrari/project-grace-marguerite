@@ -1,128 +1,136 @@
 ---
 layout: default
-title: Amanda's Blog · Linha do Tempo & Mapa
+title: Amanda's Blog · Mapa
 ---
 
 <div id="map"></div>
 
 <script>
-	var cities = [
-		'Sorocaba, Brazil',
-		'New Zealand',
-		'Australia',
-		'Indonesia',
-		'Philippines',
-		'Japan',
-		'China',
-		'Bhutan',
-		'Nepal',
-		'India',
-		'Sri Lanka',
-		'Turkey',
-		'Greece',
-		'Egypt',
-		'Bulgaria',
-		'Romania',
-		'Serbia',
-		'Montenegro',
-		'Macedonia',
-		'Slovakia',
-		'Slovenia',
-		'Lithuania',
-		'Latvia',
-		'Bosnia and Herzegovina',
-		'Croatia',
-		'Morocco',
-		'Ethiopia',
-		'Tanzania',
-		'Madagascar',
-		'Kenya',
-		'United States',
-		'Ecuador',
-		'Alaska',
-		'Namibia',
-		'México',
-		'Cuba',
-		'Belize',
-		'São Paulo, Brazil'
+	var cities_coordinates = [
+		['Sorocaba, Brazil', -23.5015338, -47.45259440000001],
+		['New Zealand', -40.900557, 174.88597100000004],
+		['Australia', -25.274398, 133.77513599999997],
+		['Indonesia', -0.789275, 113.92132700000002],
+		['Philippines', 12.879721, 121.77401699999996],
+		['Japan', 36.204824, 138.252924],
+		['China', 35.86166, 104.19539699999996],
+		['Bhutan', 27.514162, 90.43360099999995],
+		['Nepal', 28.394857, 84.124008],
+		['India', 20.593684, 78.96288000000004],
+		['Sri Lanka', 7.873053999999999, 80.77179699999999],
+		['Turkey', 38.963745, 35.243322000000035],
+		['Greece', 39.074208, 21.824311999999964],
+		['Egypt', 26.820553, 30.802498000000014],
+		['Bulgaria', 42.733883, 25.485829999999964],
+		['Romania', 45.943161, 24.966760000000022],
+		['Serbia', 44.016521, 21.005858999999987],
+		['Montenegro', 42.708678, 19.37438999999995],
+		['Macedonia', 41.608635, 21.745274999999992],
+		['Slovakia', 48.669026, 19.69902400000001],
+		['Slovenia', 46.151241, 14.995462999999972],
+		['Lithuania', 55.169438, 23.88127499999996],
+		['Latvia', 56.879635, 24.60318899999993],
+		['Bosnia and Herzegovina', 43.915886, 17.67907600000001],
+		['Croatia', 45.1, 15.200000000000045],
+		['Morocco', 31.791702, -7.092620000000011],
+		['Ethiopia', 9.145000000000001, 40.48967300000004],
+		['Tanzania', -6.369028, 34.888822000000005],
+		['Madagascar', -18.766947, 46.869106999999985],
+		['Kenya', -0.023559, 37.90619300000003],
+		['United States', 37.09024, -95.71289100000001],
+		['Ecuador', -1.831239, -78.18340599999999],
+		['Alaska', 64.2008413, -149.4936733],
+		['Namibia', -22.95764, 18.490409999999997],
+		['México', 23.634501, -102.55278399999997],
+		['Cuba', 21.521757, -77.78116699999998],
+		['Belize', 17.189877, -88.49765000000002],
+		['São Paulo, Brazil', -23.5505199, -46.63330939999997]
 	];
 
-	var cities_coordinates = [];
-
+	var messages = {};
+	{% for location in site.data.timeline %}
+	messages['{{ location[0] }}'] = [];
+	{% for msg in location[1] %}
+	messages['{{ location[0] }}'].push({ date: '{{ msg.date }}', msg: '{{ msg.message }}' });
+	{% endfor %}
+	{% endfor %}
 
 	function draw_travel_path(map) {
-		if (cities_coordinates.length == cities.length &&
-			cities_coordinates.every(function(element, index, array) {
-				return element !== 'None';
-			}))
-		{
-			var icon = {
-			    url: '{{ site.baseurl }}/assets/images/patinha-marker-icon-40x49.png',
-			    scaledSize: new google.maps.Size(40, 49),
-			    origin: new google.maps.Point(0,0),
-			    anchor: new google.maps.Point(20,45)
-			};
+		var icon = {
+		    url: '{{ site.baseurl }}/assets/images/patinha-yellow-black.png',
+		    scaledSize: new google.maps.Size(40, 49),
+		    origin: new google.maps.Point(0,0),
+		    anchor: new google.maps.Point(20,45)
+		};
 
-			for (let i = 0; i < cities_coordinates.length; ++i) {
-				let city_marker = new google.maps.Marker({
-					position: cities_coordinates[i],
-					icon: icon,
-					map: map
+		for (let i = 0; i < cities_coordinates.length; ++i) {
+			let lat = cities_coordinates[i][1];
+			let lng = cities_coordinates[i][2];
+
+			let city = cities_coordinates[i][0];
+
+			let location_marker = new google.maps.Marker({
+				position: { lat: lat, lng: lng },
+				icon: icon,
+				map: map,
+				title: city
+			});
+
+			if (city in messages) {
+				let city_messages = messages[city];
+				console.log(city_messages);
+				let contentString = '<div id="' + city +'" class="timeline-infowindow">'+
+				      '<div class="siteNotice">'+
+				      '</div>'+
+				      '<h1 class="firstHeading">'+ city + '</h1>'+
+				      '<div class="bodyContent">';
+				for (let j = 0; j < city_messages.length; ++j) {
+					let date = city_messages[j]['date'];
+					let msg = city_messages[j]['msg'];
+					contentString += '<div id="' + city + '#' + j + '"><h3>' + date + '</h3>' +
+									 '<p>' + msg + '</p></div>';
+				}
+				contentString +='</div>'+'</div>';
+
+				console.log(city);
+				console.log(contentString);
+
+				let infowindow = new google.maps.InfoWindow({
+					content: contentString
+				});
+
+				location_marker.addListener('click', function() {
+					infowindow.open(map, location_marker);
 				});
 			}
-
-			for (let i = 1; i < cities_coordinates.length; ++i) {
-				let from = cities_coordinates[i-1];
-				let to   = cities_coordinates[i];
-				let travel_path = new google.maps.Polyline({
-					path: [from, to],
-					geodesic: false,
-					strokeColor: '#e74c3c',
-					strokeOpacity: 1.0,
-					strokeWeight: 2,
-					icons: [{
-						icon: {path: google.maps.SymbolPath.FORWARD_CLOSED_ARROW},
-						offset: '50%',
-						// repeat: '25%'
-					}]
-		        });
-				travel_path.setMap(map);
-			}
 		}
-		else {
-			window.setTimeout(function() {
-				draw_travel_path(map);
-		    }, 1000);
+
+		for (let i = 1; i < cities_coordinates.length; ++i) {
+			let from = { lat: cities_coordinates[i-1][1], lng: cities_coordinates[i-1][2] };
+			let to   = { lat: cities_coordinates[i][1],   lng: cities_coordinates[i][2]   };
+			let travel_path = new google.maps.Polyline({
+				path: [from, to],
+				geodesic: false,
+				strokeColor: '#f1c40f',
+				strokeOpacity: 1.0,
+				strokeWeight: 2,
+				icons: [{
+					icon: {path: google.maps.SymbolPath.FORWARD_CLOSED_ARROW},
+					offset: '50%',
+					// repeat: '25%'
+				}]
+	        });
+	        travel_path.setMap(map);
 		}
 	}
 
 	function initMap() {
 
-		var geocoder = new google.maps.Geocoder();
-		for (let i = 0; i < cities.length; ++i) {
-			cities_coordinates.push('None');
-			window.setTimeout(function() {
-				geocoder.geocode( { 'address': cities[i] }, function(results, status) {
-					if (status == 'OK') {
-						cities_coordinates[i] = results[0].geometry.location;
-						console.log('iteration #' + i + ' / ' + cities_coordinates.length);
-						console.log(cities[i]);
-						console.log(cities_coordinates[i]);
-					}
-					else {
-						cities_coordinates[i] = { error: status };
-						var error_msg = 'Geocode was not successful for the following reason: ' + status;
-						console.log(error_msg);
-						alert(error_msg);
-					}
-				});
-			}, i*cities.length/40*1000);
-		}
-
 		var sp = { lat: -23.550520, lng: -46.633309 };
 		var map = new google.maps.Map(document.getElementById('map'), {
 			center: sp,
 			zoom: 2,
+			scrollwheel: false,
 			styles: [
 				  {
 				    "elementType": "geometry",
@@ -354,9 +362,7 @@ title: Amanda's Blog · Linha do Tempo & Mapa
 				]
 		});
 
-		draw_travel_path(map);
-
-		alert('Say you love me! And please wait a few seconds...');
+		window.setTimeout(draw_travel_path(map), 2000);
 	}
 </script>
 

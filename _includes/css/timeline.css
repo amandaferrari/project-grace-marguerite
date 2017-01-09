@@ -1,0 +1,19 @@
+.timeline-infowindow .bodyContent {
+	overflow: scroll;
+	max-height: 200px;
+}
+
+.timeline-infowindow h1 {
+	font-family: 'Waiting for the Sunrise', cursive;
+	font-size: 2em;
+}
+
+.timeline-infowindow h3 {
+	font-family: "Bitter", serif;
+	font-size: 1.2em;
+}
+
+.timeline-infowindow p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 0.9em;
+}
