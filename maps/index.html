@@ -5,46 +5,75 @@ title: Amanda's Blog · Mapa
 
 <div id="map"></div>
 
+<!-- Modal -->
+<div class="modal fade show" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <img src="{{ site.baseurl }}/assets/images/thumbnail.jpg" alt="" class="myphoto img-circle pull-left" width="50px" height="50px">
+        <h1 class="modal-title" id="myModalLabel">Olá pessoal!</h1>
+        <img class="footprint" src="{{ site.baseurl }}/assets/images/2patinhas.png" alt="">
+      </div>
+      <div class="modal-body">
+      	<p>
+      	Aqui eu vou deixar mais alguns rastros da minha passagem nas cidades desse mapa!
+      	</p>
+      	<p>Clique nesse <img src="{{ site.baseurl }}/assets/images/patinha-yellow-black.png" alt=""> e se divirtam com minhas pegadas filosóficas!
+      	</p>
+      </div>
+      <div class="modal-footer">
+	      <footer class="made-with-love">
+			<p class="pull-left">
+				RASTROS &middot; Copyleft <span class="copyleft-symbol">&copy;</span> 2017
+				&middot;
+				Feito com <span class="glyphicon glyphicon-heart"></span> por Chico & Chica
+			</p>
+		</footer>
+        <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 <script>
+	$(window).load(function(){
+	    $('#myModal').modal('show');
+	});
+
 	var cities_coordinates = [
-		['Sorocaba, Brazil', -23.5015338, -47.45259440000001],
-		['New Zealand', -40.900557, 174.88597100000004],
-		['Australia', -25.274398, 133.77513599999997],
-		['Indonesia', -0.789275, 113.92132700000002],
-		['Philippines', 12.879721, 121.77401699999996],
-		['Japan', 36.204824, 138.252924],
-		['China', 35.86166, 104.19539699999996],
-		['Bhutan', 27.514162, 90.43360099999995],
-		['Nepal', 28.394857, 84.124008],
-		['India', 20.593684, 78.96288000000004],
-		['Sri Lanka', 7.873053999999999, 80.77179699999999],
-		['Turkey', 38.963745, 35.243322000000035],
-		['Greece', 39.074208, 21.824311999999964],
-		['Egypt', 26.820553, 30.802498000000014],
-		['Bulgaria', 42.733883, 25.485829999999964],
-		['Romania', 45.943161, 24.966760000000022],
-		['Serbia', 44.016521, 21.005858999999987],
-		['Montenegro', 42.708678, 19.37438999999995],
-		['Macedonia', 41.608635, 21.745274999999992],
-		['Slovakia', 48.669026, 19.69902400000001],
-		['Slovenia', 46.151241, 14.995462999999972],
-		['Lithuania', 55.169438, 23.88127499999996],
-		['Latvia', 56.879635, 24.60318899999993],
-		['Bosnia and Herzegovina', 43.915886, 17.67907600000001],
-		['Croatia', 45.1, 15.200000000000045],
-		['Morocco', 31.791702, -7.092620000000011],
-		['Ethiopia', 9.145000000000001, 40.48967300000004],
-		['Tanzania', -6.369028, 34.888822000000005],
-		['Madagascar', -18.766947, 46.869106999999985],
-		['Kenya', -0.023559, 37.90619300000003],
-		['United States', 37.09024, -95.71289100000001],
-		['Ecuador', -1.831239, -78.18340599999999],
-		['Alaska', 64.2008413, -149.4936733],
-		['Namibia', -22.95764, 18.490409999999997],
-		['México', 23.634501, -102.55278399999997],
-		['Cuba', 21.521757, -77.78116699999998],
-		['Belize', 17.189877, -88.49765000000002],
-		['São Paulo, Brazil', -23.5505199, -46.63330939999997]
+		['Sorocaba, Brazil', -23.5015338, -47.45259440000001, 'br' ],
+		['Sri Lanka', 7.873053999999999, 80.77179699999999, 'lk'],
+		['India', 20.593684, 78.96288000000004, 'in'],
+		['Nepal', 28.394857, 84.124008, 'np'],
+		['Bhutan', 27.514162, 90.43360099999995, 'bh'],
+		['Japan', 36.204824, 138.252924, 'jp'],
+		['China', 35.86166, 104.19539699999996, 'ch'],
+		['Philippines', 12.879721, 121.77401699999996, 'ph'],
+		['Indonesia', -0.789275, 113.92132700000002, 'id'],
+		['New Zealand', -40.900557, 174.88597100000004, 'nz'],
+		['Australia', -25.274398, 133.77513599999997, 'au'],
+		['Namibia', -22.95764, 18.490409999999997, 'nb'],
+		['Tanzania', -6.369028, 34.888822000000005, 'tz'],
+		['Kenya', -0.023559, 37.90619300000003, 'kn'],
+		['Ethiopia', 9.145000000000001, 40.48967300000004, 'et'],
+		['Egypt', 26.820553, 30.802498000000014, 'eg'],
+		['Turkey', 38.963745, 35.243322000000035, 'tk'],
+		['Greece', 39.074208, 21.824311999999964, 'ge'],
+		['Croatia', 45.1, 15.200000000000045, 'cr'],
+		['Serbia', 44.016521, 21.005858999999987, 'sb'],
+		['Montenegro', 42.708678, 19.37438999999995, 'me'],
+		['Macedonia', 41.608635, 21.745274999999992, 'mk'],
+		['Slovenia', 46.151241, 14.995462999999972, 'si'],
+		['Bosnia and Herzegovina', 43.915886, 17.67907600000001, 'ba'],
+		['Germany',51.165691, 10.451526, 'de'],
+		['Spain', 40.463667, -3.74922, 'es'],
+		['Canada', 56.130366, -106.346771, 'ca'],
+		['United States', 37.09024, -95.71289100000001, 'us'],
+		['México', 23.634501, -102.55278399999997, 'mx'],
+		['Belize', 17.189877, -88.49765000000002, 'bz'],
+		['Cuba', 21.521757, -77.78116699999998, 'cu'],
+		['Ecuador', -1.831239, -78.18340599999999, 'ec'],
+		['São Paulo, Brazil', -23.5505199, -46.63330939999997, 'br']
 	];
 
 	var messages = {};
@@ -78,11 +107,16 @@ title: Amanda's Blog · Mapa
 
 			if (city in messages) {
 				let city_messages = messages[city];
+				let country_code = cities_coordinates[i][3];
+
 				console.log(city_messages);
+				console.log(country_code);
+
 				let contentString = '<div id="' + city +'" class="timeline-infowindow">'+
 				      '<div class="siteNotice">'+
 				      '</div>'+
-				      '<h1 class="firstHeading">'+ city + '</h1>'+
+				      '<h1 class="firstHeading">'+ city + 
+				      '<img src="{{ site.baseurl }}/assets/images/blank.png" class="flag-big flag-' + country_code + '" alt="" />' + '</h1>'+
 				      '<div class="bodyContent">';
 				for (let j = 0; j < city_messages.length; ++j) {
 					let date = city_messages[j]['date'];
