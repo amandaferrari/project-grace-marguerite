@@ -3,10 +3,8 @@ layout: default
 title: Amanda's Blog · Mapa
 ---
 
-<div id="map"></div>
-
 <!-- Modal -->
-<div class="modal fade show" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -24,7 +22,7 @@ title: Amanda's Blog · Mapa
       <div class="modal-footer">
 	      <footer class="made-with-love">
 			<p class="pull-left">
-				RASTROS &middot; Copyleft <span class="copyleft-symbol">&copy;</span> 2017
+				Copyleft <span class="copyleft-symbol">&copy;</span> 2017
 				&middot;
 				Feito com <span class="glyphicon glyphicon-heart"></span> por Chico & Chica
 			</p>
@@ -34,6 +32,8 @@ title: Amanda's Blog · Mapa
     </div>
   </div>
 </div>
+
+<div id="map"></div>
 
 <script>
 	$(window).load(function(){
@@ -45,7 +45,7 @@ title: Amanda's Blog · Mapa
 		['Sri Lanka', 7.873053999999999, 80.77179699999999, 'lk'],
 		['India', 20.593684, 78.96288000000004, 'in'],
 		['Nepal', 28.394857, 84.124008, 'np'],
-		['Bhutan', 27.514162, 90.43360099999995, 'bh'],
+		['Bhutan', 27.514162, 90.43360099999995, 'bt'],
 		['Japan', 36.204824, 138.252924, 'jp'],
 		['China', 35.86166, 104.19539699999996, 'ch'],
 		['Philippines', 12.879721, 121.77401699999996, 'ph'],
@@ -97,6 +97,7 @@ title: Amanda's Blog · Mapa
 			let lng = cities_coordinates[i][2];
 
 			let city = cities_coordinates[i][0];
+			let country_code = cities_coordinates[i][3];
 
 			let location_marker = new google.maps.Marker({
 				position: { lat: lat, lng: lng },
@@ -105,38 +106,33 @@ title: Amanda's Blog · Mapa
 				title: city
 			});
 
+			let city_messages = [];
 			if (city in messages) {
-				let city_messages = messages[city];
-				let country_code = cities_coordinates[i][3];
-
-				console.log(city_messages);
-				console.log(country_code);
-
-				let contentString = '<div id="' + city +'" class="timeline-infowindow">'+
-				      '<div class="siteNotice">'+
-				      '</div>'+
-				      '<h1 class="firstHeading">'+ city + 
-				      '<img src="{{ site.baseurl }}/assets/images/blank.png" class="flag-big flag-' + country_code + '" alt="" />' + '</h1>'+
-				      '<div class="bodyContent">';
-				for (let j = 0; j < city_messages.length; ++j) {
-					let date = city_messages[j]['date'];
-					let msg = city_messages[j]['msg'];
-					contentString += '<div id="' + city + '#' + j + '"><h3>' + date + '</h3>' +
-									 '<p>' + msg + '</p></div>';
-				}
-				contentString +='</div>'+'</div>';
-
-				console.log(city);
-				console.log(contentString);
-
-				let infowindow = new google.maps.InfoWindow({
-					content: contentString
-				});
-
-				location_marker.addListener('click', function() {
-					infowindow.open(map, location_marker);
-				});
+				city_messages = messages[city];
 			}
+
+			let contentString = '<div id="' + city +'" class="timeline-infowindow">'+
+			      '<div class="siteNotice">'+
+			      '</div>'+
+			      '<h1 class="firstHeading">' + city + '</h1>' +
+			      '<img src="{{ site.baseurl }}/assets/images/blank.png" class="flag-big flag-' + country_code + '" alt="" />' +
+			      '<div class="bodyContent">';
+			for (let j = 0; j < city_messages.length; ++j) {
+				let date = city_messages[j]['date'];
+				let msg = city_messages[j]['msg'];
+				contentString += '<div class="message" id="' + city + '#' + j + '"><h3>' + date + '</h3>' +
+								 '<p>' + msg + '</p></div>';
+			}
+			contentString +='</div>'+'</div>';
+
+
+			let infowindow = new google.maps.InfoWindow({
+				content: contentString
+			});
+
+			location_marker.addListener('click', function() {
+				infowindow.open(map, location_marker);
+			});
 		}
 
 		for (let i = 1; i < cities_coordinates.length; ++i) {

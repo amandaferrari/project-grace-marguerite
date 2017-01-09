@@ -1,28 +1,43 @@
 .timeline-infowindow .bodyContent {
-	overflow: scroll;
+	overflow-y: scroll;
 	max-height: 200px;
+	max-width: 450px;
+	min-width: 350px;
 }
 
 .timeline-infowindow h1 {
 	font-family: 'Waiting for the Sunrise', cursive;
 	font-size: 2em;
+	margin-left: 50px;
+	color: #2980b9;
 }
 
 .timeline-infowindow img {
-	float: left;
 	position: absolute;
-    margin-left: 20px;
     top: 15px;
 }
 
+.timeline-infowindow .message {
+	border-bottom: 1px solid #bdc3c7;
+	padding-bottom: 20px;
+}
+
+.timeline-infowindow .message:last-child {
+	border: none;
+}
+
 .timeline-infowindow h3 {
+	float: right;
 	font-family: "Bitter", serif;
 	font-size: 1.2em;
+	color: #2980b9;
 }
 
 .timeline-infowindow p {
 	font-family: 'Open Sans Condensed', sans-serif;
-	font-size: 0.9em;
+	font-size: 1.3em;
+	clear: both;
+	font-weight: bolder;
 }
 
 .modal-content {
