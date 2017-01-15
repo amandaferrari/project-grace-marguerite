@@ -65,6 +65,12 @@ layout: default
 		</div>
 	</article>
 
+	<section>
+	{% if page.comments %}
+	{% include disqus.html %}
+	{% endif %}
+	</section>
+
 	<footer class="container-fluid made-with-love">
 		<p class="text-center">
 			Copyleft <span class="copyleft-symbol">&copy;</span> 2017

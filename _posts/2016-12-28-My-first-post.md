@@ -7,6 +7,7 @@ tags: ['Iceland', 'Dive']
 image: post1.jpg
 country-code: is
 country: Iceland
+comments: true
 ---
 
 This is my [travel blog](https://amandaferrari.github.io/project-grace-marguerite/).
