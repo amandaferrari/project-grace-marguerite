@@ -6,6 +6,7 @@ tags: ['Travel', 'Waterfall', 'Iceland']
 image: post2.jpg
 country-code: br
 country: Brasil
+comments: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

@@ -6,6 +6,7 @@ tags: ['Iceland', 'Volcano']
 image: post3.jpg
 country-code: fr
 country: France
+comments: true
 ---
 
 <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto perferendis doloremque eaque nam totam! Atque labore beatae eveniet illo aspernatur et alias quidem, ipsum assumenda, reprehenderit, sint doloremque inventore mollitia!</div>

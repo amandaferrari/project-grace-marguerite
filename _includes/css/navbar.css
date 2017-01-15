@@ -60,9 +60,12 @@
     }
 }
 
-.nav-post ul {
-	margin: 0;
+.nav-post {
+	margin-top: 30px;
 	margin-bottom: 50px;
+}
+
+.nav-post ul {
 	padding: 0;
 	list-style-type: none;
 }
