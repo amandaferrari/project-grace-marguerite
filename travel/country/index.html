@@ -24,6 +24,18 @@ title: Amanda's Blog · Países
 				<article class="recent-posts">
 					<header>
 						<h1>Posts por País</h1>
+						{% capture country_count %}
+						{% increment count %}
+						{% for country in site.data.country %}
+							{% assign posts = site.posts | where: "country", country[0] %}
+							{% if posts.size > 0 %}
+								{% increment count %}
+							{% endif %}
+						{% endfor %}
+						{% endcapture %}
+						{% assign country_total = country_count | split: ' ' | last %}
+						<p></p>
+						<p>{{ site.posts.size }} posts em {{ country_total }} países.</p>
 					</header>
 					<main>{% include country-list.html %}</main>
 				</article>
