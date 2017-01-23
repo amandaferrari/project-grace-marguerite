@@ -1,0 +1,33 @@
+---
+layout: default
+title: Amanda's Blog · Países
+---
+
+<header>{% include navbar.html %}</header>
+
+<main>
+	<section id="flags">
+		<div class="container-fluid">
+			<div class="row">
+			{% for flag in site.data.country %}
+				<div class="col-md-3">
+					<a href="#{{ flag[0] }}" data-toggle="tooltip" data-placement="top" title="{{ flag[0] }}""><img src="{{ site.baseurl }}/assets/images/flags/{{ flag[1] }}" alt="{{ flag[0] }}"></a>
+				</div>
+			{% endfor %}
+			</div>
+		</div>
+	</section>
+	<section id="posts-by-country">
+		<div id="country-post-list" class="">
+			<!-- <div class="black-overlay"></div> -->
+			<div class="timeline col-md-offset-1 col-md-10">
+				<article class="recent-posts">
+					<header>
+						<h1>Posts por País</h1>
+					</header>
+					<main>{% include country-list.html %}</main>
+				</article>
+			</div>
+		</div>
+	</section>
+</main>

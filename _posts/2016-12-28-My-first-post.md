@@ -3,11 +3,11 @@ layout: post
 title: My first post
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 category: travel
-tags: ['Iceland', 'Dive']
+tags: ['Adventure', 'Dive',  'Sports']
 image: post1.jpg
 image-description: Tirado em Silfra, mergulho entre Eurásia e América do Norte.
-country-code: is
-country: Iceland
+country-code: br
+country: Brasil
 comments: true
 ---
 

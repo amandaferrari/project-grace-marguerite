@@ -2,7 +2,7 @@
 layout: post
 title: My unsupervisioned post
 category: travel
-tags: ['Iceland', 'Waterfall']
+tags: ['Adventure', 'Waterfall']
 image: post4.jpg
 image-description: Detifoss, que medo!
 country-code: cn
