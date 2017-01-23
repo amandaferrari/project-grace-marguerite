@@ -14,6 +14,7 @@
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
 	<div id="{{ this_word }}" class="tag-list">
 		<h2 class="tag">{{ this_word }}</h2>
+		<p>{{ site.tags[this_word] | size }} posts.</p>
 		<ul class="post-list">
 		{% for post in site.tags[this_word] %}
 			<li>
