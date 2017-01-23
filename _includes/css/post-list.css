@@ -12,7 +12,6 @@
 .timeline {
 	color: white;
 	min-height: 100vh;
-	padding-right: 50px;
 	z-index: 100;
 }
 
@@ -53,7 +52,7 @@
 }
 
 .recent-posts {
-	min-width: 400px;
+	/*min-width: 400px;*/
 }
 
 .recent-posts header {
@@ -97,16 +96,12 @@ img.patinha {
 	height: 40px;
 }
 
-/*
-li:nth-child(odd) img.patinha {
-	-ms-transform: rotate(10deg);
-    -webkit-transform: rotate(10deg);
-    transform: rotate(10deg);
-}
+@media (max-width: 480px) {
+	.timeline header h1 {
+		font-size: 2.0em;
+	}
 
-li:nth-child(even) img.patinha {
-	-ms-transform: rotate(-10deg);
-    -webkit-transform: rotate(-10deg);
-    transform: rotate(-10deg);
+	img.patinha {
+		margin-right: 20px;
+	}
 }
-*/
