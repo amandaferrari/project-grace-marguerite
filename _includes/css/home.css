@@ -84,3 +84,9 @@
 	font-size: 1.0em;
 	font-family: 'Open Sans Condensed', sans-serif;
 }
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	.highlighted-post:last-child {
+		display: none;
+	}
+}
