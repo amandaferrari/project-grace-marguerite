@@ -76,8 +76,14 @@
 .post-call-text a {
 	color: white;
 	font-family: "Bitter", serif;
-	text-decoration: underline;
-	font-size: 1.5em;
+	border-bottom: solid 1px white;
+	font-size: 2.2rem;
+	font-weight: 500;
+	line-height: 3rem;
+}
+
+.post-call-text a:hover {
+	text-decoration: none;
 }
 
 .post-call-text a.tag-link {
