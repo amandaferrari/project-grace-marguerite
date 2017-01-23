@@ -15,8 +15,6 @@
 
 .navbar button.close {
 	position: absolute;
-	top: 10px;
-	right: 30px;
 	color: white;
 	z-index: 100;
 	font-size: 2em;
@@ -49,6 +47,13 @@
 
 .navbar-nav>li:last-child {
 	padding-bottom: 15px;
+}
+
+@media (max-width: 767px) {
+	.navbar button.close {
+		top: 10px;
+		right: 30px;
+	}
 }
 
 @media (min-width: 768px) {
