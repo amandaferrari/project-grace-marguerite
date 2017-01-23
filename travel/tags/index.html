@@ -11,7 +11,10 @@ title: Amanda's Blog · Tags
 			<div class="full-black-overlay"></div>
 			<div class="timeline col-md-offset-2 col-md-8">
 				<article class="recent-posts">
-					<header><h1>Postagens por Tags</h1></header>
+					<header>
+						<h1>Posts por Tags</h1>
+						<p>{{ site.posts.size }} posts em {{ site.tags.size }} tags.</p>
+					</header>
 					<main>{% include tag-list.html %}</main>
 				</article>
 			</div>
