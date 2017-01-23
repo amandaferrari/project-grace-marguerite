@@ -44,7 +44,7 @@
 }
 
 .navbar-nav>li:first-child {
-	padding-top: 15px;
+	padding-top: 5px;
 }
 
 .navbar-nav>li:last-child {
@@ -59,7 +59,7 @@
 
 	.navbar button.close {
 		left: 15px;
-		right: 20px;
+		top: 20px;
 	}
 }
 
