@@ -4,6 +4,7 @@ title: My second awesome post
 category: travel
 tags: ['Travel', 'Waterfall', 'Iceland']
 image: post2.jpg
+image-description: Tirada em Detifoss, a maior cachoira da Europa.
 country-code: br
 country: Brasil
 comments: true

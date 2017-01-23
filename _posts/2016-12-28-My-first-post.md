@@ -5,6 +5,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
 category: travel
 tags: ['Iceland', 'Dive']
 image: post1.jpg
+image-description: Tirado em Silfra, mergulho entre Eurásia e América do Norte.
 country-code: is
 country: Iceland
 comments: true

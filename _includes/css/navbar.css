@@ -106,3 +106,9 @@
 	color: #2980b9;
 	text-decoration: underline;
 }
+
+@media (max-width: 380px) {
+	.nav-post li {
+		font-size: 1.0em;
+	}
+}

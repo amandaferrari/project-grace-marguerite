@@ -4,6 +4,7 @@ title: My Supervisioned Post
 category: travel
 tags: ['Iceland', 'Volcano']
 image: post3.jpg
+image-description: Tirada por meu irmão querido em Kafla, complexo de vulcões na Islândia.
 country-code: fr
 country: France
 comments: true
