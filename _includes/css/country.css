@@ -10,9 +10,10 @@
 }
 
 #flags img {
-	width: calc(50vw/5);
-	height: calc(50vw/10);
+	width: calc(50vw/5 - 10px);
+	height: calc(50vw/10 - 15px);
 	margin: 5px;
+	margin-top: 20px;
 }
 
 #posts-by-country {
