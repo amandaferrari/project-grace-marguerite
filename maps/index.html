@@ -22,7 +22,7 @@ title: Amanda's Blog · Mapa
 		<p>Aqui vou deixar mais alguns rastros da minha passagem por algumas cidades desse mapa. </p>
 		<p>Os marcadores em amarelo representam o planejamento inicial da minha pequena volta ao mundo. Os ícones em verde representam os países pelos quais já passei.</p>
 		<p>Ao longo dos próximos meses vou preenchendo cada janelinha com pequenos textos com curiosidades e reflexões sobre esses lugares.</p>
-		<p>Clique nesse <img src="{{ site.baseurl }}/assets/images/patinha-yellow-black.png" alt=""> e divirtam-se com as minhas pegadas filosóficas.</p>
+		<p>Clique nesse <img src="{{ site.baseurl }}/assets/images/patinhamarker.png" alt=""> e divirtam-se com as minhas pegadas filosóficas.</p>
 	</div>
       <div class="modal-footer">
 	      <footer class="made-with-love">
@@ -91,10 +91,10 @@ title: Amanda's Blog · Mapa
 
 	function draw_travel_path(map) {
 		var icon = {
-		    url: '{{ site.baseurl }}/assets/images/patinha-yellow-black.png',
-		    scaledSize: new google.maps.Size(40, 49),
+		    url: '{{ site.baseurl }}/assets/images/patinhamarker.png',
+		    scaledSize: new google.maps.Size(31, 49),
 		    origin: new google.maps.Point(0,0),
-		    anchor: new google.maps.Point(20,45)
+		    anchor: new google.maps.Point(15,45)
 		};
 
 		for (let i = 0; i < cities_coordinates.length; ++i) {
@@ -399,6 +399,9 @@ title: Amanda's Blog · Mapa
 				  }
 				]
 		});
+
+		map.setOptions({ draggableCursor : "url({{site.baseurl}}/assets/images/1patinha24x24.png), auto" });
+		map.setOptions({ draggingCursor : "url({{site.baseurl}}/assets/images/1patinha16x16.png), auto" });
 
 		window.setTimeout(draw_travel_path(map), 2000);
 	}
