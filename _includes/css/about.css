@@ -5,6 +5,21 @@
 	color: white;
 }
 
+#social-icons {
+	list-style-type: none;
+	padding-left: 25px;
+}
+
+#social-icons li {
+	display: inline-block;
+	padding-right: 15px;
+}
+
+#social-icons i {
+	font-size: 2.5em;
+	color: white;
+}
+
 .side-photos {
 	height: 33.333vh;
 	width: 33.333vh;
