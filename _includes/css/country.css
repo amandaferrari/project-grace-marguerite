@@ -17,10 +17,12 @@
 
 #posts-by-country {
 	width: 50.1%;
-	background-color: rgba(0,0,0,1);;
+	background: #000 url({{site.baseurl}}/assets/images/fumacinha.jpg) no-repeat center center;
+	background-size: cover;
 	position: fixed;
 	top: 0;
 	right: 0;
+
 }
 
 @media (max-width: 980px) {
@@ -31,5 +33,6 @@
 	#posts-by-country {
 		margin: 0 auto;
 		width: 100%;
+
 	}
 }
