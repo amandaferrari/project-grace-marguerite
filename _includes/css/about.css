@@ -18,6 +18,11 @@
 	color: white;
 }
 
+#me1 blockquote {
+	/*font-family: 'Waiting for the Sunrise', cursive;*/
+	font-size: 1.3em;
+}
+
 #me2 {
 	background: #000 url({{ site.baseurl }}/assets/images/me2.jpg) no-repeat center center;
 	background-size: cover;
@@ -41,7 +46,7 @@
 	}
 
 	#me1 {
-		width: 50%;
+		width: 60%;
 		margin: 0 auto;
 		padding-top: 30vh;
 	}
@@ -100,6 +105,10 @@
 		margin: 0 auto;
 		padding-top: 30vh;
 		text-align: center;
+	}
+
+	blockquote {
+		border: 0;
 	}
 
 	#me1 h1 {

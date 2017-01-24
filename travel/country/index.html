@@ -13,7 +13,7 @@ title: Amanda's Blog · Países
 			{% assign posts = site.posts | where: "country", flag[0] %}
 				<div class="col-md-3">
 					{% if posts.size == 0 %}
-					<div class="black-overlay"></div>
+					<div class="dark-black-overlay"></div>
 					{% endif %}
 					<a href="#{{ flag[0] }}" data-toggle="tooltip" data-placement="top" title="{{ flag[0] }}""><img src="{{ site.baseurl }}/assets/images/flags/{{ flag[1] }}" alt="{{ flag[0] }}"></a>
 					}

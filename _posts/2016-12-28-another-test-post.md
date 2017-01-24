@@ -5,8 +5,8 @@ category: travel
 tags: ['Adventure', 'Waterfall']
 image: post2.jpg
 image-description: Tirada em Detifoss, a maior cachoira da Europa.
-country-code: br
-country: Brasil
+country-code: lk
+country: Sri Lanka
 comments: true
 ---
 
