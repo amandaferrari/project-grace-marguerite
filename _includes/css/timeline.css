@@ -3,6 +3,7 @@
 	max-height: 200px;
 	max-width: 450px;
 	min-width: 300px;
+	padding-right: 15px;
 }
 
 .timeline-infowindow h1 {
@@ -38,6 +39,7 @@
 	font-size: 1.3em;
 	clear: both;
 	font-weight: bolder;
+	margin-left: 50px;
 }
 
 .modal-content {

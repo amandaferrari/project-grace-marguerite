@@ -3,3 +3,18 @@
 	height: 100%;
 	width: 100%;
 }
+
+#rastros-logo {
+	position: fixed;
+	bottom: 40px;
+	left: 40px;
+	width: 200px;
+	/*height: 140px;*/
+	z-index: 100;
+}
+
+.timeline-infowindow .message img.avatar-msg {
+	position: relative;
+	top: 40px;
+	width: 40px;
+}

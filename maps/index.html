@@ -5,6 +5,10 @@ title: Amanda's Blog · Mapa
 
 <header>{% include navbar.html %}</header>
 
+<footer>
+	<img id="rastros-logo" src="{{ site.baseurl }}/assets/images/rastros/rastros-colorida.png" alt="">
+</footer>
+
 <!-- Modal -->
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
@@ -15,11 +19,11 @@ title: Amanda's Blog · Mapa
         <img class="footprint" src="{{ site.baseurl }}/assets/images/2patinhas.png" alt="">
       </div>
       <div class="modal-body">
-				<p>Aqui vou deixar mais alguns rastros da minha passagem por algumas cidades desse mapa. </p>
-				<p>Os marcadores em amarelo representam o planejamento inicial da minha pequena volta ao mundo. Os ícones em verde representam os países pelos quais já passei.</p>
-				<p>Ao longo dos próximos meses vou preenchendo cada janelinha com pequenos textos com curiosidades e reflexões sobre esses lugares.</p>
-				<p>Clique nesse <img src="{{ site.baseurl }}/assets/images/patinha-yellow-black.png" alt=""> e divirtam-se com as minhas pegadas filosóficas.</p>
-			</div>
+		<p>Aqui vou deixar mais alguns rastros da minha passagem por algumas cidades desse mapa. </p>
+		<p>Os marcadores em amarelo representam o planejamento inicial da minha pequena volta ao mundo. Os ícones em verde representam os países pelos quais já passei.</p>
+		<p>Ao longo dos próximos meses vou preenchendo cada janelinha com pequenos textos com curiosidades e reflexões sobre esses lugares.</p>
+		<p>Clique nesse <img src="{{ site.baseurl }}/assets/images/patinha-yellow-black.png" alt=""> e divirtam-se com as minhas pegadas filosóficas.</p>
+	</div>
       <div class="modal-footer">
 	      <footer class="made-with-love">
 			<p class="pull-left">
@@ -121,8 +125,11 @@ title: Amanda's Blog · Mapa
 			for (let j = 0; j < city_messages.length; ++j) {
 				let date = city_messages[j]['date'];
 				let msg = city_messages[j]['msg'];
-				contentString += '<div class="message" id="' + city + '#' + j + '"><h3>' + date + '</h3>' +
-								 '<p>' + msg + '</p></div>';
+				contentString += '<div class="message" id="' + city + '#' + j + '">' + 
+									'<h3>' + date + '</h3>' + 
+									'<img class="avatar-msg" src="{{ site.baseurl }}/assets/images/rastros/avatar.png" alt="">' + 
+									'<p>' + msg + '</p>' + 
+								  '</div>';
 			}
 			contentString +='</div>'+'</div>';
 
