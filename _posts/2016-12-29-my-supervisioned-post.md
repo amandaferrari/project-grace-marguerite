@@ -5,8 +5,8 @@ category: travel
 tags: ['Adventure', 'Volcano']
 image: post3.jpg
 image-description: Tirada por meu irmão querido em Kafla, complexo de vulcões na Islândia.
-country-code: bt
-country: Butão
+country-code: gr
+country: Grécia
 comments: true
 ---
 
