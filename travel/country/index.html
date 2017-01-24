@@ -38,6 +38,7 @@ title: Amanda's Blog · Países
 							{% endif %}
 						{% endfor %}
 						{% endcapture %}
+						<p>{{ country_count }}</p>
 						{% assign country_total = country_count | split: ' ' | last %}
 						<p></p>
 						<p>{{ site.posts.size }} posts em {{ country_total }} países.</p>
