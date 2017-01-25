@@ -1,5 +1,5 @@
 #about-me-masthead {
-	background: #000 url({{ site.baseurl }}/assets/images/me1.jpg) no-repeat center center;
+	background: #000 url({{ site.baseurl }}/assets/images/photos/about/me1.jpg) no-repeat center center;
 	background-size: cover;
 	position: relative;
 	color: white;
@@ -39,17 +39,17 @@
 }
 
 #me2 {
-	background: #000 url({{ site.baseurl }}/assets/images/me2.jpg) no-repeat center center;
+	background: #000 url({{ site.baseurl }}/assets/images/photos/about/me2.jpg) no-repeat center center;
 	background-size: cover;
 }
 
 #me3 {
-	background: #000 url({{ site.baseurl }}/assets/images/me3.jpg) no-repeat center center;
+	background: #000 url({{ site.baseurl }}/assets/images/photos/about/me3.jpg) no-repeat center center;
 	background-size: cover;
 }
 
 #me4 {
-	background: #000 url({{ site.baseurl }}/assets/images/me4.jpg) no-repeat center center;
+	background: #000 url({{ site.baseurl }}/assets/images/photos/about/me4.jpg) no-repeat center center;
 	background-size: cover;
 }
 
