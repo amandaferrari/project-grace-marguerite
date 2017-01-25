@@ -14,15 +14,15 @@ title: Amanda's Blog · Mapa
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <img src="{{ site.baseurl }}/assets/images/thumbnail.jpg" alt="" class="myphoto img-circle pull-left" width="50px" height="50px">
+        <img src="{{ site.baseurl }}/assets/images/thumbnails/thumbnail.jpg" alt="" class="myphoto img-circle pull-left" width="50px" height="50px">
         <h1 class="modal-title" id="myModalLabel">Oi pessoal!</h1>
-        <img class="footprint" src="{{ site.baseurl }}/assets/images/2patinhas.png" alt="">
+        <img class="footprint" src="{{ site.baseurl }}/assets/images/icons/patinhas/2patinhas.png" alt="">
       </div>
       <div class="modal-body">
 		<p>Aqui vou deixar mais alguns rastros da minha passagem por algumas cidades desse mapa. </p>
 		<p>Os marcadores em amarelo representam o planejamento inicial da minha pequena volta ao mundo. Os ícones em verde representam os países pelos quais já passei.</p>
 		<p>Ao longo dos próximos meses vou preenchendo cada janelinha com pequenos textos com curiosidades e reflexões sobre esses lugares.</p>
-		<p>Clique nesse <img src="{{ site.baseurl }}/assets/images/patinhamarker.png" alt=""> e divirtam-se com as minhas pegadas filosóficas.</p>
+		<p>Clique nesse <img src="{{ site.baseurl }}/assets/images/icons/patinhas/patinhamarker.png" alt=""> e divirtam-se com as minhas pegadas filosóficas.</p>
 	</div>
       <div class="modal-footer">
 	      <footer class="made-with-love">
@@ -91,7 +91,7 @@ title: Amanda's Blog · Mapa
 
 	function draw_travel_path(map) {
 		var icon = {
-		    url: '{{ site.baseurl }}/assets/images/patinhamarker.png',
+		    url: '{{ site.baseurl }}/assets/images/icons/patinhas/patinhamarker.png',
 		    scaledSize: new google.maps.Size(31, 49),
 		    origin: new google.maps.Point(0,0),
 		    anchor: new google.maps.Point(15,45)
@@ -400,8 +400,8 @@ title: Amanda's Blog · Mapa
 				]
 		});
 
-		map.setOptions({ draggableCursor : "url({{site.baseurl}}/assets/images/1patinha24x24.png), auto" });
-		map.setOptions({ draggingCursor : "url({{site.baseurl}}/assets/images/1patinha16x16.png), auto" });
+		map.setOptions({ draggableCursor : "url({{site.baseurl}}/assets/images/icons/patinhas/1patinha24x24.png), auto" });
+		map.setOptions({ draggingCursor : "url({{site.baseurl}}/assets/images/icons/patinhas/1patinha16x16.png), auto" });
 
 		window.setTimeout(draw_travel_path(map), 2000);
 	}
