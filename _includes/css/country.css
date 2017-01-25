@@ -18,7 +18,7 @@
 
 #posts-by-country {
 	width: 50.1%;
-	background: #000 url({{site.baseurl}}/assets/images/fumacinha.jpg) no-repeat center center;
+	background: #000 url({{site.baseurl}}/assets/images/photos/country/fumacinha.jpg) no-repeat center center;
 	background-size: cover;
 	position: fixed;
 	top: 0;
