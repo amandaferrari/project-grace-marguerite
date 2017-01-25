@@ -5,7 +5,7 @@
 #masthead {
 	padding-top: 100px;
 	padding-bottom: 30px;
-	background: #000 url({{site.baseurl}}/assets/images/chapada.jpg) no-repeat fixed center;
+	background: #000 url({{site.baseurl}}/assets/images/photos/home/chapada.jpg) no-repeat fixed center;
 	background-size: cover;
 	color: white;
 	position: relative;
