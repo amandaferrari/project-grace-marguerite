@@ -8,7 +8,7 @@
     display: inline-block;
     width: 16px;
     height: 11px;
-    background: url({{ site.baseurl }}/assets/images/flags.png) no-repeat;
+    background: url({{ site.baseurl }}/assets/images/icons/flags/flags.png) no-repeat;
 }
 
 
@@ -1028,7 +1028,7 @@
     display: inline-block;
     width: 32px;
     height: 32px;
-    background: url({{ site.baseurl }}/assets/images/flags-big.png) no-repeat;
+    background: url({{ site.baseurl }}/assets/images/icons/flags/flags-big.png) no-repeat;
 }
 
 
