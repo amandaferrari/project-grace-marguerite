@@ -1,8 +1,8 @@
 ---
 layout: post
-title: My unsupervisioned post
+title: My post with a really long and stupid title! Oh crap!!!
 category: travel
-tags: ['Adventure', 'Waterfall']
+tags: ['Adventure', 'Waterfall', 'Freezing', 'Bla', 'Blabla', 'Blablabla']
 image: post4.jpg
 image-description: Detifoss, que medo!
 country-code: cn

@@ -118,6 +118,13 @@ img.patinha {
 	height: 40px;
 }
 
+.truncate {
+	min-width: 150px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
 @media (min-width: 768px) {
 	.timeline li a {
 		font-size: 1.2em;

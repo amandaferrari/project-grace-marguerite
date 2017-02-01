@@ -2,8 +2,8 @@
 	{% for post in site.posts %}
 		<li>
 			<img src="{{ site.baseurl }}/assets/images/icons/patinhas/1patinha.png" class="patinha img-circle pull-left">
-			<p><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></p>
-			<p>
+			<p class="truncate"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></p>
+			<p class="truncate">
 				{{ post.date | date_to_string }}
 				&middot;
 				<img src="{{ site.baseurl }}/assets/images/blank.png" class="flag flag-{{post.country-code}}" alt="{{post.country}}" />
