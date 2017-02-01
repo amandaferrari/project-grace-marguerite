@@ -56,11 +56,11 @@ layout: default
 							<li><a href="{{ site.baseurl }}/travel/tags">Tags</a></li>
 							<li><a href="{{ site.baseurl }}/maps">Mapas</a></li>
 							<li>
-								{% if page.previous.url %}
+							{% if page.previous.url %}
 							    <a href="{{ site.baseurl }}{{ page.previous.url }}" data-toggle="tooltip" data-placement="right" title="{{ page.previous.title }}"><span class="glyphicon glyphicon-menu-right"></span></a>
-							  {% else %}
-									<span class="glyphicon glyphicon-menu-right text-muted"></span>
-							  {% endif %}
+							{% else %}
+								<span class="glyphicon glyphicon-menu-right text-muted"></span>
+							{% endif %}
 							</li>
 						</ul>
 					</nav>
@@ -83,8 +83,16 @@ layout: default
 		<p class="text-center">
 			Copyleft <span class="copyleft-symbol">&copy;</span> 2017
 			&middot;
-			Feito com <span class="glyphicon glyphicon-heart"></span> por Chico & Chica
+			Feito com <span class="glyphicon glyphicon-heart"></span> por Chico &amp; Chica
 		</p>
 	</footer>
 
 </main>
+
+<script>
+	$(document).ready(function(){
+		if ($(this).width() > 500) {
+			$('[data-toggle="tooltip"]').tooltip();
+	    }
+	});
+</script>
