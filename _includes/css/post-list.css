@@ -1,5 +1,5 @@
 #travel-post-list {
-	background: #000 url({{ site.baseurl }}/assets/images/photos/posts/post1.jpg) no-repeat fixed center;
+	background: #000 url({{ site.baseurl }}/assets/images/photos/sheets/silfra.jpg) no-repeat fixed center;
 	background-size: cover;
 }
 
