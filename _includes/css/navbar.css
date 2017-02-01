@@ -102,7 +102,6 @@
 
 .nav-post li {
 	display: inline;
-	padding: 0 5px;
 	font-family: "Bitter", serif;
 	font-size: 1.3em;
 }
@@ -110,6 +109,16 @@
 .nav-post li a {
 	color: #2980b9;
 	text-decoration: underline;
+}
+
+.nav-post li a {
+	padding: 0 5px;
+}
+
+.nav-post li:nth-child(2):after,
+.nav-post li:nth-child(3):after,
+.nav-post li:nth-child(4):after {
+	content: ' · ';
 }
 
 @media (max-width: 380px) {

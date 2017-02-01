@@ -8,13 +8,15 @@ layout: default
 
 	<header class="container-fluid">
 		<div id="post-header" class="row">
-			<div class="post-image shadow" style="background: url({{ site.baseurl }}/assets/images/photos/posts/{{ page.image }}) no-repeat left center; background-size: cover">
-			</div>
+			<figure>
+				<div class="post-image shadow" style="background: url({{ site.baseurl }}/assets/images/photos/posts/{{ page.image }}) no-repeat center center; background-size: cover">
+				</div>
+				<figcaption class="post-image-description">{{ page.image-description }}</figcaption>
+			</figure>
 			<div class="light-black-overlay">
 				<div class="post-title">
 					<h1 class="text-center">{{ page.title }}</h1>
 				</div>
-				<p class="post-image-description">{{ page.image-description }}</p>
 				<footer>
 					<a href="{{ site.baseurl }}/#"><img id="rastros-marca" src="{{ site.baseurl }}/assets/images/rastros/rastros-colorida.png" alt=""></a>
 					<a href="{{ site.baseurl }}/#"><img id="rastros-avatar" src="{{ site.baseurl }}/assets/images/rastros/avatar.png" alt=""></a>
@@ -43,18 +45,15 @@ layout: default
 					<nav class="nav-post">
 						<ul class="center-block">
 							<li>
-								{% if page.next.url %}
-									<a href="{{ site.baseurl }}{{ page.next.url }}" data-toggle="tooltip" data-placement="left" title="{{ page.next.title }}"><span class="glyphicon glyphicon-menu-left"></span></a>
-								{% else %}
-									<span class="glyphicon glyphicon-menu-left text-muted"></span>
-							  {% endif %}
+							{% if page.next.url %}
+								<a href="{{ site.baseurl }}{{ page.next.url }}" data-toggle="tooltip" data-placement="left" title="{{ page.next.title }}"><span class="glyphicon glyphicon-menu-left"></span></a>
+							{% else %}
+								<span class="glyphicon glyphicon-menu-left text-muted"></span>
+							{% endif %}
 							</li>
 							<li><a href="{{ site.baseurl }}/#">Início</a></li>
-							<li>&middot;</li>
 							<li><a href="{{ site.baseurl }}/travel">Posts</a></li>
-							<li>&middot;</li>
 							<li><a href="{{ site.baseurl }}/travel/tags">Tags</a></li>
-							<li>&middot;</li>
 							<li><a href="{{ site.baseurl }}/maps">Mapas</a></li>
 							<li>
 								{% if page.previous.url %}
