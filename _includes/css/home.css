@@ -3,13 +3,18 @@
 }
 
 #masthead {
-	padding-top: 100px;
+	padding-top: 15vh;
 	padding-bottom: 30px;
 	background: #000 url({{site.baseurl}}/assets/images/photos/home/chapada.jpg) no-repeat fixed center;
 	background-size: cover;
 	color: white;
 	position: relative;
-	min-height: 70%;
+	min-height: 100%;
+}
+
+#masthead .myphoto {
+	width: 90px;
+	height: 90px;
 }
 
 #site-intro {
@@ -17,36 +22,32 @@
 }
 
 #site-intro .footprint {
-	width: 60px;
-	height: 60px;
+	width: 40px;
+	height: 40px;
 	-ms-transform: rotate(35deg);
     -webkit-transform: rotate(35deg);
     transform: rotate(35deg);
-    filter: brightness(0) invert(1);
 }
 
 #title {
 	font-family: "Bitter", serif;
-	font-size: 4em;
+	font-size: 2.5em;
 	padding-left: 50px;
 }
 
 #author {
 	font-family: 'Waiting for the Sunrise', cursive;
-	font-size: 2em;
+	font-size: 1.5em;
 }
 
 #description {
 	letter-spacing: 0.0625em;
+	padding: 10px;
+	font-size: 1.0em;
 }
 
 .myphoto {
 	margin: 10px 0;
-}
-
-#description {
-	padding: 10px;
-	font-size: 1.3em;
 }
 
 #highlighted-posts {
@@ -77,7 +78,7 @@
 	color: white;
 	font-family: "Bitter", serif;
 	border-bottom: solid 1px white;
-	font-size: 2.2rem;
+	font-size: 1.7rem;
 	font-weight: 500;
 	line-height: 3rem;
 }
@@ -89,6 +90,34 @@
 .post-call-text a.tag-link {
 	font-size: 1.0em;
 	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+@media (min-width: 768px) {
+	#masthead {
+		min-height: 70%;
+		padding-top: 5vh;
+	}
+
+	#site-intro .footprint {
+		width: 60px;
+		height: 60px;
+	}
+
+	#title {
+		font-size: 4em;
+	}
+
+	#author {
+		font-size: 2em;
+	}
+
+	#description {
+		font-size: 1.2em;
+	}
+
+	.post-call-text a {
+		font-size: 2.0rem;
+	}
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
