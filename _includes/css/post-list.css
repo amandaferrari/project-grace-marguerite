@@ -55,13 +55,13 @@
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 
-.recent-posts header {
+.recent-posts > header {
 	margin: 5px;
 	margin-top: 50px;
 	margin-bottom: 20px;
 }
 
-.recent-posts header p {
+.recent-posts > header p {
 	padding-left: 5px;
 }
 
@@ -71,7 +71,7 @@
 	padding-bottom: 20px;
 }
 
-.recent-posts main {
+.recent-posts > main {
 	overflow: scroll;
 	height: 60vh;
 }
@@ -97,16 +97,28 @@
 	margin-bottom: 50px;
 }
 
+.tag-list > header {
+	margin-left: 10px;
+}
+
+.tag-list > header h2 {
+	font-size: 2em;
+}
+
+.tag-list > header p {
+	padding-left: 5px;
+}
+
+
 .tag-list > p {
 	margin-left: 40px;
 	margin-bottom: 30px;
-	padding-left: 5px;
+	padding-left: 10px;
 }
 
 .tag {
 	font-family: 'Waiting for the Sunrise', cursive;
 	font-size: 2.5em;
-	margin-left: 40px;
 	padding-left: 5px;
 }
 
@@ -126,6 +138,10 @@ img.patinha {
 }
 
 @media (min-width: 768px) {
+	.tag-list > header {
+		margin-left: 45px;
+	}
+
 	.timeline li a {
 		font-size: 1.2em;
 	}
@@ -135,7 +151,7 @@ img.patinha {
 		font-family: 'Open Sans Condensed', sans-serif;
 	}
 
-	.recent-posts header {
+	.recent-posts > header {
 		margin: 40px;
 		margin-top: 60px;
 		margin-bottom: 20px;
@@ -151,5 +167,9 @@ img.patinha {
 
 	img.patinha {
 		margin-right: 30px;
+	}
+
+	.tag-list > header h2 {
+		font-size: 2.5em;
 	}
 }

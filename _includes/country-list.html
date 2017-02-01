@@ -3,25 +3,29 @@
 
 {% if country_posts.size > 0 %}
 <div id="{{ country[0] }}" class="tag-list">
-	<h2 class="tag">{{ country[0] }}</h2>
-	<p>{{ country_posts.size }} posts.</p>
-	<ul class="post-list">
-	{% for post in country_posts %}
-		<li>
-			<img src="{{ site.baseurl }}/assets/images/icons/patinhas/1patinha.png" class="patinha img-circle pull-left">
-			<p class="truncate"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></p>
-			<p class="truncate">
-				{{ post.date | date_to_string }}
-				&middot;
-				<img src="{{ site.baseurl }}/assets/images/blank.png" class="flag flag-{{post.country-code}}" alt="{{post.country}}" />
-				&middot;
-				{% for tag in post.tags %}
-				<a href="{{ site.baseurl }}/travel/tags/#{{ tag }}" class="tag-link">{{ tag }}</a>
-				{% endfor %}
-			</p>
-		</li>
-	{% endfor %}
-	</ul>
+	<header>
+		<h2 class="tag">{{ country[0] }}</h2>
+		<p>{{ country_posts.size }} posts.</p>
+	</header>
+	<main>
+		<ul class="post-list">
+		{% for post in country_posts %}
+			<li>
+				<img src="{{ site.baseurl }}/assets/images/icons/patinhas/1patinha.png" class="patinha img-circle pull-left">
+				<p class="truncate"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></p>
+				<p class="truncate">
+					{{ post.date | date_to_string }}
+					&middot;
+					<img src="{{ site.baseurl }}/assets/images/blank.png" class="flag flag-{{post.country-code}}" alt="{{post.country}}" />
+					&middot;
+					{% for tag in post.tags %}
+					<a href="{{ site.baseurl }}/travel/tags/#{{ tag }}" class="tag-link">{{ tag }}</a>
+					{% endfor %}
+				</p>
+			</li>
+		{% endfor %}
+		</ul>
+	</main>
 </div>
 {% endif %}
 {% endfor %}

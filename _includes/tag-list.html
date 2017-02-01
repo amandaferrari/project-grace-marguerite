@@ -1,10 +1,13 @@
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tag_words = site_tags | split:',' | sort %}
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-	<div id="{{ this_word }}" class="tag-list">
+{% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+<div id="{{ this_word }}" class="tag-list">
+	<header>
 		<h2 class="tag">{{ this_word }}</h2>
 		<p>{{ site.tags[this_word] | size }} posts.</p>
+	</header>
+	<main>
 		<ul class="post-list">
 		{% for post in site.tags[this_word] %}
 			<li>
@@ -22,5 +25,6 @@
 			</li>
 		{% endfor %}
 		</ul>
-	</div>
+	</main>
+</div>
 {% endunless %}{% endfor %}
