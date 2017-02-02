@@ -1,4 +1,12 @@
 .made-with-love {
+    display: block;
+    font-family: 'Waiting for the Sunrise', cursive;
+    font-size: 1.1em;
+    border-top: 1px dotted #2c3e50;
+    padding: 10px 10px;
+}
+
+.modal-footer > .made-with-love {
     display: none;
 }
 
@@ -31,7 +39,7 @@
         margin-bottom: 10px;
     }
 
-    .made-with-love {
+    .modal-footer > .made-with-love {
         display: block;
         font-family: 'Waiting for the Sunrise', cursive;
         font-size: 1.1em;
