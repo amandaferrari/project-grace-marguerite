@@ -1,4 +1,4 @@
 markdown: kramdown
-baseurl: /project-grace-marguerite
+baseurl: ''
 exclude: ['README.md', 'LICENSE']
 permalink: pretty
