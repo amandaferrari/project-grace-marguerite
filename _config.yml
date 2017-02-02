@@ -1,4 +1,4 @@
 markdown: kramdown
-baseurl: /rastros
+baseurl: /project-grace-marguerite
 exclude: ['README.md', 'LICENSE']
 permalink: pretty
