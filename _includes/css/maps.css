@@ -60,7 +60,7 @@
 
 .timeline-infowindow p {
 	font-family: 'Open Sans Condensed', sans-serif;
-	font-size: 1.0em;
+	font-size: 1.1em;
 	clear: both;
 	margin-left: 50px;
 }
@@ -159,6 +159,15 @@
 	.timeline-infowindow p {
 		font-size: 1.2em;
 		font-weight: bolder;
-		margin-left: 50px;
+		margin-left: 70px;
+		min-height: 60px;
+		padding-top: 20px;
 	}
+
+	.timeline-infowindow .message img.avatar-msg {
+		position: relative;
+		top: 60px;
+		width: 60px;
+	}
+
 }

@@ -85,7 +85,11 @@ title: Amanda's Blog · Mapa
 	{% for location in site.data.timeline %}
 	messages['{{ location[0] }}'] = [];
 	{% for msg in location[1] %}
-	messages['{{ location[0] }}'].push({ date: '{{ msg.date }}', msg: '{{ msg.message }}' });
+	messages['{{ location[0] }}'].push({
+		date: '{{ msg.date     }}',
+		msg:  '{{ msg.message  }}',
+		mood: '{{ msg.mood }}'
+	});
 	{% endfor %}
 	{% endfor %}
 
@@ -151,9 +155,10 @@ title: Amanda's Blog · Mapa
 			for (let j = 0; j < city_messages.length; ++j) {
 				let date = city_messages[j]['date'];
 				let msg = city_messages[j]['msg'];
+				let mood = city_messages[j]['mood'];
 				contentString += '<div class="message" id="' + city + '#' + j + '">' + 
 									'<h3>' + date + '</h3>' + 
-									'<img class="avatar-msg img-circle" src="{{ site.baseurl }}/assets/images/thumbnails/thumbnail.jpg" alt="">' + 
+									'<img class="avatar-msg img-circle" src="{{ site.baseurl }}/assets/images/thumbnails/'+ mood +'.jpg" alt="">' + 
 									'<p>' + msg + '</p>' + 
 								  '</div>';
 			}
