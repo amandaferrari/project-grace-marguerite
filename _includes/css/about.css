@@ -16,7 +16,7 @@
 }
 
 #social-icons i {
-	font-size: 2.5em;
+	font-size: 2em;
 	color: white;
 }
 
@@ -31,11 +31,20 @@
 	position: relative;
 	z-index: 100;
 	color: white;
+	padding-top: 30px;
+}
+
+#me1 .myphoto {
+	width: 70px;
+	height: 70px;
 }
 
 #me1 blockquote {
-	/*font-family: 'Waiting for the Sunrise', cursive;*/
-	font-size: 1.3em;
+	font-size: 1.0em;
+}
+
+#me1 h1 {
+	font-size: 2.0em;
 }
 
 #me2 {
@@ -61,9 +70,22 @@
 	}
 
 	#me1 {
-		width: 60%;
+		width: 65%;
 		margin: 0 auto;
 		padding-top: 30vh;
+	}
+
+	#me1 blockquote {
+		font-size: 1.3em;
+	}
+
+	#me1 .myphoto {
+		width: 90px;
+		height: 90px;
+	}
+
+	#social-icons i {
+		font-size: 2.5em;
 	}
 
 	#me1 main {
@@ -77,6 +99,7 @@
 
 	#me1 h1 {
 		margin-bottom: 20px;
+		font-size: 3em;
 	}
 
 	#me1 p {
@@ -100,7 +123,6 @@
 		top: 66.666vh;
 		left: 0;
 	}
-
 }
 
 @media (max-width: 768px), (orientation: portrait){
@@ -118,7 +140,6 @@
 	#me1 {
 		width: 80%;
 		margin: 0 auto;
-		padding-top: 30vh;
 		text-align: center;
 	}
 
