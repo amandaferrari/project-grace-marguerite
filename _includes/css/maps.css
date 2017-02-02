@@ -6,10 +6,9 @@
 
 #rastros-logo {
 	position: fixed;
-	bottom: 40px;
-	left: 40px;
-	width: 200px;
-	/*height: 140px;*/
+	bottom: -40px;
+	left: -40px;
+	width: 150px;
 	z-index: 100;
 }
 
@@ -17,4 +16,149 @@
 	position: relative;
 	top: 40px;
 	width: 40px;
+}
+
+.modal-body img.location-marker {
+	width: 25px;
+	height: 37px;
+}
+
+.timeline-infowindow .bodyContent {
+	overflow-y: scroll;
+	max-height: 200px;
+	max-width: 450px;
+	padding-right: 15px;
+}
+
+.timeline-infowindow h1 {
+	font-family: 'Waiting for the Sunrise', cursive;
+	font-size: 2em;
+	margin-left: 50px;
+	color: #2980b9;
+}
+
+.timeline-infowindow img {
+	position: absolute;
+    top: 15px;
+}
+
+.timeline-infowindow .message {
+	border-bottom: 1px solid #bdc3c7;
+	padding-bottom: 20px;
+}
+
+.timeline-infowindow .message:last-child {
+	border: none;
+}
+
+.timeline-infowindow h3 {
+	float: right;
+	font-family: "Bitter", serif;
+	font-size: 1.2em;
+	color: #2980b9;
+}
+
+.timeline-infowindow p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 1.0em;
+	clear: both;
+	margin-left: 50px;
+}
+
+#modal-label {
+	font-size: 2.2em;
+}
+
+.modal-content {
+	color: black;
+}
+
+.modal-header {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.modal-header .myphoto {
+	width: 45px;
+	height: 45px;
+}
+
+.modal-footer {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.modal-header h1 {
+	font-family: 'Waiting for the Sunrise', cursive;
+	font-size: 3em;
+	font-weight: bold;
+	margin-left: 70px;
+	margin-top: 10px;
+	color: #2980b9;
+}
+
+.modal-header .footprint {
+	width: 40px;
+	height: 40px;
+	-ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+
+.modal-body p {
+	font-size: 1.0em;
+}
+
+.modal-footer .made-with-love {
+	border: none!important;
+}
+
+@media (min-width: 768px) {
+	.modal-header {
+		padding: 15px;
+	}
+
+	.modal-footer {
+		padding: 15px;
+	}
+
+	.modal-body p {
+		font-size: 1.3em;
+	}
+
+	.modal-body img.location-marker {
+		width: 34px;
+		height: 51px;
+	}
+
+	#modal-label {
+		font-size: 3.5em;
+	}
+
+	.modal-header .myphoto {
+		width: 60px;
+		height: 60px;
+	}
+
+	.modal-header .footprint {
+		width: 50px;
+		height: 50px;
+	}
+
+	#rastros-logo {
+		position: fixed;
+		bottom: 40px;
+		left: 40px;
+		width: 200px;
+		z-index: 100;
+	}
+
+	.timeline-infowindow p {
+		font-size: 1.2em;
+		font-weight: bolder;
+		margin-left: 50px;
+	}
 }

@@ -10,19 +10,19 @@ title: Amanda's Blog · Mapa
 </footer>
 
 <!-- Modal -->
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="modal-label">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <img src="{{ site.baseurl }}/assets/images/thumbnails/thumbnail.jpg" alt="" class="myphoto img-circle pull-left" width="50px" height="50px">
-        <h1 class="modal-title" id="myModalLabel">Oi pessoal!</h1>
-        <img class="footprint" src="{{ site.baseurl }}/assets/images/icons/patinhas/2patinhas.png" alt="">
+        <img src="{{ site.baseurl }}/assets/images/thumbnails/thumbnail.jpg" alt="" class="myphoto img-circle pull-left">
+        <h1 class="modal-title" id="modal-label">Oi pessoal!</h1>
+        <img class="footprint" src="{{ site.baseurl }}/assets/images/icons/patinhas/2patinhasblack.png" alt="">
       </div>
       <div class="modal-body">
 		<p>Aqui vou deixar mais alguns rastros da minha passagem por algumas cidades desse mapa. </p>
 		<p>Os marcadores em amarelo representam o planejamento inicial da minha pequena volta ao mundo. Os ícones em verde representam os países pelos quais já passei.</p>
 		<p>Ao longo dos próximos meses vou preenchendo cada janelinha com pequenos textos com curiosidades e reflexões sobre esses lugares.</p>
-		<p>Clique nesse <img src="{{ site.baseurl }}/assets/images/icons/patinhas/patagreen.png" alt=""> e divirtam-se com as minhas pegadas filosóficas.</p>
+		<p>Clique nesse <img class="location-marker" src="{{ site.baseurl }}/assets/images/icons/patinhas/patagreen.png" alt=""> e divirtam-se com as minhas pegadas filosóficas.</p>
 	</div>
       <div class="modal-footer">
 	      <footer class="made-with-love">
@@ -42,7 +42,7 @@ title: Amanda's Blog · Mapa
 
 <script>
 	$(window).load(function(){
-	    $('#myModal').modal('show');
+	    $('#modal').modal('show');
 	});
 
 	var cities_coordinates = [
@@ -153,7 +153,7 @@ title: Amanda's Blog · Mapa
 				let msg = city_messages[j]['msg'];
 				contentString += '<div class="message" id="' + city + '#' + j + '">' + 
 									'<h3>' + date + '</h3>' + 
-									'<img class="avatar-msg" src="{{ site.baseurl }}/assets/images/rastros/avatar.png" alt="">' + 
+									'<img class="avatar-msg img-circle" src="{{ site.baseurl }}/assets/images/thumbnails/thumbnail.jpg" alt="">' + 
 									'<p>' + msg + '</p>' + 
 								  '</div>';
 			}
