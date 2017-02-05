@@ -1,5 +1,6 @@
 #main-homepage {
 	height: 100%;
+	background-color: black;
 }
 
 #masthead {
@@ -16,6 +17,16 @@
 	width: 90px;
 	height: 90px;
 }
+
+/* animations */
+#site-intro {
+	display: none;
+}
+
+.post-call-text {
+
+}
+
 
 #site-intro {
 	z-index: 100;
@@ -68,7 +79,7 @@
 
 .post-call-text {
 	position: absolute;
-    bottom: 0;
+    bottom: -150px; /* animation */
     left: 0;
     padding: 15px 15px;
     color: white;

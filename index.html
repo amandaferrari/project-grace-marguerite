@@ -40,3 +40,15 @@ layout: default
 		{% endfor %}
 	</div>
 </div>
+
+<script>
+	$(document).ready(function() {
+		setTimeout(function () {
+			$('#site-intro').fadeIn(3000);
+			$('.highlighted-post:nth-child(1) .post-call-text').animate({bottom: '5px'}, 1000);
+			$('.highlighted-post:nth-child(2) .post-call-text').animate({bottom: '5px'}, 2000);
+			$('.highlighted-post:nth-child(3) .post-call-text').animate({bottom: '5px'}, 3000);
+			$('.highlighted-post:nth-child(4) .post-call-text').animate({bottom: '5px'}, 4000);
+		}, 500);
+	});
+</script>
