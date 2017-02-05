@@ -49,6 +49,12 @@
 	padding-bottom: 15px;
 }
 
+@media (orientation: landscape) {
+	.navbar-collapse {
+		max-height: 100vh !important;
+	}
+}
+
 @media (max-width: 767px) {
 	.navbar button.close {
 		top: 10px;
