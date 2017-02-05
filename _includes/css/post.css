@@ -53,6 +53,12 @@ article.post {
 	margin-bottom: 50px;
 }
 
+@media (orientation: landscape) {
+	.post-image {
+		height: 70vh;
+	}
+}
+
 @media (max-width: 380px) {
 	.post-image-description {
 		right: 0;
