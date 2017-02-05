@@ -92,6 +92,17 @@
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 
+@media (orientation: landscape) {
+	#masthead {
+		min-height: 350px;
+		padding-top: 10px;
+	}
+
+	.highlighted-post {
+		min-height: 150px;
+	}
+}
+
 @media (min-width: 768px) {
 	#masthead {
 		min-height: 70%;
