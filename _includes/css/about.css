@@ -156,3 +156,24 @@
 	}
 
 }
+
+@media (orientation: landscape) and (max-width: 500px) {
+	#me1 {
+		width: 90%;
+		padding-top: 10px;
+	}
+
+	#me1 h1 {
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+
+	blockquote {
+		margin-bottom: 10px;
+	}
+
+	#social-icons li {
+		padding-right: 25px;
+	}
+
+}
