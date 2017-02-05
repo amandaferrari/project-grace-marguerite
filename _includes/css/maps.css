@@ -171,3 +171,25 @@
 	}
 
 }
+
+
+@media (orientation: landscape) and (max-width: 480px) {
+	.modal-header {
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+
+	.modal-body {
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+
+	.modal-body p:last-child {
+		margin-bottom: 0px;
+	}
+
+	.modal-footer {
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+}
