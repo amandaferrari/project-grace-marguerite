@@ -37,6 +37,13 @@ article.post {
 	font-size: 1.5em;
 	padding: 20px 0;
 }
+ 
+article.post h1, article.post h2, article.post h3, article.post h4{
+
+	margin-top: 50px;
+    margin-bottom: 30px;
+
+}
 
 article.post strong {
 	font-weight: bold;
@@ -44,12 +51,14 @@ article.post strong {
 
 article.post img {
 	width: 100%;
+	margin-top: 30px;
 }
 
 article.post img + em {
 	text-align: center;
 	clear: both;
 	display: block;
+	margin-bottom: 30px;
 }
 
 .post-meta {
