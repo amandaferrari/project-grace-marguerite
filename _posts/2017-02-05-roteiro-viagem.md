@@ -83,7 +83,7 @@ __Expectativas__: encontrar meu irmão em algum lugar da Europa
 ## Américas: a boa filha à casa torna
 
 
-De volta ao meu continente de origem o trajeto inclui Canadá  Estados Unidos, México, Belize, Cuba, Equador e Brasil.
+De volta ao meu continente de origem o trajeto inclui Canadá,  Estados Unidos, México, Belize, Cuba, Equador e Brasil.
 
 __Desafios__: dançar uma salsa em Cuba e não ser barrada pelo Trump nos EUA.
 
