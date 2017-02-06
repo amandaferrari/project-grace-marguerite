@@ -38,6 +38,10 @@ article.post {
 	padding: 20px 0;
 }
 
+article.post strong {
+	font-weight: bold;
+}
+
 article.post img {
 	width: 100%;
 }
