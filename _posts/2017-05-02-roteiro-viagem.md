@@ -43,7 +43,9 @@ Seguindo o curso natural das passagens baratas, o próximo continente a ser expl
 O planejamento inicial considera passar por Austrália e Nova Zelândia (1-2 meses).
 
 __Desafios__:  Encontrar um Hobbit, descobrir se a Nova Zelândia é realmente um país de aventuras e abraçar um preguiça gigante (exportado do Brasil).
+
 __Melhores fotos__: White Island e Grande Barreira de Corais
+
 __Expectativas__: Segurar um coala, cruzar as duas ilhas da Nova Zelândia com uma campvan e sobreviver ao inverno! 
 
 ![Barreira de Corais da Austrália]({{site.baseurl}}/assets/images/photos/posts/oceania.jpg)*Barreira de Corais da Austrália*
@@ -55,7 +57,9 @@ Aqui surge um leão, pai: Próxima parada: o continente da origem do primeiro Ho
 As próximas paradas incluem Namíbia, Tanzânia e Egito (1-2 meses).
 
 __Desafio__: subir a maior montanha africana com  minha amiga Marina.
+
 __Melhores fotos__:  migração dos animais na Tanzânia, pirâmides do Egito, deserto da Namíbia.
+
 __Expectativas__: Não ser devorada por um leão dentro da minha barraca durante o safari,  não sofrer com a altitude do Monte Kilimanjaro nem derreter pelo sol do deus Rá.
 
 ![Vista do Monte Kilimanjaro desde a cidade de Moshi]({{site.baseurl}}/assets/images/photos/posts/africa.jpg)*Vista do Monte Kilimanjaro desde a cidade de Moshi*
@@ -68,7 +72,9 @@ Seguindo o caminho a próxima parada é o velho continente. Hora de beber bons v
 Passarei pelos seguintes países: Grécia, Turquia, Croácia, Montenegro, Macedônia e Espanha.
 
 __Desafio__: Terminar o caminho de Santiago com dignidade.
+
 __Melhores fotos__: Passeio de balão na Capadócia, ilhas gregas, praias croatas.
+
 __Expectativas__: encontrar meu irmão em algum lugar da Europa
 
 ![Céu Capadócia]({{site.baseurl}}/assets/images/photos/posts/europe.jpg)*Céu Capadócia*
@@ -79,7 +85,9 @@ __Expectativas__: encontrar meu irmão em algum lugar da Europa
 De volta ao meu continente de origem o trajeto inclui Canadá  Estados Unidos, México, Belize, Cuba, Equador e Brasil.
 
 __Desafios__: dançar uma salsa em Cuba e não ser barrada pelo Trump.
+
 __Melhores fotos__: blue hole em Belize e Ilhas de Galápagos.
+
 __Expectativas__: mergulhar com tubarão martelo em Galápagos, sobrevoar o Blue Hole e visitar a casa de Frida Kahlo.
 
 ![Vista aérea do Blue Hole em belize]({{site.baseurl}}/assets/images/photos/posts/america.jpg)*Vista aérea do Blue Hole em belize*
