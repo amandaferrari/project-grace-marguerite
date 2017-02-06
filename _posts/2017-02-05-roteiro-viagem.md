@@ -21,7 +21,7 @@ Suspeito que se eu fizesse essas perguntas para cada pessoa que conheço, as res
 Voilà, aqui está o roteiro que escolhi.
 
 
-## Ásia: tinha que começar em algum lugar, não?
+## Ásia: tinha que começar em algum lugar, não? :earth_asia:
 
 
 Minha aventura começa na Ásia por uma questão simples: os vistos do Japão e da China. Esses dois países exigem que você entre no país em até 3 meses após a emissão do visto.  
