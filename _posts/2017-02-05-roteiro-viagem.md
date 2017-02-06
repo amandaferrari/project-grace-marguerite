@@ -21,10 +21,7 @@ Suspeito que se eu fizesse essas perguntas para cada pessoa que conheço, as res
 Voilà, aqui está o roteiro que escolhi.
 
 
-## Ásia: tinha que começar em algum lugar, não? 
-
-:earth_asia:
-
+## Ásia: tinha que começar em algum lugar, não? :earth_asia:
 
 Minha aventura começa na Ásia por uma questão simples: os vistos do Japão e da China. Esses dois países exigem que você entre no país em até 3 meses após a emissão do visto.  
 
@@ -53,6 +50,7 @@ __Expectativas__: segurar um coala, cruzar as duas ilhas da Nova Zelândia com u
 
 ![Barreira de Corais da Austrália]({{site.baseurl}}/assets/images/photos/posts/oceania.jpg)*Barreira de Corais da Austrália*
 
+
 ## África: Nats ingonya ba bagithi Baba 
 
 Aqui surge um leão, pai. Próxima parada: o continente da origem do primeiro *Homo Sapiens*. Ou seria *Bobo Sapiens*?
@@ -67,8 +65,8 @@ __Expectativas__: não ser devorada por um leão dentro da minha barraca durante
 
 ![Vista do Monte Kilimanjaro desde a cidade de Moshi]({{site.baseurl}}/assets/images/photos/posts/africa.jpg)*Vista do Monte Kilimanjaro desde a cidade de Moshi*
 
-## Europa: igreja, história e castelos
 
+## Europa: igreja, história e castelos
 
 Seguindo o caminho, a próxima parada é o velho continente. Hora de beber bons vinhos e boas cervejas.
 
@@ -82,8 +80,8 @@ __Expectativas__: encontrar meu irmão em algum lugar da Europa
 
 ![Céu Capadócia]({{site.baseurl}}/assets/images/photos/posts/europe.jpg)*Céu Capadócia*
 
-## Américas: a boa filha à casa torna
 
+## Américas: a boa filha à casa torna
 
 De volta ao meu continente de origem o trajeto inclui Canadá,  Estados Unidos, México, Belize, Cuba, Equador e Brasil.
 
@@ -100,6 +98,3 @@ Esse é meu roteiro preliminar. Mas estou sempre considerando novas alternativas
 Ah! maiores detalhes serão publicados nos [posts](http://amandaferrari.me/travel/country/) e no [mapa](http://amandaferrari.me/maps/).
 
 Sigam meus RASTROS! 
-
-
-
