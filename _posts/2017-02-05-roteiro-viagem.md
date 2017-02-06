@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Por onde andei, enquanto você me procurava...
+small-title: Por onde andei...
 description: Roteiro
 category: travel
 tags: ['Roteiro', 'Blog']
