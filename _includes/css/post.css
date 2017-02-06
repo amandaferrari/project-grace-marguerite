@@ -93,6 +93,10 @@ article.post img.emoji {
 		left: 0;
 		text-align: center;
 	}
+
+	article.post img + em {
+		font-size: 0.8em;
+	}
 }
 
 @media (min-width: 768px) {
