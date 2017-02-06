@@ -14,8 +14,8 @@ comments: true
 330 dias. 26 países. 17 quilos. 1 só sentimento.
 
 Para onde ir quando o mundo é uma opção? O que levar em uma simples mochila? O que deixar para trás?
-Suspeito que se eu fizesse essas perguntas para cada pessoa que conheço, as respostas certamente seriam dissonantes. 
-Meu racional foi de certa forma simples. O roteiro? Um pout-pourri de temperos e cores baseados em livros que li, em pessoas que conheci e desafios que me propus.
+
+Suspeito que se eu fizesse essas perguntas para cada pessoa que conheço, as respostas certamente seriam dissonantes. Meu racional foi de certa forma simples. O roteiro? Um pout-pourri de temperos e cores baseados em livros que li, em pessoas que conheci e desafios que me propus.
 
 Voilà, em linhas gerais aqui está o roteiro que escolhi.
 
@@ -25,8 +25,11 @@ Voilà, em linhas gerais aqui está o roteiro que escolhi.
 
 Minha aventura começa na Ásia por uma questão simples: os vistos do Japão e da China. Esses dois países exigem que você entre no país em até 3 meses após a emissão do visto.  
 A ideia é passar pelos seguintes países: Sri Lanka, Índia, Nepal, Butão, Japão, China, Filipinas e Indonésia (4-5 meses).
+
 __Desafio__: encarar a trilha que leva até o acampamento base do Everest no Nepal.
+
 __Melhores fotos__: Himalaia, Grande Muralha da China (com clicks da minha amiga Ana Paula), vulcões da Indonésia.
+
 __Expectativas__: Sair gastronomicamente ilesa da Índia, conhecer de perto o índice de felicidade do Butão e mergulhar com um tubarão baleia nas Filipinas. 
 
 ![Vista do Monte Everest desde o acampamento base]({{site.baseurl}}/assets/images/photos/posts/asia.jpg)*Vista do Monte Everest desde o acampamento base*
@@ -36,6 +39,7 @@ __Expectativas__: Sair gastronomicamente ilesa da Índia, conhecer de perto o í
 
 Seguindo o curso natural das passagens baratas, o próximo continente a ser explorado é a Oceania. 
 O planejamento inicial considera passar por Austrália e Nova Zelândia (1-2 meses).
+
 __Desafios__:  Encontrar um Hobbit, descobrir se a Nova Zelândia é realmente um país de aventuras e abraçar um preguiça gigante (exportado do Brasil).
 __Melhores fotos__: White Island e Grande Barreira de Corais
 __Expectativas__: Segurar um coala, cruzar as duas ilhas da Nova Zelândia com uma campvan e sobreviver ao inverno! 
