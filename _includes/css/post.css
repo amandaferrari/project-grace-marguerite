@@ -44,6 +44,7 @@ article.post img {
 
 article.post img + p {
 	text-align: center;
+	clear: both;
 }
 
 .post-meta {

@@ -29,9 +29,7 @@ __Desafio__: encarar a trilha que leva até o acampamento base do Everest no Nep
 __Melhores fotos__: Himalaia, Grande Muralha da China (com clicks da minha amiga Ana Paula), vulcões da Indonésia.
 __Expectativas__: Sair gastronomicamente ilesa da Índia, conhecer de perto o índice de felicidade do Butão e mergulhar com um tubarão baleia nas Filipinas. 
 
-![Vista do Monte Everest desde o acampamento base]({{site.baseurl}}/assets/images/photos/posts/asia.jpg)
-
-*Vista do Monte Everest desde o acampamento base*
+![Vista do Monte Everest desde o acampamento base]({{site.baseurl}}/assets/images/photos/posts/asia.jpg)*Vista do Monte Everest desde o acampamento base*
 
 
 ## Oceania: quantas ilhas são mesmo?
@@ -42,9 +40,7 @@ __Desafios__:  Encontrar um Hobbit, descobrir se a Nova Zelândia é realmente u
 __Melhores fotos__: White Island e Grande Barreira de Corais
 __Expectativas__: Segurar um coala, cruzar as duas ilhas da Nova Zelândia com uma campvan e sobreviver ao inverno! 
 
-![Barreira de Corais da Austrália]({{site.baseurl}}/assets/images/photos/posts/oceania.jpg)
-
-*Barreira de Corais da Austrália*
+![Barreira de Corais da Austrália]({{site.baseurl}}/assets/images/photos/posts/oceania.jpg)*Barreira de Corais da Austrália*
 
 ## África: Nats ingonya ba bagithi Baba 
 
@@ -54,9 +50,7 @@ __Desafio__: subir a maior montanha africana com  minha amiga Marina.
 __Melhores fotos__:  migração dos animais na Tanzânia, pirâmides do Egito, deserto da Namíbia.
 __Expectativas__: Não ser devorada por um leão dentro da minha barraca durante o safari,  não sofrer com a altitude do Monte Kilimanjaro nem derreter pelo sol do deus Rá.
 
-![Vista do Monte Kilimanjaro desde a cidade de Moshi]({{site.baseurl}}/assets/images/photos/posts/africa.jpg)
-
-*Vista do Monte Kilimanjaro desde a cidade de Moshi*
+![Vista do Monte Kilimanjaro desde a cidade de Moshi]({{site.baseurl}}/assets/images/photos/posts/africa.jpg)*Vista do Monte Kilimanjaro desde a cidade de Moshi*
 
 ## Europa: igreja, história e castelos
 
@@ -67,9 +61,7 @@ __Desafio__: Terminar o caminho de Santiago com dignidade.
 __Melhores fotos__: Passeio de balão na Capadócia, ilhas gregas, praias croatas.
 __Expectativas__: encontrar meu irmão em algum lugar da Europa
 
-![Céu Capadócia]({{site.baseurl}}/assets/images/photos/posts/europe.jpg)
-
-*Céu Capadócia*
+![Céu Capadócia]({{site.baseurl}}/assets/images/photos/posts/europe.jpg)*Céu Capadócia*
 
 ## Américas: a boa filha à casa torna
 
@@ -79,12 +71,10 @@ __Desafios__: dançar uma salsa em Cuba e não ser barrada pelo Trump.
 __Melhores fotos__: blue hole em Belize e Ilhas de Galápagos.
 __Expectativas__: mergulhar com tubarão martelo em Galápagos, sobrevoar o Blue Hole e visitar a casa de Frida Kahlo.
 
-![Vista aérea do Blue Hole em belize]({{site.baseurl}}/assets/images/photos/posts/america.jpg)
-
-*Vista aérea do Blue Hole em belize*
+![Vista aérea do Blue Hole em belize]({{site.baseurl}}/assets/images/photos/posts/america.jpg)*Vista aérea do Blue Hole em belize*
 
 Esse é meu roteiro preliminar. Mas estou sempre considerando novas alternativas. Alguma sugestão? Deixem abaixo nos comentários.
-Ah! maiores detalhes serão publicados nos [posts] (http://amandaferrari.me/travel/country/) e no [mapa] (http://amandaferrari.me/maps/).
+Ah! maiores detalhes serão publicados nos [posts](http://amandaferrari.me/travel/country/) e no [mapa](http://amandaferrari.me/maps/).
 
 Sigam meus RASTROS! 
 
