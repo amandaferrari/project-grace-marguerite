@@ -67,7 +67,7 @@ __Desafio__: Terminar o caminho de Santiago com dignidade.
 __Melhores fotos__: Passeio de balão na Capadócia, ilhas gregas, praias croatas.
 __Expectativas__: encontrar meu irmão em algum lugar da Europa
 
-![Céu Capadócia]({{site.baseurl}}/assets/images/photos/posts/europa.jpg)
+![Céu Capadócia]({{site.baseurl}}/assets/images/photos/posts/europe.jpg)
 
 *Céu Capadócia*
 
