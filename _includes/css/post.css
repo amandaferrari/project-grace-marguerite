@@ -64,6 +64,7 @@ article.post img + em {
 article.post img.emoji {
 	height: 20px;
 	width: 20px;
+	margin: 0;
 }
 
 .post-meta {
