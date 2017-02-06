@@ -21,7 +21,7 @@ Suspeito que se eu fizesse essas perguntas para cada pessoa que conheço, as res
 Voilà, aqui está o roteiro que escolhi.
 
 
-## Ásia: tinha que começar em algum lugar, não? :earth_asia:
+## :earth_asia: Ásia: tinha que começar em algum lugar, não?
 
 Minha aventura começa na Ásia por uma questão simples: os vistos do Japão e da China. Esses dois países exigem que você entre no país em até 3 meses após a emissão do visto.  
 
@@ -51,7 +51,7 @@ __Expectativas__: segurar um coala, cruzar as duas ilhas da Nova Zelândia com u
 ![Barreira de Corais da Austrália]({{site.baseurl}}/assets/images/photos/posts/oceania.jpg)*Barreira de Corais da Austrália*
 
 
-## África: Nats ingonya ba bagithi Baba 
+## :earth_africa: África: Nats ingonya ba bagithi Baba 
 
 Aqui surge um leão, pai. Próxima parada: o continente da origem do primeiro *Homo Sapiens*. Ou seria *Bobo Sapiens*?
 
@@ -81,7 +81,7 @@ __Expectativas__: encontrar meu irmão em algum lugar da Europa
 ![Céu Capadócia]({{site.baseurl}}/assets/images/photos/posts/europe.jpg)*Céu Capadócia*
 
 
-## Américas: a boa filha à casa torna
+## :earth_americas: Américas: a boa filha à casa torna
 
 De volta ao meu continente de origem o trajeto inclui Canadá,  Estados Unidos, México, Belize, Cuba, Equador e Brasil.
 
