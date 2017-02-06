@@ -42,7 +42,7 @@ article.post img {
 	width: 100%;
 }
 
-article.post img + p {
+article.post img + em {
 	text-align: center;
 	clear: both;
 }
