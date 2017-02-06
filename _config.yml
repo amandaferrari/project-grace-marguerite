@@ -2,3 +2,5 @@ markdown: kramdown
 baseurl: ''
 exclude: ['README.md', 'LICENSE']
 permalink: pretty
+gems:
+  - jemoji
