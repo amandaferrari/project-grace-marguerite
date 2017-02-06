@@ -91,7 +91,7 @@ __Melhores fotos__: blue hole em Belize e Ilhas de Galápagos.
 
 __Expectativas__: mergulhar com tubarão martelo em Galápagos, sobrevoar o Blue Hole e visitar a casa de Frida Kahlo.
 
-![Vista aérea do Blue Hole em belize]({{site.baseurl}}/assets/images/photos/posts/america.jpg)*Vista aérea do Blue Hole em belize*
+![Vista aérea do Blue Hole em belize]({{site.baseurl}}/assets/images/photos/posts/america.jpg)*Vista aérea do Blue Hole em Belize*
 
 Esse é meu roteiro preliminar. Mas estou sempre considerando novas alternativas. Alguma sugestão? Deixem abaixo nos comentários.
 
