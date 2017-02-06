@@ -38,6 +38,14 @@ article.post {
 	padding: 20px 0;
 }
 
+article.post img {
+	width: 100%;
+}
+
+article.post img + p {
+	text-align: center;
+}
+
 .post-meta {
 	padding-top: 30px;
 	font-family: "Bitter", serif;
