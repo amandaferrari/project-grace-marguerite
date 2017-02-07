@@ -8,11 +8,23 @@
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=7">
 
-	<meta property="og:site_name" content="Rastros">
+	<meta property="og:site_name" content="Rastros | Blog da Amanda Ferrari">
+	{% if page.title %}
+	<meta property="og:title" content="Rastros | {{ page.title }}">
+	{% else %}
 	<meta property="og:title" content="Rastros | Blog da Amanda Ferrari">
+	{% endif %}
+	{% if page.description %}
+	<meta property="og:description" content="{{ page.description }}">
+	{% else %}
 	<meta property="og:description" content="Não tenho bicicleta nem patins, não tenho carro nem avião, meus pés tem rodinhas que me levam por esse mundo descobrindo coisas, fazendo amigos, sem pressa nenhuma...">
+	{% endif %}
+	{% if page.image %}
+	<meta property="og:image" content="{{ site.baseurl }}/assets/images/photos/posts/{{ page.image }}">
+	{% else %}
 	<meta property="og:image" content="http://amandaferrari.me/assets/images/rastros/rastros-thumbnail.jpg">
-	<meta property="og:url" content="http://amandaferrari.me/">
+	{% endif %}
+	<meta property="og:url" content="{{ site.baseurl }}{{ page.url }}">
 	<meta property="og:type" content="blog">
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
