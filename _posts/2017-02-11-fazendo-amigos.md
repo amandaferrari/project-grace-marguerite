@@ -59,6 +59,6 @@ Antes do Sri Lanka, Jenny estava morando no Líbano documentando os costumes do 
 
 Com um fotojornalismo encantador e independente ela publicou vários textos em jornais ao redor do mundo, optando por uma vida de home office e fazendo dos hostels ao redor do mundo sua casa. 
 
-O site de Jenny para quem quiser acompanhá-la é só clicar [aqui](www.atjenny.com).
+O site de Jenny para quem quiser acompanhá-la é [http://www.atjenny.com/](http://www.atjenny.com/).
 
 Quero um dia ter a vida e a sensibilidade de Jenny.
