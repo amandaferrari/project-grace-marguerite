@@ -13,7 +13,7 @@ comments: true
 
 Ontem eu conheci 3 pessoas com histórias inspiradoras que resolvi compartilhar com vocês. Esses tipos de histórias logo na primeira semana de viagem servem de combustível para seguir em frente nos meus planos.
 
-##Tizuko, uma japonesa indiana
+## Tizuko, uma japonesa indiana
 Encontrei Tizuko por acaso. Ou melhor, ela me encontrou. Ao chegar no Sri Lanka, muito tarde, muito cansada e com o fuso completamente desregulado, estava dormindo o melhor dos meus sonos quando, como uma mãe que se preocupa com a filha, Tizuko foi me acordar. Ela estava preocupada, porque passava das 09h30 e eu não havia tomado meu café da manhã que se encerraria às 10h00.  Não tive outra escolha. Precisei me levantar.
 
 Durante o café, Tizuko me contou, no seu inglês com sotaque e jeito japonês que estava no Sri Lanka há 2 meses. Viúva e aposentada, Tizuko usava o terceiro olho, roupas e cabelo indianos. Contou-me que vive na Índia há mais de 5 anos: O motivo? Além dos preços abusivos da capital japonesa, ela considera os japoneses tristes e workaholics. Nunca imaginei escutar isso vindo de uma japonesa.
@@ -27,7 +27,7 @@ Ao final, ficamos amigas. Tizuko me passou seu telefone residencial em Tokio (el
 Como já não amar o Japão? :heart:
 
 
-##Marco, um filipino no Afeganistão
+## Marco, um filipino no Afeganistão
 
 Marco é daquelas pessoas de uma energia que se reconhece no primeiro "Hi. Quando todos estão meio sonolentos, Marco já diz um "bom dia" daqueles que levanta até o alemão mais mal humorado da sala.
 
@@ -48,7 +48,7 @@ Tizuko fica brava com Marco e diz que se ela fosse a mãe dele, ele ia apanhar m
 Marco também vai para o Japão, mas com medo de gastar ficará só 4 dias. Semana que vem ele volta para Kabul. Será que vou encontrar Marco em abril?
 
 
-##Jenny, uma sueca pelo mundo 
+## Jenny, uma sueca pelo mundo 
 
 Vi Jenny saindo correr e perguntei se ela gostava do esporte. Que pergunta boba. Jenny e corrida são indissociáveis. Ela já correu algumas maratonas pelo mundo.
 
