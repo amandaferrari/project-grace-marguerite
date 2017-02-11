@@ -7,7 +7,7 @@ tags: ['Pessoas', 'Sozinha', 'Viajar']
 image: post5.jpg
 image-description: "Foto: tirada aos pés da Pedra do Leão (Sigiriya Rock) com o povo do Sri Lanka!"
 country-code: lk
-country: Sri_Lanka
+country: Sri Lanka
 comments: true
 ---
 
