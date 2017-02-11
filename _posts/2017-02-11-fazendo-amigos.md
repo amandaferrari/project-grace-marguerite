@@ -5,7 +5,7 @@ description: Quando os sozinhos se encontram...
 category: travel
 tags: ['Pessoas', 'Sozinha', 'Viajar']
 image: post5.jpg
-image-description: "Foto: tirada aos pés da Pedra do Leão (Sigiriya Rock), Meus novos amigos!
+image-description: "Foto: tirada aos pés da Pedra do Leão (Sigiriya Rock), Meus novos amigos!"
 country-code: lk
 country: Sri_Lanka
 comments: true
