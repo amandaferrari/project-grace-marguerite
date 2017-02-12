@@ -22,7 +22,7 @@ Pergunto a Tizuko se a sujeira da Índia não a atrapalha. Com a serenidade de u
 
 Ela volta para o Japão a cada 3 meses por conta do visto e também para comer a sua comida japonesa tradicional que ela fez questão de degustar todos os dias no Sri Lanka.
 
-Ao final, ficamos amigas. Tizuko me passou seu telefone residencial em Tokio (ela não sabe usar smartphone, apesar de ter um). Disse para eu ligar para ela no ínicio de abril, quando estarei lá. Vai ser minha guia pela cidade.
+Ao final, ficamos amigas. Tizuko me passou seu telefone residencial em Tokio (ela não sabe usar *smartphone*, apesar de ter um). Disse para eu ligar para ela no ínicio de abril, quando estarei lá. Vai ser minha guia pela cidade.
 
 Como já não amar o Japão? :heart:
 
