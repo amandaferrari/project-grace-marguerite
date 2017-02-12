@@ -21,7 +21,7 @@ A mensagem serve para cada um de vocês que dedicaram um pouco do tempo para ler
 >
 >Enquanto alguns buscam a fórmula da poção mágica do viver, eu prefiro seguir experimentando receitas inusitadas, mesmo que muitas vezes elas não sejam saborosas. 
 >
->Nessa estrada da vida o que aprendi a respeitar é que não quero ser ninguém diferente de mim >mesma. Não quero ser temperada pelos caprichos e vontades alheias. Não quero ser um tempero insosso. Quero ser doce. Quero ser apimentada. Quero ser adstringente. Quero ser o resultado de uma prato de comida regional que carrega a história de gerações. Não quero amar pela metade. Não quero tolerar a rotina como quem tolera café frio. Não quero viver de falsidade. Não quero tolerar franqueza de caráter. Quero ter o direito de abominar mentiras. Quero devorar minhas emoções, meus anseios e meus sonhos quando tiver fome.
+>Nessa estrada da vida o que aprendi a respeitar é que não quero ser ninguém diferente de mim mesma. Não quero ser temperada pelos caprichos e vontades alheias. Não quero ser um tempero insosso. Quero ser doce. Quero ser apimentada. Quero ser adstringente. Quero ser o resultado de uma prato de comida regional que carrega a história de gerações. Não quero amar pela metade. Não quero tolerar a rotina como quem tolera café frio. Não quero viver de falsidade. Não quero tolerar franqueza de caráter. Quero ter o direito de abominar mentiras. Quero devorar minhas emoções, meus anseios e meus sonhos quando tiver fome.
 >
 >Quero seguir minha vida fazendo o *mis en place* dos meus sentimentos, insistindo para que as pessoas reflitam que devemos ser além daquilo que vemos no espelho. Ser além de apenas um bípede egoísta em breve e descompromissada passagem por um dos planetas menores. 
 >
