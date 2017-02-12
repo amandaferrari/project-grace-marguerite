@@ -35,6 +35,6 @@ Espero, assim, te convencer a embarcar também nesse tipo de experiência!
 >
 >8) Quando viajamos com pessoas conhecidas tendemos a nos limitar ao nosso círculo social e embora você encontre pessoas novas, as dinâmicas e interações não serão tão apronfundadas. Enquanto você está sozinho na estrada, você tem muito mais vontade de encontrar parceiros de viagem, interagir com outros viajantes e conhecer histórias.
 >
->9) Viajar sozinho é sinônimo de autoconhecimento. Cada vez que viajo com a Tereza (minha mochila que carinhosamente leva o nome de uma tia minha que nos deixou esse ano) descubro que preciso de menos para viver. Dessa vez ela pesa 17 kg contando com todas as roupas de frio necessárias para viver por esses próximos meses. Isso só contribui para a operação minimalista que há algum tempo tento implementar na minha vida.
+>9) Viajar sozinho é sinônimo de autoconhecimento. Cada vez que viajo com a Tereza (minha mochila que carinhosamente leva o nome de uma tia minha que nos deixou há 2 anos) descubro que preciso de menos para viver. Dessa vez ela pesa 17 kg contando com todas as roupas de frio necessárias para viver por esses próximos meses. Isso só contribui para a operação minimalista que há algum tempo tento implementar na minha vida.
 >
->10) Por fim, viajar sozinho não é melhor nem pior, é só uma maneira diferente de enxergar o mundo e todas suas perspectivas."
+>10) Por fim, viajar sozinha não é melhor nem pior, é só uma maneira diferente de enxergar o mundo e todas suas perspectivas."
