@@ -16,7 +16,7 @@ Ontem eu conheci 3 pessoas com histórias inspiradoras que resolvi compartilhar 
 ## Tizuko, uma japonesa indiana
 Encontrei Tizuko por acaso. Ou melhor, ela me encontrou. Ao chegar no Sri Lanka, muito tarde, muito cansada e com o fuso completamente desregulado, estava dormindo o melhor dos meus sonos quando, como uma mãe que se preocupa com a filha, Tizuko foi me acordar. Ela estava preocupada, porque passava das 09h30 e eu não havia tomado meu café da manhã que se encerraria às 10h00.  Não tive outra escolha. Precisei me levantar.
 
-Durante o café, Tizuko me contou, no seu inglês com sotaque e jeito japonês, que estava no Sri Lanka há 2 meses. Viúva e aposentada, Tizuko usava o terceiro olho, roupas e cabelo indianos. Contou-me que vive na Índia há mais de 5 anos. O motivo? Além dos preços abusivos da capital japonesa, ela considera os japoneses tristes e workaholics. Nunca imaginei escutar isso vindo de uma japonesa.
+Durante o café, Tizuko me contou, no seu inglês com sotaque e jeito japonês, que estava no Sri Lanka há 2 meses. Viúva e aposentada, Tizuko usava o terceiro olho, roupas e cabelo indianos. Contou-me que vive na Índia há mais de 5 anos. O motivo? Além dos preços abusivos da capital japonesa, ela considera os japoneses tristes e *workaholics*. Nunca imaginei escutar isso vindo de uma japonesa.
 
 Pergunto a Tizuko se a sujeira da Índia não a atrapalha. Com a serenidade de uma japonesa no auge dos seus 65 anos ela responde: "Quando vi o primeiro indiano jogando lixo no chão eu fui tirar satisfação com ele, mas aí vieram as vacas fazendo cocô, as mulheres jogando lixo nas ruas e percebi que aquilo era difícil de ser mudado. Hoje eu consigo ver que, apesar de todos os problemas, os indianos são pessoas felizes e de bom coração."
 
