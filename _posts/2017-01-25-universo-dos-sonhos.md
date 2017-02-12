@@ -32,7 +32,7 @@ E cá estou eu a fazer minha tequila.
 
 No próximo dia 6 de fevereiro parto para a maior aventura da minha vida: uma volta ao mundo passando pelos 5 continentes, desbravando culturas, explorando lugares e conhecendo pessoas. 
 
-Começo a viagem no Brasil, meu país natal, e termino no Equador, mais precisamente em Galápagos, o local notório pelo livro de Darwin, "A origem das Espécies", é o fim da minha jornada de descobertas. 
+Começo a viagem no Brasil, meu país natal, e termino no Equador, mais precisamente em Galápagos, o local notório pelo livro de *Darwin*, "A origem das Espécies", é o fim da minha jornada de descobertas. 
 
 Essa página tem por objetivo ser o meu diário de viagem. Não quero falar sobre largar tudo e procurar a própria identidade, nem sobre "você deve fazer isso" ou "visitar aquilo". Não quero te dar receitas de como viajar porque isso foge de tudo o que eu acredito. É uma página de uma pessoa que resolveu não dar mais desculpas e viver a própria vida. Afinal, às vezes é necessário acreditar em uma nova história para as nossas vidas, mas não podemos ser Macabéas da vida real e achar que os anjos existem porque acreditamos neles. É preciso ir além. É preciso correr atrás do que nos fará mais feliz. Isso definirá o tamanho de nossas vidas. Isso definirá a grandeza do nosso ser! 
 
