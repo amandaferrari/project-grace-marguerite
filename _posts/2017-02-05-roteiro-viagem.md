@@ -46,7 +46,7 @@ __Desafios__:  encontrar um Hobbit, descobrir se a Nova Zelândia é realmente u
 
 __Melhores fotos__: White Island e Grande Barreira de Corais
 
-__Expectativas__: segurar um coala, cruzar as duas ilhas da Nova Zelândia com uma campvan e sobreviver ao inverno! 
+__Expectativas__: segurar um coala, cruzar as duas ilhas da Nova Zelândia com uma *campvan* e sobreviver ao inverno! 
 
 ![Barreira de Corais da Austrália]({{site.baseurl}}/assets/images/photos/posts/oceania.jpg)*Barreira de Corais da Austrália*
 
