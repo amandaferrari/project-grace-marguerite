@@ -46,7 +46,7 @@ title: Amanda's Blog · Mapa
 	});
 
 	var location_coordinates = [
-		['Brazil', -23.5015338, -47.45259440000001, 'br' ],
+		['Brasil', -23.5015338, -47.45259440000001, 'br' ],
 		['Sri Lanka', 7.873053999999999, 80.77179699999999, 'lk'],
 		['India', 20.593684, 78.96288000000004, 'in'],
 		['Nepal', 28.394857, 84.124008, 'np'],
@@ -78,8 +78,8 @@ title: Amanda's Blog · Mapa
 		['Belize', 17.189877, -88.49765000000002, 'bz'],
 		['Cuba', 21.521757, -77.78116699999998, 'cu'],
 		['Ecuador', -1.831239, -78.18340599999999, 'ec'],
-		// ['São Paulo, Brazil', -23.5505199, -46.63330939999997, 'br'],
-		['Brazil', -23.5015338, -47.45259440000001, 'br' ]
+		// ['São Paulo, Brasil', -23.5505199, -46.63330939999997, 'br'],
+		['Brasil', -23.5015338, -47.45259440000001, 'br' ]
 	];
 
 	var messages = {};
@@ -101,6 +101,19 @@ title: Amanda's Blog · Mapa
 			location_messages = messages[location];
 		}
 		return (location_messages.length > 0);
+	}
+
+	function map_center() {
+		let center = {};
+		for (let i = 0; i < location_coordinates.length; ++i) {
+			let location = location_coordinates[i][0];
+			center = {
+				lat: location_coordinates[i][1],
+				lng: location_coordinates[i][2]
+			};
+			if (!has_messages(location)) break;
+		}
+		return center;
 	}
 
 	function draw_travel_path(map) {
@@ -148,10 +161,21 @@ title: Amanda's Blog · Mapa
 				});
 			}
 
+			let totalMsgString = ' <span class="total-msg"> [ ' + location_messages.length;
+			if (location_messages.length === 0) {
+				totalMsgString = '';
+			}
+			else if (location_messages.length === 1) {
+				totalMsgString += ' <span class="msg">mensagem</span> ]</span>';
+			}
+			else {
+				totalMsgString += ' <span class="msg">mensagens</span> ]</span>';
+			}
+
 			let contentString = '<div id="' + location +'" class="timeline-infowindow">'+
 			      '<div class="siteNotice">'+
 			      '</div>'+
-			      '<h1 class="firstHeading">' + location + '</h1>' +
+			      '<h1 class="firstHeading">' + location + totalMsgString + '</h1>' +
 			      '<img src="{{ site.baseurl }}/assets/images/blank.png" class="flag-big flag-' + country_code + '" alt="" />' +
 			      '<div class="bodyContent">';
 			for (let j = location_messages.length-1; j >= 0; --j) {
@@ -210,10 +234,8 @@ title: Amanda's Blog · Mapa
 	}
 
 	function initMap() {
-
-		var sp = { lat: -23.550520, lng: -46.633309 };
 		var map = new google.maps.Map(document.getElementById('map'), {
-			center: sp,
+			center: map_center(),
 			zoom: 2,
 			fullscreenControl: false,
 			scrollwheel: false,

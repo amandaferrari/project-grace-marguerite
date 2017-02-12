@@ -130,6 +130,19 @@
 	border: none!important;
 }
 
+h1.firstHeading span.total-msg {
+	font-family: "Bitter", serif;
+	font-size: 0.5em;
+	position: relative;
+	bottom: 3px;
+}
+
+@media (max-width: 400px) {
+	h1.firstHeading span.total-msg span.msg {
+		display: none;
+	}
+}
+
 @media (min-width: 768px) {
 	.modal-header {
 		padding: 15px;
