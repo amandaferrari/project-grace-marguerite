@@ -21,14 +21,15 @@ A mensagem serve para cada um de vocês que dedicaram um pouco do tempo para ler
 >
 >Enquanto alguns buscam a fórmula da poção mágica do viver, eu prefiro seguir experimentando receitas inusitadas, mesmo que muitas vezes elas não sejam saborosas. 
 >
->Nessa estrada da vida o que aprendi a respeitar é que não quero ser ninguém diferente de mim >mesma. Não quero ser temperada pelos caprichos e vontades alheias. Não quero ser um tempero >insosso. Quero ser doce. Quero ser apimentada. Quero ser adstringente. Quero ser o resultado de >uma prato de comida regional que carrega a história de gerações. Não quero amar pela metade. Não >quero tolerar a rotina como quem tolera café frio. Não quero viver de falsidade. Não quero tolerar >franqueza de caráter. Quero ter o direito de abominar mentiras. Quero devorar minhas emoções, meus anseios e meus sonhos quando tiver fome.
->Quero seguir minha vida fazendo o mis en place dos meus sentimentos, insistindo para que as >pessoas reflitam que devemos ser além daquilo que vemos no espelho. Ser além de apenas um bípede egoísta em breve e descompromissada passagem por um dos planetas menores. 
+>Nessa estrada da vida o que aprendi a respeitar é que não quero ser ninguém diferente de mim >mesma. Não quero ser temperada pelos caprichos e vontades alheias. Não quero ser um tempero insosso. Quero ser doce. Quero ser apimentada. Quero ser adstringente. Quero ser o resultado de uma prato de comida regional que carrega a história de gerações. Não quero amar pela metade. Não quero tolerar a rotina como quem tolera café frio. Não quero viver de falsidade. Não quero tolerar franqueza de caráter. Quero ter o direito de abominar mentiras. Quero devorar minhas emoções, meus anseios e meus sonhos quando tiver fome.
 >
->E como toda boa receita, às vezes é preciso queimar o fundo da panela para acertar o ponto da >nossa essência. Às vezes salgamos demais para aprender a temperar a alma. Às vezes talhamos o >molho para aprender a incorporar os sentimentos. Encruamos a massa para aprender a crescer. Caímos e levantamos, erramos e acertamos para aprender a VIVER!
+>Quero seguir minha vida fazendo o *mis en place* dos meus sentimentos, insistindo para que as pessoas reflitam que devemos ser além daquilo que vemos no espelho. Ser além de apenas um bípede egoísta em breve e descompromissada passagem por um dos planetas menores. 
+>
+>E como toda boa receita, às vezes é preciso queimar o fundo da panela para acertar o ponto da nossa essência. Às vezes salgamos demais para aprender a temperar a alma. Às vezes talhamos o molho para aprender a incorporar os sentimentos. Encruamos a massa para aprender a crescer. Caímos e levantamos, erramos e acertamos para aprender a VIVER!
 >
 >E quando a receita não está mais fazendo sucesso, é hora de provar novos ingredientes, porque velhas receitas não fazem pratos novos.
 >
->Termino esse texto com a frase da minha Elis Regina da literatura: Clarice Lispector. Na verdade, >poderia ter escrito esse texto inteiro com frases retiradas de livros de Clarice tamanha é minha admiração pela sua maneira de colocar em palavras o que o coração tenta nos dizer a cada dia.
+>Termino esse texto com a frase da minha Elis Regina da literatura: Clarice Lispector. Na verdade, poderia ter escrito esse texto inteiro com frases retiradas de livros de Clarice tamanha é minha admiração pela sua maneira de colocar em palavras o que o coração tenta nos dizer a cada dia.
 >
 >"Minha história é viver. E não tenho medo do fracasso. Que o fracasso me aniquile, quero a glória de cair." 
 >
