@@ -20,7 +20,7 @@ Durante o café, Tizuko me contou, no seu inglês com sotaque e jeito japonês, 
 
 Pergunto a Tizuko se a sujeira da Índia não a atrapalha. Com a serenidade de uma japonesa no auge dos seus 65 anos ela responde: "Quando vi o primeiro indiano jogando lixo no chão eu fui tirar satisfação com ele, mas aí vieram as vacas fazendo cocô, as mulheres jogando lixo nas ruas e percebi que aquilo era difícil de ser mudado. Hoje eu consigo ver que, apesar de todos os problemas, os indianos são pessoas felizes e de bom coração."
 
-Ela volta para o Japão a cada 3 meses por conta do visto e também para comer a sua comida japonesa tradicional que ela fez questão de comer todos os dias no Sri Lanka.
+Ela volta para o Japão a cada 3 meses por conta do visto e também para comer a sua comida japonesa tradicional que ela fez questão de degustar todos os dias no Sri Lanka.
 
 Ao final, ficamos amigas. Tizuko me passou seu telefone residencial em Tokio (ela não sabe usar smartphone, apesar de ter um). Disse para eu ligar para ela no ínicio de abril, quando estarei lá. Vai ser minha guia pela cidade.
 
