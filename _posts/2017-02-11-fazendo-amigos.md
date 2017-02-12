@@ -41,7 +41,7 @@ Tizuko pergunta a Marco se ele não tem medo de morrer.  Ele diz que confia nos 
 
 Marco diz que tem a possibilidade de trabalhar em Dubai, também na embaixada americana, mas que a falta dos adicionais de periculosidade não compensam. 
 
-A cada 3 meses ele passa por check up completo de suas condições físicas e psicológicas, mas se diz feliz com o trabalho.
+A cada 3 meses ele passa por *check up* completo de suas condições físicas e psicológicas, mas se diz feliz com o trabalho.
 
 Tizuko fica brava com Marco e diz que se ela fosse a mãe dele, ele ia apanhar muito para ele deixar de fazer coisas perigosas.
 
@@ -56,7 +56,7 @@ Conversando com Jenny descubro que ela é uma jornalista e fotógrafa independen
 
 Antes do Sri Lanka, estavam morando no Líbano documentando os costumes do país. Ela passa meses em cada lugar contando histórias de pessoas que tem suas histórias negadas pelos meios de comunicação tradicionais. No Sri Lanka ela fez um série de reportagens sobre a herança da guerra civil para a população.
 
-Com um fotojornalismo encantador e independente ela publicou vários textos em jornais ao redor do mundo, optando por uma vida de home office e fazendo dos hostels ao redor do mundo sua casa. 
+Com um fotojornalismo encantador e independente ela publicou vários textos em jornais ao redor do mundo, optando por uma vida de home office e fazendo dos *hostels* ao redor do mundo sua casa. 
 
 O site de Jenny para quem quiser acompanhá-la é [http://www.atjenny.com/](http://www.atjenny.com/).
 
