@@ -15,7 +15,7 @@ Há 5 meses saí de licença da empresa em que trabalho para colocar em prática
 A mensagem serve para cada um de vocês que dedicaram um pouco do tempo para ler essa página! 
 
 
->Estou saindo de licença da Petrobras, uma empresa pela qual nutro sentimentos ambíguos, sentimentos que associam admiração e perplexidade, mas que essencialmente representam a capacidade de construir e reinventar do brasileiro, da qual sinto muito orgulho em difundir mundo afora. 
+>"Estou saindo de licença da Petrobras, uma empresa pela qual nutro sentimentos ambíguos, sentimentos que associam admiração e perplexidade, mas que essencialmente representam a capacidade de construir e reinventar do brasileiro, da qual sinto muito orgulho em difundir mundo afora. 
 >
 >Sei que é de quase impossível entendimento para muitos. Não tentarei esclarecer nada aqui, a não ser dizer que na maioria das vezes é o amor que provoca mudanças. E eu amo VIVER. 
 >
@@ -33,6 +33,6 @@ A mensagem serve para cada um de vocês que dedicaram um pouco do tempo para ler
 >
 >"Minha história é viver. E não tenho medo do fracasso. Que o fracasso me aniquile, quero a glória de cair." 
 >
->Essa é a mensagem mais sincera que poderia deixar para cada um de vocês. Reinvente-se a cada dia!"
+>Essa é a mensagem mais sincera que poderia deixar para cada um de vocês. Reinvente-se a cada dia!
 >
->*One life. Live it*.
+>*One life. Live it.*
