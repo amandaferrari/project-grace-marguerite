@@ -41,7 +41,7 @@ Tizuko pergunta a Marco se ele não tem medo de morrer.  Ele diz que confia nos 
 
 Marco diz que tem a possibilidade de trabalhar em Dubai, também na embaixada americana, mas que a falta dos adicionais de periculosidade não compensam. 
 
-A cada 3 meses ele passa por check up completo de suas condições físicas e psicológica, mas se diz feliz com o trabalho.
+A cada 3 meses ele passa por check up completo de suas condições físicas e psicológicas, mas se diz feliz com o trabalho.
 
 Tizuko fica brava com Marco e diz que se ela fosse a mãe dele, ele ia apanhar muito para ele deixar de fazer coisas perigosas.
 
