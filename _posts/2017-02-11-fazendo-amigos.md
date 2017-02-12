@@ -56,7 +56,7 @@ Conversando com Jenny descubro que ela é uma jornalista e fotógrafa independen
 
 Antes do Sri Lanka, estavam morando no Líbano documentando os costumes do país. Ela passa meses em cada lugar contando histórias de pessoas que tem suas histórias negadas pelos meios de comunicação tradicionais. No Sri Lanka ela fez um série de reportagens sobre a herança da guerra civil para a população.
 
-Com um fotojornalismo encantador e independente ela publicou vários textos em jornais ao redor do mundo, optando por uma vida de home office e fazendo dos *hostels* ao redor do mundo sua casa. 
+Com um fotojornalismo encantador e independente ela publicou vários textos em jornais ao redor do mundo, optando por uma vida de *home office* e fazendo dos *hostels* ao redor do mundo sua casa. 
 
 O site de Jenny para quem quiser acompanhá-la é [http://www.atjenny.com/](http://www.atjenny.com/).
 
