@@ -35,4 +35,4 @@ A mensagem serve para cada um de vocês que dedicaram um pouco do tempo para ler
 >
 >Essa é a mensagem mais sincera que poderia deixar para cada um de vocês. Reinvente-se a cada dia!
 >
->*One life. Live it.*
+>*One life. Live it.*"
