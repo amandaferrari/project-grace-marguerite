@@ -16,6 +16,7 @@
 	position: relative;
 	top: 40px;
 	width: 40px;
+	margin-top: 20px;
 }
 
 .modal-body img.location-marker {
@@ -45,17 +46,29 @@
 .timeline-infowindow .message {
 	border-bottom: 1px solid #bdc3c7;
 	padding-bottom: 20px;
+	position: relative;
 }
 
 .timeline-infowindow .message:last-child {
 	border: none;
 }
 
-.timeline-infowindow h3 {
-	float: right;
+.timeline-infowindow .bodyContent h3 {
 	font-family: "Bitter", serif;
 	font-size: 1.2em;
 	color: #2980b9;
+}
+
+.timeline-infowindow .bodyContent h3.date {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.timeline-infowindow .bodyContent h3.city {
+	position: absolute;
+	top: 0;
+	left: 0;
 }
 
 .timeline-infowindow p {
@@ -63,6 +76,7 @@
 	font-size: 1.1em;
 	clear: both;
 	margin-left: 50px;
+	text-align: justify;
 }
 
 #modal-label {
@@ -161,12 +175,11 @@
 		font-weight: bolder;
 		margin-left: 70px;
 		min-height: 60px;
-		padding-top: 20px;
 	}
 
 	.timeline-infowindow .message img.avatar-msg {
 		position: relative;
-		top: 60px;
+		top: 50px;
 		width: 60px;
 	}
 
