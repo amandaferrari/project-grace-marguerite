@@ -13,7 +13,7 @@ comments: true
 
 # Um pouco mais de socialismo na minha vida: é de busão que eu vou! 
 
-Antes de vir para o Sri Lanka, vi muitos *blogs* que comentavam sobre a dificuldade para se deslocar de um lado para o outro dentro do país com o transporte público. Por esse motivo, considerei alugar um carro para poder viajar com mais facilidade. Estava com medo do que eu ia encontrar por lá. Durante a reserva do carro, tive alguns problemas e acabei desistindo da ideia. Foi o melhor que fiz. Estando aqui durante esses dias e fazendo uso regular dos ônibus e dos trens para deslocamento (intra/intermunicipal) posso dizer sem medo de errar: __os *blogs* estavam errados__. Viajar por aqui é muito fácil, mas claro que __sem nenhum luxo__. 
+Antes de vir para o Sri Lanka, vi muitos *blogs* que comentavam sobre a dificuldade para se deslocar de um lado para o outro dentro do país com o transporte público. Por esse motivo, considerei alugar um carro para poder viajar com mais facilidade. Estava com medo do que eu ia encontrar por lá. Durante a reserva do carro, tive alguns problemas e acabei desistindo da ideia. Foi o melhor que fiz. Estando aqui durante esses dias e fazendo uso regular dos ônibus e dos trens para deslocamento (intra/intermunicipal) posso dizer sem medo de errar: __os blogs estavam errados__. Viajar por aqui é muito fácil, mas claro que __sem nenhum luxo__. 
 
 Apesar da tranquilidade de usar os ônibus e trens no Sri Lanka, muitas características dos veículos e dos usuários tornam a experiência única. E é sobre isso que vou escrever nesse novo texto do *blog*. Será que consigo passar um pouco do que senti rodando pela ilha dos elefantes? Espero que sim! :smiley:
 
@@ -33,7 +33,7 @@ Depois que você conseguiu entrar no "busão" é hora de presenciar como todas a
 
 A minha primeira observação foi notar que o motorista dirige descalço. Com raras exceções eles estão usando um chinelo de dedo, o que torna a viagem ainda mais instigante. 
 
-Tome o lugar no seu assento (__se__ houver um disponível - não pode ser o primeiro banco que é reservado ao clero, inclua aqui os monges, um absurdo se pensarmos que eles supostamente deveriam praticar a benevolência), aperte os cintos (ops, não há) e feche as portas (ixi, eles não fecham, não mesmo - o cobrador vai dependurado na porta para "orientar" o trânsito e as manobras de maluco do motorista). É hora da viagem começar! :simple_smile:
+Tome o lugar no seu assento (__se__ houver um disponível - não pode ser o primeiro banco que é reservado ao clero, inclua aqui os monges, um absurdo se pensarmos que eles supostamente deveriam praticar a benevolência), aperte os cintos (ops, não há) e feche as portas (ixi, eles não fecham, não mesmo - o cobrador vai dependurado na porta para "orientar" o trânsito e as manobras de maluco do motorista). É hora da viagem começar! :laughing:
 
 ## A viagem: já deu sua buzinada de hoje?
 
