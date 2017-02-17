@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Nessa bumba eu ando mais...
-description: Andando de transporte público no Sri Lanka
+title: O Sabor da Vida
 category: travel
-tags: ['Sociedade', 'Transporte']
-image: post6.jpg
-image-description: "Foto: ônibus entre Dambulla e Polonnaruwa."
-country-code: lk
-country: Sri Lanka
+tags: ['Vida', 'Reflexão']
+image: post2.jpg
+image-description: "O que você quer saborear?"
+country-code: br
+country: Brasil
 comments: true
 ---
+
 
 Antes de vir para o Sri Lanka, vi muitos *blogs* que comentavam sobre a dificuldade para se deslocar de um lado para o outro dentro do país com o transporte público. Por esse motivo, considerei alugar um carro para poder me viajar com mais facilidade. Estava com medo do que eu ia encontrar por lá. Durante a reserva do carro, tive alguns problemas e acabei desistindo da ideia. Foi o melhor que fiz. Estando aqui durante esses dias e fazendo uso regular dos ônibus e dos trens para deslocamento (intra/intermunicipal) posso dizer sem medo de errar: os *blogs* estavam errados. Viajar por aqui é muito fácil, mas claro que sem nenhum luxo.
 
