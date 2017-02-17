@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Nessa bumba eu ando mais...
-description: Andando de transporte público no Sri Lanka
+title: Conhecendo pessoas...
+description: Quando os sozinhos se encontram...
 category: travel
-tags: ['Sociedade','Transporte']
+tags: ['Pessoas', 'Sozinha', 'Viajar']
 image: post6.jpg
-image-description: "Foto: ônibus entre Dambulla e Polonnaruwa."
+image-description: "Foto: tirada aos pés da Pedra do Leão (Sigiriya Rock) com o povo do Sri Lanka!"
 country-code: lk
 country: Sri Lanka
 comments: true
