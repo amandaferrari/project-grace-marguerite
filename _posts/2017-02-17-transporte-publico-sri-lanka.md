@@ -11,8 +11,6 @@ country: Sri Lanka
 comments: true
 ---
 
-# Um pouco mais de socialismo na minha vida: é de busão que eu vou! 
-
 Antes de vir para o Sri Lanka, vi muitos *blogs* que comentavam sobre a dificuldade para se deslocar de um lado para o outro dentro do país com o transporte público. Por esse motivo, considerei alugar um carro para poder viajar com mais facilidade. Estava com medo do que eu ia encontrar por lá. Durante a reserva do carro, tive alguns problemas e acabei desistindo da ideia. Foi o melhor que fiz. Estando aqui durante esses dias e fazendo uso regular dos ônibus e dos trens para deslocamento (intra/intermunicipal) posso dizer sem medo de errar: __os blogs estavam errados__. Viajar por aqui é muito fácil, mas claro que __sem nenhum luxo__. 
 
 Apesar da tranquilidade de usar os ônibus e trens no Sri Lanka, muitas características dos veículos e dos usuários tornam a experiência única. E é sobre isso que vou escrever nesse novo texto do *blog*. Será que consigo passar um pouco do que senti rodando pela ilha dos elefantes? Espero que sim! :smiley:
@@ -43,7 +41,8 @@ O ônibus segue seu trajeto com o motorista buzinando de 5 em 5 segundos. É inf
 
 ## No meio do caos, a modernidade
 
-Apesar da falta de luxo do país, o Sri Lanka consegue ser mais avançado do que São Paulo em alguns fatores. Nos ônibus por exemplo não há catraca. O cobrador passa nos bancos cobrando a passagem e tem uma vantagem: o preço é dinâmico. Se você vai andar só 2 km, não vai pagar o mesmo de alguém que vai andar 20 km. Tudo isso é simples e rápido e  feito com uma máquina automática. Será que um dia chegaremos a esse nível de desenvolvimento no transporte?
+Apesar da falta de luxo do país, o Sri Lanka consegue ser mais avançado do que São Paulo em alguns fatores. Nos ônibus por exemplo não há catraca. O cobrador passa nos bancos cobrando a passagem e tem uma vantagem: o preço é dinâmico. Se você vai andar só 2 km, não vai pagar o mesmo de alguém que vai andar 20 km. Tudo isso é 
+s e rápido e  feito com uma máquina automática. Será que um dia chegaremos a esse nível de desenvolvimento no transporte?
 
 ## Quantas pistas são mesmo?
 
