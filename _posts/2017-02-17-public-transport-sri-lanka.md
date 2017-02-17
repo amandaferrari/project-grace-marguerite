@@ -5,7 +5,7 @@ description: Andando de transporte público no Sri Lanka
 category: travel
 tags: ['Sociedade', 'Transporte']
 image: post6.jpg
-image-description: Foto: ônibus entre Dambulla e Polonnaruwa.
+image-description: "Foto: ônibus entre Dambulla e Polonnaruwa."
 country-code: lk
 country: Sri Lanka
 comments: true
