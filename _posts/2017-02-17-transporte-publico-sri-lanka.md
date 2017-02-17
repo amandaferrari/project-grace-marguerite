@@ -11,9 +11,9 @@ country: Sri Lanka
 comments: true
 ---
 
-# Um pouco mais de socialismo na minha: é de busão que eu vou! 
+# Um pouco mais de socialismo na minha vida: é de busão que eu vou! 
 
-Antes de vir para o Sri Lanka, vi muitos *blogs* que comentavam sobre a dificuldade para se deslocar de um lado para o outro dentro do país com o transporte público. Por esse motivo, considerei alugar um carro para poder viajar com mais facilidade. Estava com medo do que eu ia encontrar por lá. Durante a reserva do carro, tive alguns problemas e acabei desistindo da ideia. Foi o melhor que fiz. Estando aqui durante esses dias e fazendo uso regular dos ônibus e dos trens para deslocamento (intra/intermunicipal) posso dizer sem medo de errar: __os __*blogs*__ estavam errados__. Viajar por aqui é muito fácil, mas claro que __sem nenhum luxo__. 
+Antes de vir para o Sri Lanka, vi muitos *blogs* que comentavam sobre a dificuldade para se deslocar de um lado para o outro dentro do país com o transporte público. Por esse motivo, considerei alugar um carro para poder viajar com mais facilidade. Estava com medo do que eu ia encontrar por lá. Durante a reserva do carro, tive alguns problemas e acabei desistindo da ideia. Foi o melhor que fiz. Estando aqui durante esses dias e fazendo uso regular dos ônibus e dos trens para deslocamento (intra/intermunicipal) posso dizer sem medo de errar: __os__ __*blogs*__ __estavam errados__. Viajar por aqui é muito fácil, mas claro que __sem nenhum luxo__. 
 
 Apesar da tranquilidade de usar os ônibus e trens no Sri Lanka, muitas características dos veículos e dos usuários tornam a experiência única. E é sobre isso que vou escrever nesse novo texto do *blog*. Será que consigo passar um pouco do que senti rodando pela ilha dos elefantes? Espero que sim! :smiley:
 
