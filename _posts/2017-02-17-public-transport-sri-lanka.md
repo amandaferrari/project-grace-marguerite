@@ -1,12 +1,13 @@
 ---
 layout: post
-title: O Sabor da Vida
+title: Nessa bumba eu ando mais...
+description: Andando de transporte público no Sri Lanka
 category: travel
-tags: ['Vida', 'Reflexão']
-image: post2.jpg
-image-description: "O que você quer saborear?"
-country-code: br
-country: Brasil
+tags: ['Sociedade','Transporte']
+image: post6.jpg
+image-description: "Foto: ônibus entre Dambulla e Polonnaruwa."
+country-code: lk
+country: Sri Lanka
 comments: true
 ---
 
