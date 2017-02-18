@@ -24,3 +24,12 @@ Sri Lanka:
     city: Kandy
     message: No tuk tuk today or tomorrow.
     mood: furious
+India:
+  - date: 18/02/2017
+    city: Delhi
+    message: Delhi é o maior surrealismo que já presenciei na minha vida. Ainda tentando assimilar tanta informação.
+    mood: watcher
+  - date: 18/02/2017
+    city: Delhi
+    message: Quer ir em um casamento? Quero sim! 
+    mood: adventure
