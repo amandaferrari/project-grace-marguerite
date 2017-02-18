@@ -24,6 +24,15 @@ Sri Lanka:
     city: Kandy
     message: No tuk tuk today or tomorrow.
     mood: furious
+  - date: 16/02/2017
+    city: Colombo
+    message: Apreciando as lindas paisagens pela janela do trem entre Kandy e Colombo.
+    mood: watcher
+  - date: 17/02/2017
+    city: Colombo
+    message: Último dia no Sri Lanka, um país de múltiplas facetas.
+    mood: mafalda
+    
 India:
   - date: 18/02/2017
     city: Delhi
