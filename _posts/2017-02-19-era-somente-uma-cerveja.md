@@ -5,7 +5,7 @@ description:
 category: travel
 tags: ['Cerveja', 'Sociedade']
 image: post7.jpg
-image-description: "Foto: procurando uma cerveja na caótica Delhi"
+image-description: "Reprodução da internet: Dare Devil Beer"
 country-code: in
 country: India
 comments: true
