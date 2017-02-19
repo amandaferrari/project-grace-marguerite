@@ -7,7 +7,7 @@ tags: ['Cerveja', 'Sociedade']
 image: post7.jpg
 image-description: "Reprodução da internet: Dare Devil Beer"
 country-code: in
-country: India
+country: Índia
 comments: true
 ---
 
