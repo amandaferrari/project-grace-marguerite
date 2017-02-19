@@ -1,8 +1,9 @@
 Brasil:
   - date: 06/02/2017
     city: Sorocaba
-    message: Inaugurando hoje minha página. Todos os RASTROS por esse mundo serão registrados aqui. Merci ao meu preguiça gigante favorito pelo esforço incomensurável para tornar esse sonho realidade! “Amar é muito importante, mas sonhar juntos é fundamental. (Marisa Letícia)" Que bom que ele sonha comigo! 
+    message: Inaugurando hoje minha página. Todos os RASTROS por esse mundo serão registrados aqui. Merci ao meu preguiça gigante favorito pelo esforço incomensurável para tornar esse sonho realidade! “Amar é muito importante, mas sonhar juntos é fundamental. (Marisa Letícia)" Que bom que ele sonha comigo!
     mood: happy
+
 Sri Lanka:
   - date: 09/02/2017
     city: Colombo
@@ -44,5 +45,5 @@ India:
     mood: adventure
   - date: 19/02/2017
     city: Delhi
-    message: "Constatação escatológica número 1: felicidade em acordar depois de um dia na Índia sem diarréia. :shit:"
+    message: "Constatação escatológica número 1: felicidade em acordar depois de um dia na Índia sem diarréia."
     mood: happy
