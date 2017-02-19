@@ -23,7 +23,7 @@ Perguntei para meu guia onde eu poderia encontrar um local que vendesse cerveja 
 
 Depois de virar aqui, ali e ali de novo, entramos em um prédio com detector de metais e na portinha à direita havia um revendedor de cerveja. 
 
-Pedi logo duas latas grandes da cerveja mais forte que fosse fabricada e envasada na Índia. Consegui a Dare Devil.
+Pedi logo duas latas grandes da cerveja mais forte que fosse fabricada e envasada na Índia. Consegui a Dare Devil. :imp:
 
 Para sair da loja me deram uma sacola vermelha de tecido para que eu não mostrasse o meu pecado para ninguém.
 
