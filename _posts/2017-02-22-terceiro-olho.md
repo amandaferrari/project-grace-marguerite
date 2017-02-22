@@ -13,7 +13,7 @@ comments: true
 
 Viajar sozinha nem sempre é algo fácil, principalmente quando você resolve incluir no itinerário um país tradicionalmente **machista** e **segregador** como é a Índia.
 
-Apesar da situação das mulheres no país ter melhorado consideravelmente nos últimos anos (resultado de campanhas nacionais de conscientização, principalmente após os famosos casos de estupro coletivo que assolaram o país), a condição de existência da mulher na sociedade indiana ainda está muito aquem do ideal.
+Apesar da situação das mulheres no país ter melhorado consideravelmente nos últimos anos (resultado de campanhas nacionais de conscientização, principalmente após os famosos casos de estupro coletivo que assolaram o país), a condição de existência da mulher na sociedade indiana ainda está muito aquém do ideal.
 
 Para se ter uma ideia, no aeroporto de Delhi as filas de raio-x são segregadas entre homens e mulheres, sendo que 75% dos equipamentos de inspeção são para homens. Além disso, ainda na área de raio x, mulheres tem uma cabine com cortina para revista de segurança, enquanto homens não.
 
