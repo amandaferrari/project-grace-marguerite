@@ -5,7 +5,7 @@ description: Mudando de estado civil em 3,2,1...
 category: travel
 tags: ['Mulher','Sociedade','Casamento']
 image: post8.jpg
-image-description: "Foto: taxi na Índia mostrando a campanha de conscientização em favor aos direitos da mulher."
+image-description: "Foto: taxi na Índia mostrando a campanha de conscientização em favor dos direitos da mulher."
 country-code: in
 country: Índia
 comments: true
