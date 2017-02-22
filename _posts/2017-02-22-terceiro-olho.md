@@ -21,15 +21,15 @@ Nesse dias que estou aqui, por várias vezes, homens tentaram me ignorar enquant
 
 Aqui eu tive um grande dilema. Como sou fisicamente e culturalmente muito diferente deles, existe uma curiosidade natural em saber algumas coisas sobre mim. Principalmente como uma maluca, branca de olhos verdes resolve se aventurar sozinha pelas terras de cá.
 
-No começo, quando dizia que meu namorado estava no Brasil terminando um doutorado e, por isso não poderia me acompanhar a situação ficava pior. Ninguém entendia o porquê e ele me "deixou" vir para cá. A herança de posse da mulher na sociedade indiana talvez nunca seja contornada.
+No começo, quando dizia que meu namorado estava no Brasil terminando um doutorado e, por isso não poderia me acompanhar, a situação ficava pior. Ninguém entendia porque ele me "deixou" vir para cá sozinha. A herança de posse da mulher na sociedade indiana talvez nunca seja contornada.
 
-Então, para tornar as coisas mais fáceis, resolvi mudar meu estado civil. Resolvi assinar um papel comigo mesma em nome do meu namorado e dizer que eu era _casada_ (Espero que ele não leia isso, hahaha).
+Então, para tornar as coisas mais fáceis, resolvi mudar meu estado civil. Resolvi assinar um papel comigo mesma em nome do meu namorado e dizer que eu era _casada_ (Espero que ele não leia isso, hahaha). :bride_with_veil:
 
 Mas as coisas não melhoraram. Na verdade pioraram. Como ocidental, eles me perguntavam onde estava minha aliança. Ganhei outro problema. Como explicar que não era religiosa para usar aliança (apesar de saber da origem laica do objeto) dentro de um país que vive de religião?
 
 Estava indignada e já sem paciência para esse tipo de pergunta e fiquei pensando em como não ser mais incomodada com isso. 
 
-A resposta veio em forma de pessoa. Encontrei Sadda e sua família em um parque em Udaipur. Começamos a conversar, usando seu filho como intérprete, e lhe disse que estava chateada com essa situação de não acharem que eu era casada. Ela então abriu sua bolsa, tirou uma pequena pedrinha verde e colou na minha testa. Era um terceiro olho. Disse que a cor era para combinar com meus olhos.
+A resposta veio em forma de uma pessoa. Encontrei Sadda e sua família em um parque em Udaipur. Começamos a conversar, usando seu filho como intérprete, e lhe disse que estava chateada com essa situação de não acharem que eu era casada. Ela então abriu sua bolsa, tirou uma pequena pedrinha verde e colou na minha testa. Era um terceiro olho. Disse que a cor era para combinar com meus olhos.
 
 Bom, coincidência ou não, pelo menos hoje eu não fui questionada sobre meu estado civil. Espero que isso me ajude.
 
