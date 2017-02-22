@@ -182,7 +182,7 @@ title: Amanda's Blog · Mapa
 				let date = location_messages[j]['date'];
 				let city = location_messages[j]['city'];
 				let msg  = location_messages[j]['msg'];
-				let mood = location_messages[j]['mood'];
+				let mood = location_messages[j]['mood'] || 'thumbnail';
 				contentString += '<div class="message" id="' + location + '#' + j + '">' +
 									'<h3 class="city">' + city + '</h3>' +
 									'<h3 class="date">' + date + '</h3>' +
