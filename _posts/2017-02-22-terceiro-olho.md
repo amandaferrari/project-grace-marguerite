@@ -37,6 +37,6 @@ Acho que explicar que a situação das mulheres no Brasil é muito melhor que a 
 
 ![Sada e sua família]({{site.baseurl}}/assets/images/photos/posts/sada.jpg)*Sada e sua família*
 
-![Meu terceiro olho. Detalhe para quando você pede para alguém que não sabe usar sua máquina tirar foto.]({{site.baseurl}}/assets/images/photos/posts/eu3olho.jpg)*Meu terceiro olho. Detalhe para quando você pede para alguém que não sabe usar sua máquina tirar foto.*
+![Meu terceiro olho. Detalhe para quando você pede para alguém que não sabe usar sua máquina tirar foto.]({{site.baseurl}}/assets/images/photos/posts/me3olho.jpg)*Meu terceiro olho. Detalhe para quando você pede para alguém que não sabe usar sua máquina tirar foto.*
 
 Nota para o Petithi: eu já acostumei tanto a falar que sou casada que quando voltar pro Brasil vou manter meu estado civil. :joy:
