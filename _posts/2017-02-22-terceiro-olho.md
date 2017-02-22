@@ -35,8 +35,8 @@ Bom, coincidência ou não, pelo menos hoje eu não fui questionada sobre meu es
 
 Acho que explicar que a situação das mulheres no Brasil é muito melhor que a delas é minha obrigação. Afinal elas precisam enxergar que sua condição social não pode ser ignorada. Mas tentar fazer com elas enxerguem que uma mulher pode, sim, viajar sozinha e sem o marido, exige muita assimilação e o pouco tempo que vou passar por aqui não fará grande diferença. Mas espero ao menos plantar uma semente da heresia na cabeça de alguma dessas almas curiosas que vagam sem sonhos por esse país.
 
-![Sada e sua família]({{site.baseurl}}/assets/images/photos/posts/sada.jpg)*Sada e sua família*
+![Sadda e sua família]({{site.baseurl}}/assets/images/photos/posts/sada.jpg)*Sadda e sua família*
 
-![Meu terceiro olho. Detalhe para quando você pede para alguém que não sabe usar sua máquina tirar foto.]({{site.baseurl}}/assets/images/photos/posts/me3olho.jpg)*Meu terceiro olho. Detalhe para quando você pede para alguém que não sabe usar sua máquina tirar foto.*
+![Meu terceiro olho. Detalhe para quando você pede para alguém que não sabe usar sua máquina tirar foto]({{site.baseurl}}/assets/images/photos/posts/me3olho.jpg)*Meu terceiro olho. Detalhe para quando você pede para alguém que não sabe usar sua máquina tirar foto*
 
-Nota para o Petithi: eu já acostumei tanto a falar que sou casada que quando voltar pro Brasil vou manter meu estado civil. :joy:
+:exclamation: Nota para o Petithi: eu já acostumei tanto a falar que sou casada que quando voltar pro Brasil vou manter meu estado civil. :joy:
