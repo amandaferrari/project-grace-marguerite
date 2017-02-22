@@ -17,7 +17,7 @@ Apesar da situação das mulheres no país ter melhorado consideravelmente nos �
 
 Para se ter uma ideia, no aeroporto de Delhi as filas de raio-x são segregadas entre homens e mulheres, sendo que 75% dos equipamentos de inspeção são para homens. Além disso, ainda na área de raio x, mulheres tem uma cabine com cortina para revista de segurança, enquanto homens não.
 
-Nesse dias que estou aqui, por várias vezes, homens tentaram me ignorar enquanto estava em filas de entrada de museus, de *check-in* de aeroporto e mesmo de restaurantes. Tentaram, mas não conseguiram. Feministas serão feministas em qualquer país do mundo. Na Índia não seria diferente.
+Nesse dias que estou aqui, por várias vezes, homens tentaram me ignorar enquanto estava em filas de entrada de museus, de *check-in* de aeroporto e mesmo de restaurantes. Tentaram, mas não conseguiram. Feministas serão feministas em qualquer país do mundo. Na Índia não seria diferente. :muscle:
 
 Aqui eu tive um grande dilema. Como sou fisicamente e culturalmente muito diferente deles, existe uma curiosidade natural em saber algumas coisas sobre mim. Principalmente como uma maluca, branca de olhos verdes resolve se aventurar sozinha pelas terras de cá.
 
