@@ -20,7 +20,7 @@ Um experimento fotográfico. :camera:
 
 Essas duas fotografias foram tiradas exatamente no mesmo lugar sem sequer dar um passo para o lado. Só escolhi o que gostaria de focar naquele momento para poder mostrar justamente como imagens desconectadas não conseguem extrair todas as informações de um mesmo lugar.
 
-Se eu quisesse mostrar que estou passando somente por Índia dos contos de fadas de reis e rainhas, colocaria a imagem 1. Mas se eu quisesse mostrar só as suas mazelas, usaria a imagem 2. É natural querermos mostrar somente as belezas de um lugar (apesar do Brasil ser campeão em exportar más notícias para o mundo). Mas a vida não é um filtro do Instagram. As cores do mundo são múltiplas. A Índia não é feita só de uma das duas fotografias. É um país de múltiplas facetas que impedem uma generalização.
+Se eu quisesse mostrar que estou passando somente pela Índia dos contos de fadas de reis e rainhas, colocaria a imagem 1. Mas se eu quisesse mostrar só as suas mazelas, usaria a imagem 2. É natural querermos mostrar somente as belezas de um lugar (apesar do Brasil ser campeão em exportar más notícias para o mundo). Mas a vida não é um filtro do Instagram. As cores do mundo são múltiplas. A Índia não é feita só de uma das duas fotografias. É um país de múltiplas facetas que impedem uma generalização.
 
 Isso que eu fiz é exatamente o que a imprensa faz diariamente, mas claro que ao invés de usar somente imagens, usa textos. Cada veículo de comunicação mostra aquilo que lhe convém. 
 
