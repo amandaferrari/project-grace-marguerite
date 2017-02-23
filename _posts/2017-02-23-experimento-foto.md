@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Experimento fotográfico
-description:O mundo é uma questão de perspectiva.
+description: O mundo é uma questão de perspectiva.
 category: travel
 tags: ['Imprensa','Sociedade','Perspectiva']
 image: post9.jpg
-image-description: "Foto: taxi na Índia mostrando a campanha de conscientização em favor dos direitos da mulher."
+image-description: "Foto: qual lado você quer ver?."
 country-code: in
 country: Índia
 comments: true
