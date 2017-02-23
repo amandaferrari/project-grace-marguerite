@@ -13,7 +13,7 @@ comments: true
 
 ![Imagem 1 - As belezas da Índia]({{site.baseurl}}/assets/images/photos/posts/ricojaipur.jpg)*Imagem 1 - As belezas da Índia*
 
-![Imagem 2 - A sujeira da Índia]({{site.baseurl}}/assets/images/photos/posts/pobrejaipur.jpg)*A sujeira da Índia.*
+![Imagem 2 - A sujeira da Índia]({{site.baseurl}}/assets/images/photos/posts/pobrejaipur.jpg)*Imagem 2 - A sujeira da Índia.*
 
 
 Um experimento fotográfico. :camera:
