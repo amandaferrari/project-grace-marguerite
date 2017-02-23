@@ -11,12 +11,12 @@ country: Índia
 comments: true
 ---
 
+Um experimento fotográfico. :camera:
+
 ![Imagem 1 - As belezas da Índia]({{site.baseurl}}/assets/images/photos/posts/ricojaipur.jpg)*Imagem 1 - As belezas da Índia*
 
 ![Imagem 2 - A sujeira da Índia]({{site.baseurl}}/assets/images/photos/posts/pobrejaipur.jpg)*Imagem 2 - A sujeira da Índia.*
 
-
-Um experimento fotográfico. :camera:
 
 Essas duas fotografias foram tiradas exatamente no mesmo lugar sem sequer dar um passo para o lado. Só escolhi o que gostaria de focar naquele momento para poder mostrar justamente como imagens desconectadas não conseguem extrair todas as informações de um mesmo lugar.
 
