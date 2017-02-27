@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Menu Varanasi
-description: O mundo é uma questão de perspectiva.
+description: Uma cidade sem filtros 
 category: travel
 tags: ['Sociedade','Perspectiva']
 image: post10.jpg
