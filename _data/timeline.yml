@@ -87,13 +87,3 @@ India:
     city: Varanasi
     message: Chocada. Não tenho outra palavra para me descrever nesse momento.
     mood: mafalda
- 
- Nepal:
-  - date: 28/02/2017
-    city: Kathmandu
-    message: A educação do povo do Nepal é o que me chama a atenção nesse primeiro momento.
-    mood: happy
-  - date: 01/03/2017
-    city: Kathmandu
-    message: O terremoto de 2015 ainda deixa marcas em Kathmandu.
-    mood: worry
