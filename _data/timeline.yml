@@ -97,3 +97,63 @@ Nepal:
     city: Kathmandu
     message: O terremoto de 2015 ainda deixa marcas em Kathmandu.
     mood: worry
+  - date: 02/03/2017
+    city: Kathmandu
+    message: Saindo agora de Kathmandu com direção a Lukla.
+    mood: worry
+  - date: 02/03/2017
+    city: Lukla
+    message: Medo. Sentimento que define meu vôo entre Kathmandu e Lukla.
+    mood: worry
+  - date: 02/03/2017
+    city: Phading
+    message: Primeiro trecho do trekking rumo ao acampamento base do Everest concluído. Odeio descidas no caminho de ida. 
+    mood: happy
+  - date: 03/03/2017
+    city: Namche Bazar
+    message: A primeira visão do Everest a gente nunca esquece.
+    mood: happy
+  - date: 04/03/2017
+    city: Namche Bazar
+    message: Everest resolveu se esconder hoje.
+    mood: worry
+  - date: 05/03/2017
+    city: Tengboche
+    message: O frio começa a me consumir. Tentando sobreviver ao frio dentro de um ritual budista no monastério de Tengboche
+    mood: worry 
+  - date: 06/03/2017
+    city: Dingboche
+    message: A determinação dos japoneses é inspiradora!
+    mood: worry
+  - date: 07/03/2017
+    city: Dingboche
+    message: Mais um dia de aclimatação!Estou chegando aos 5000 m de altitude!
+    mood: worry
+  - date: 08/03/2017
+    city: Lobuche
+    message: Que noite terrível de sono!
+    mood: worry
+  - date: 09/03/2017
+    city: Gorak Shep
+    message: Um dia de lindo de sol no EBC. Primeira parte do desafio completa! Que sensação boa!
+    mood: happy
+  - date: 10/03/2017
+    city: Pheriche
+    message: Após subir o Kalapatthar com temperatura de -25°C, a neve me atinge no caminho de volta!
+    mood: worry
+  - date: 11/03/2017
+    city: Phunki Tenga
+    message: Mais um dia caminhando em tempestade de neve!
+    mood: worry
+  - date: 12/03/2017
+    city: Phading
+    message: O dia mais longo de trekking! Falta apenas uma etapa!
+    mood: worry
+  - date: 13/03/2017
+    city: Lukla
+    message: É o fim!!!!
+    mood: worry
+  - date: 14/03/2017
+    city: Lukla
+    message: Preocupada com o voo da volta!
+    mood: worry
