@@ -1,47 +1,47 @@
 Brasil:
   - date: 06/02/2017
     city: Sorocaba
-    message: Inaugurando hoje minha página. Todos os RASTROS por esse mundo serão registrados aqui. Merci ao meu preguiça gigante favorito pelo esforço incomensurável para tornar esse sonho realidade! “Amar é muito importante, mas sonhar juntos é fundamental. (Marisa Letícia)" Que bom que ele sonha comigo!
+    message: "Inaugurando hoje minha página. Todos os RASTROS por esse mundo serão registrados aqui. Merci ao meu preguiça gigante favorito pelo esforço incomensurável para tornar esse sonho realidade! Amar é muito importante, mas sonhar juntos é fundamental. (Marisa Letícia) Que bom que ele sonha comigo!"
     mood: happy
 
 Sri Lanka:
   - date: 09/02/2017
     city: Colombo
-    message: Assistindo o festival "Perahera" em Colombo. Trata-se da festa budista mais tradicional do Sri Lanka. Pena que as religiões insistem em usar animais nos seus rituais.
+    message: "Assistindo o festival Perahera em Colombo. Trata-se da festa budista mais tradicional do Sri Lanka. Pena que as religiões insistem em usar animais nos seus rituais."
     mood: furious
   - date: 11/02/2017
     city: Dambulla
-    message: Conhecendo a Sigiriya Rock, uma fortaleza patrimônio mundial da UNESCO, uma das cidades antigas mais bem preservadas na atualidade.
+    message: "Conhecendo a Sigiriya Rock, uma fortaleza patrimônio mundial da UNESCO, uma das cidades antigas mais bem preservadas na atualidade."
     mood: adventure
   - date: 12/02/2017
     city: Polonnaruwa
-    message: Quase virando especialista em transporte público no Sri Lanka. Para uma pessoa acostumada a lidar com regras de segurança, isso aqui tá bem longe do mínimo aceitável.
+    message: "Quase virando especialista em transporte público no Sri Lanka. Para uma pessoa acostumada a lidar com regras de segurança, isso aqui tá bem longe do mínimo aceitável."
     mood: worry
   - date: 13/02/2017
     city: Polonnaruwa
-    message: Como é linda a liberdade dos animais! 
+    message: "Como é linda a liberdade dos animais! "
     mood: happy
   - date: 15/02/2017
     city: Kandy
-    message: No tuk tuk today or tomorrow.
+    message: "No tuk tuk today or tomorrow."
     mood: furious
   - date: 16/02/2017
     city: Colombo
-    message: Apreciando as lindas paisagens pela janela do trem entre Kandy e Colombo.
+    message: "Apreciando as lindas paisagens pela janela do trem entre Kandy e Colombo."
     mood: watcher
   - date: 17/02/2017
     city: Colombo
-    message: Último dia no Sri Lanka, um país de múltiplas facetas.
+    message: "Último dia no Sri Lanka, um país de múltiplas facetas."
     mood: mafalda
     
 India:
   - date: 18/02/2017
     city: Delhi
-    message: Delhi é o maior surrealismo que já presenciei na minha vida. Ainda tentando assimilar tanta informação.
+    message: "Delhi é o maior surrealismo que já presenciei na minha vida. Ainda tentando assimilar tanta informação."
     mood: watcher
   - date: 18/02/2017
     city: Delhi
-    message: Quer ir em um casamento? Quero sim! 
+    message: "Quer ir em um casamento? Quero sim! "
     mood: adventure
   - date: 19/02/2017
     city: Delhi
@@ -49,111 +49,111 @@ India:
     mood: happy
   - date: 20/02/2017
     city: Delhi
-    message: Espero que o leite de cabra do meu café da manhã não seja das cabras que pastam na rua ao lado do cemitério bem em frente ao hotel.
+    message: "Espero que o leite de cabra do meu café da manhã não seja das cabras que pastam na rua ao lado do cemitério bem em frente ao hotel."
     mood: worry
   - date: 20/02/2017
     city: Udaipur
-    message: A melhor aquisição da minha vida foi um dispositivo similar a um pênis para poder fazer xixi em pé. Na índia ele está sendo muito usado.
+    message: "A melhor aquisição da minha vida foi um dispositivo similar a um pênis para poder fazer xixi em pé. Na índia ele está sendo muito usado."
     mood:  happy
   - date: 21/02/2017
     city: Udaipur
-    message: A megalomania do amor indiano não tem limites. Uma cidade com lago artificial para satisfazer as rainhas. Essa é Udaipur.
+    message: "A megalomania do amor indiano não tem limites. Uma cidade com lago artificial para satisfazer as rainhas. Essa é Udaipur."
     mood: furious
   - date: 22/02/2017
     city: Jaipur
-    message: I see vacas everywhere. Qual a frequência? Sempre.
+    message: "I see vacas everywhere. Qual a frequência? Sempre."
     mood: mafalda
   - date: 22/02/2017
     city: Jaipur
-    message: A pobreza na Índia é impactante. Mas pior é saber que eles aceitam bem sua condição de miserabilidade na sociedade.
+    message: "A pobreza na Índia é impactante. Mas pior é saber que eles aceitam bem sua condição de miserabilidade na sociedade."
     mood: watcher 
   - date: 24/02/2017
     city: Delhi
-    message: O museu de Gandhi esqueceu de contar a parte da sua história que não é motivo de heroismo.
+    message: "O museu de Gandhi esqueceu de contar a parte da sua história que não é motivo de heroismo."
     mood: furious
   - date: 24/02/2017
     city: Agra
-    message: O trem entre Delhi e Agra é uma agradável surpresa. Como desejei ter um assim quando estava no Rio de Janeiro.
+    message: "O trem entre Delhi e Agra é uma agradável surpresa. Como desejei ter um assim quando estava no Rio de Janeiro."
     mood: mafalda
   - date: 25/02/2017
     city: Agra
-    message: Foi a mais linda história de amor do príncipe Shah-Jehan pela princesa Mumtaz Mahal.
+    message: "Foi a mais linda história de amor do príncipe Shah-Jehan pela princesa Mumtaz Mahal."
     mood: happy
   - date: 26/02/2017
     city: Varanasi
-    message: Muita miséria por aqui.
+    message: "Muita miséria por aqui."
     mood: furious
   - date: 27/02/2017
     city: Varanasi
-    message: Chocada. Não tenho outra palavra para me descrever nesse momento.
+    message: "Chocada. Não tenho outra palavra para me descrever nesse momento."
     mood: mafalda
     
 Nepal:
   - date: 28/02/2017
     city: Kathmandu
-    message: A educação do povo do Nepal é o que me chama a atenção nesse primeiro momento.
+    message: "A educação do povo do Nepal é o que me chama a atenção nesse primeiro momento."
     mood: happy
   - date: 01/03/2017
     city: Kathmandu
-    message: O terremoto de 2015 ainda deixa marcas em Kathmandu.
+    message: "O terremoto de 2015 ainda deixa marcas em Kathmandu."
     mood: worry
   - date: 02/03/2017
     city: Kathmandu
-    message: Saindo agora de Kathmandu com direção a Lukla.
+    message: "Saindo agora de Kathmandu com direção a Lukla."
     mood: worry
   - date: 02/03/2017
     city: Lukla
-    message: Medo. Sentimento que define meu voo entre Kathmandu e Lukla.
-    mood: worry
+    message: "Medo. Sentimento que define meu voo entre Kathmandu e Lukla."
+    mood: worry
   - date: 02/03/2017
     city: Phading
-    message: Primeiro trecho do trekking rumo ao acampamento base do Everest concluído. Odeio descidas no caminho de ida. 
+    message: "Primeiro trecho do trekking rumo ao acampamento base do Everest concluído. Odeio descidas no caminho de ida. "
     mood: happy
   - date: 03/03/2017
     city: Namche Bazar
-    message: A primeira visão do Everest a gente nunca esquece.
+    message: "A primeira visão do Everest a gente nunca esquece."
     mood: happy
   - date: 04/03/2017
     city: Namche Bazar
-    message: Everest resolveu se esconder hoje.
+    message: "Everest resolveu se esconder hoje."
     mood: worry
   - date: 05/03/2017
     city: Tengboche
-    message: O frio começa a me consumir. Tentando sobreviver ao frio dentro de um ritual budista no monastério de Tengboche
-    mood: worry 
+    message: "O frio começa a me consumir. Tentando sobreviver ao frio dentro de um ritual budista no monastério de Tengboche"
+    mood: worry 
   - date: 06/03/2017
     city: Dingboche
-    message: A determinação dos japoneses é inspiradora!
+    message: "A determinação dos japoneses é inspiradora!"
     mood: mafalda
   - date: 07/03/2017
     city: Dingboche
-    message: Mais um dia de aclimatação! Estou chegando aos 5000 m de altitude!
+    message: "Mais um dia de aclimatação! Estou chegando aos 5000 m de altitude!"
     mood: worry
   - date: 08/03/2017
     city: Lobuche
-    message: Que noite terrível de sono!
+    message: "Que noite terrível de sono!"
     mood: worry
   - date: 09/03/2017
     city: Gorak Shep
-    message: Um dia de lindo de sol no EBC. Primeira parte do desafio completa! Que sensação boa!
+    message: "Um dia de lindo de sol no EBC. Primeira parte do desafio completa! Que sensação boa!"
     mood: happy
   - date: 10/03/2017
     city: Pheriche
-    message: Após subir o Kalapatthar com temperatura de -25°C, a neve me atinge no caminho de volta!
+    message: "Após subir o Kalapatthar com temperatura de -25C, a neve me atinge no caminho de volta!"
     mood: worry
   - date: 11/03/2017
     city: Phunki Tenga
-    message: Mais um dia caminhando em tempestade de neve!
+    message: "Mais um dia caminhando em tempestade de neve!"
     mood: worry
   - date: 12/03/2017
     city: Phading
-    message: O dia mais longo de trekking! Falta apenas uma etapa!
+    message: "O dia mais longo de trekking! Falta apenas uma etapa!"
     mood: worry
   - date: 13/03/2017
     city: Lukla
-    message: É o fim!!!!
+    message: "É o fim!!!!"
     mood: worry
   - date: 14/03/2017
     city: Lukla
-    message: Preocupada com o voo da volta!
+    message: "Preocupada com o voo da volta!"
     mood: worry
