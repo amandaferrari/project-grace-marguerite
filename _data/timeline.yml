@@ -164,6 +164,10 @@ Bhutan:
     message: "Depois de um pouso complicado com direito a neve e tudo, chego a Paro!"
     mood: happy
   - date: 19/03/2017
+    city: Haa Valley
+    message: "Enquanto a crise da carne assola o Brasil, no Butão a agricultura e a agropecuária familiar garantem comida de qualidade na mesa do povo butanes. Mas o direito de ser sindicalizado não lhes é garantido pelo governo. Direitos trabalhistas para mim são indiscutíveis..."
+    mood: mafalda
+  - date: 20/03/2017
     city: Thimphu
-    message: "Enquanto a crise da carne assola o Brasil, no Butão a agricultura e a agropecuária familiar garantem comida de qualidade na mesa do povo butanes. Mas o direito de ser sindicalizado nào lhes é garantido pelo governo. Direitos trabalhistas para mim são indiscutíveis..."
+    message: "Saúde e Educação públicas de qualidade. Uma utopia possível. Cuba e Butão podem provar isso."
     mood: mafalda
