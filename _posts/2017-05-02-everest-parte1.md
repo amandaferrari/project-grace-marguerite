@@ -20,7 +20,7 @@ Sei que as montanhas podem me ajudar no meu processo de cura. Elas são o lugar 
 Estar na região do Himalaia é como reviver os episódios de Tintin no Tibet na companhia dos meus irmãos. Um dos maiores acalentos que eu poderia desejar.
 
 
-Pré-trekking: será que não está faltando roupa?
+# Pré-trekking: será que não está faltando roupa?
 
 Chego a Catmandu com todas as roupas de frio que planejei trazer do Brasil. São muitas camadas de blusa e de calça para evitar hipotermia. Não sou uma pessoa que costuma ter muito frio, mas estou falando de uma das regiões mais frias do mundo, logo eu não posso vacilar. E a tomar pela primeira noite que passo na cidade de Catmandu, há garantia de muito frio nas montanhas.
 
