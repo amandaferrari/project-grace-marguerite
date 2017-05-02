@@ -4,8 +4,8 @@ title: Tão perto, mas tão longe - parte I
 description: Um desafio pessoal
 category: travel
 tags: ['Aventura','Comportamento']
-image: post12.jpg
-image-description: "Foto: Everest Base Camp - 2017."
+image: post13.jpg
+image-description: "Foto: Himalaia visto de cima."
 country-code: np
 country: Nepal
 comments: true
