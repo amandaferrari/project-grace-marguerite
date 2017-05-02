@@ -23,7 +23,7 @@ Os quatro primeiros países que visitei tem bandeiras com significado interessan
 
 Espero que seja interessante para vocês também!
 
-#SRI LANKA
+# SRI LANKA
 
 **Faixa verde** – representa os muçulmanos.
 
@@ -42,7 +42,7 @@ Espero que seja interessante para vocês também!
 ![Bandeira do Sri Lanka]({{site.baseurl}}/assets/images/photos/posts/srilankaflag.jpg)*Bandeira do Sri Lanka*
 
 
-#ÍNDIA
+# ÍNDIA
 
 **Faixa laranja** –  representa a coragem, o sacrifício e o espírito de renúncia do povo indiano.
 
@@ -54,7 +54,7 @@ Espero que seja interessante para vocês também!
 
 ![Bandeira da Índia]({{site.baseurl}}/assets/images/photos/posts/indiaflag.jpg)*Bandeira da Índia*
 
-#NEPAL
+# NEPAL
 
 **Dois símbolos (sol e meia lua com sol)** – trata-se de uma representação do cosmo em uma triangulação astral. O sol no plano inferior no superior é a sombra da Terra (meia lua) próxima de um astro durante o crepúsculo. É como se a situação fosse vivenciada por um observador na Terra e outro no espaço. 
 
@@ -68,7 +68,7 @@ Espero que seja interessante para vocês também!
 
 ![Bandeira do Nepal]({{site.baseurl}}/assets/images/photos/posts/nepalflag.jpg)*Bandeira do Nepal*
 
-#BUTÃO
+# BUTÃO
 
 **Diagonal Amarela** – representa a força secular e a autoridade do rei no país.
 
@@ -80,6 +80,6 @@ Espero que seja interessante para vocês também!
 
 **Joias nas garras do dragão** – representa o desejo de saúde e perfeição do país. 
 
-![Bandeira do Butão({{site.baseurl}}/assets/images/photos/posts/bhutanflag.jpg)*Bandeira do Butão*
+![Bandeira do Butão]({{site.baseurl}}/assets/images/photos/posts/bhutanflag.jpg)*Bandeira do Butão*
 
 É um pouco de cultura geral que acredito que estamos precisando, afinal quantas vezes no último ano escutei “a bandeira do Brasil nunca será vermelha” mesmo sabendo que essas pessoas ignoram que o nome “Brasil” vem do pau-brasil, árvore usada pelos índios na época do descobrimento para tingir seus corpos de VERMELHO e que, portanto, Brasil significa vermelho. A bandeira nunca será vermelha, é verdade. Mas o país todo um dia já foi. Hoje só nos resta o nome. Infelizmente.
