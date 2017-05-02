@@ -6,8 +6,8 @@ category: travel
 tags: ['História','Cultura']
 image: post12.jpg
 image-description: "Foto: Cores e formas identificam cada uma das bandeiras desses países."
-country-code: bt
-country: Butão
+country-code: np
+country: Nepal
 comments: true
 ---
 
