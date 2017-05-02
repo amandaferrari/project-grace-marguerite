@@ -24,7 +24,7 @@ Estar na região do Himalaia é como reviver os episódios de Tintin no Tibet na
 
 Chego a Catmandu com todas as roupas de frio que planejei trazer do Brasil. São muitas camadas de blusa e de calça para evitar hipotermia. Não sou uma pessoa que costuma ter muito frio, mas estou falando de uma das regiões mais frias do mundo, logo eu não posso vacilar. E a tomar pela primeira noite que passo na cidade de Catmandu, há garantia de muito frio nas montanhas.
 
-Apesar do mês de março já ser considerado mais quente para o trekking, as temperaturas nos acampamentos acima de 4000 m de altitude são promessas de frio extenuante do qual eu não quero ser refém.
+Apesar do mês de março já ser considerado mais quente para o *trekking*, as temperaturas nos acampamentos acima de 4000 m de altitude são promessas de frio extenuante do qual eu não quero ser refém.
 
 Decido comprar um pijama de fleece para tornar minhas noites mais fofinhas e agradáveis. Esse tipo de tecido é um abraço fraterno em noites de frio solitárias.
 
@@ -95,7 +95,7 @@ Decido tomar banho com toalhinha molhada com água fria. Tremo como vara verde. 
 
 # Phading (2600 m)- Namche Bazaar (3440 m) 
 
-10,4 km - 6h10min
+**10,4 km - 6h10min**
 
 Apesar de não ter passado frio durante a noite, a manhã em Phakding mostra que o Himalaia não está para brincadeira. 
 
@@ -128,11 +128,11 @@ Namche Bazar é conhecida como um dos melhores mirantes para observar o monte Ev
 Os ventos fortes e as nuvens dificultam a visão até das montanhas mais baixas. E, claro, que o Everest resolve se esconder também. É a magia da natureza. Preciso aprender a lidar melhor com isso. Queremos ver montanhas sem nuvens como desejamos um bolo de chocolate preparado pela mãe mesmo que estejamos negligenciando todas as forças naturais.
 
 
-![Chá no Everest View]({{site.baseurl}}/assets/images/photos/posts/chaeverest.jpg)*Chá no Everest View*
+![Chá no Everest View]({{site.baseurl}}/assets/images/photos/posts/everestview.jpg)*Chá no Everest View*
 
 A vista do hotel realmente é privilegiada, mas hospedar-se num lugar desses é esquecer que o salário médio anual do Nepal é de 1600 USD. As pessoas não precisam passar fome para viajar, mas esbanjar em um país pobre é querer negligenciar uma parte importante de qualquer viagem: o contato com a população local.
 
 Tomo um chá e volto ao meu lodge. Começo a achar que estou doente e tomo alguns remédios para gripe. Mas é só uma alergia e um resfriado por conta dos ventos frios que sopram nessa região.
 
-Estou ainda ilesa à altitude, mas no sei se amanhã ela pode me atingir. Por enquanto só penso no meu jantar para suprir toda a energia que perco ao longo do dia.
+Estou ainda ilesa à altitude, mas no sei se amanhã ela pode me atingir. Por enquanto só penso no meu jantar para suprir toda a energia que perco ao longo do dia...
 
