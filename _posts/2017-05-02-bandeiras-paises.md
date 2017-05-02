@@ -24,47 +24,60 @@ Os quatro primeiros países que visitei tem bandeiras com significado interessan
 Espero que seja interessante para vocês também!
 
 #SRI LANKA
-🇱🇰
 
 **Faixa verde** – representa os muçulmanos.
+
 **Faixa laranja** – representa os tâmeis.
+
 **Borda amarela** – representa a união dos sri lankos.
+
 **Fundo marrom** – representa os cingaleses.
+
 **Leão** – representa a bravura dos sri lankos.
+
 **Espada** – representa a soberania do Sri Lanka.
+
 **4 folhas de Bo** – representam as quatro virtudes do budismo: Metta (gentileza), Karuna (compaixão), Upekkha (tranquilidade) e Mudittha (felicidade).
 
 ![Bandeira do Sri Lanka]({{site.baseurl}}/assets/images/photos/posts/srilankaflag.jpg)*Bandeira do Sri Lanka*
 
 
 #ÍNDIA
-🇮🇳
 
 **Faixa laranja** –  representa a coragem, o sacrifício e o espírito de renúncia do povo indiano.
-**Faixa verde** –  representa a fé a e fertilidade. 
+
+**Faixa verde** –  representa a fé a e fertilidade.
+
 **Faixa branca** – representa a pureza e a verdade
+
 **Símbolo central** – representa a Ashoka Chakra (Roda do Dharma, símbolo do hinduísmo).
 
 ![Bandeira da Índia]({{site.baseurl}}/assets/images/photos/posts/indiaflag.jpg)*Bandeira da Índia*
 
 #NEPAL
-🇳🇵
 
 **Dois símbolos (sol e meia lua com sol)** – trata-se de uma representação do cosmo em uma triangulação astral. O sol no plano inferior no superior é a sombra da Terra (meia lua) próxima de um astro durante o crepúsculo. É como se a situação fosse vivenciada por um observador na Terra e outro no espaço. 
+
 **Formato diferente** – trata-se da sobreposição de duas bandeiras triangulares antigas que existiam durante a dinastia que governava o país. Além de representar o espelho da representação do cosmos exemplificada pelos dois símbolos.  
+
 **Formato diferente** – trata-se da sobreposição de duas bandeiras triangulares antigas que existiam durante a dinastia que governava o país. 
+
 **Borda azul** – representa a paz.
+
 **Vermelho** –  representa a cor nacional do país. 
 
 ![Bandeira do Nepal]({{site.baseurl}}/assets/images/photos/posts/nepalflag.jpg)*Bandeira do Nepal*
 
 #BUTÃO
-🇧🇹
 
 **Diagonal Amarela** – representa a força secular e a autoridade do rei no país.
+
 **Diagonal Laranja** – representa a prática da religiao e a força do budismo manifestado na tradição de Drukpa Kagyu.
+
 **Dragão** – representa o nome do país (Druk - Yul, ou terra do Dragão).
+
 **Cor branca do dragão** – significa a pureza.
+
 **Joias nas garras do dragão** – representa o desejo de saúde e perfeição do país. 
 
 ![Bandeira do Butão({{site.baseurl}}/assets/images/photos/posts/bhutanflag.jpg)*Bandeira do Butão*
