@@ -83,7 +83,7 @@ Durante a noite eu acordo e sinto uma vontade incontrolável de ir ao banheiro. 
 
 Acordo e percebo que o frio da madrugada fez do meu "balde privada"  um grande sacolé. Xixi, cocô e papel higiênico estão completamente congelados. O pior dos pesadelos. Como vou limpar literalmente essa "merda" toda? Resolvo usar técnicas químicas para me safar dessa: sal! 
 
-Depois de muitos custo, consigo limpar todo o balde.
+Depois de muita técnica de engenharia química e um bocado de paciência consigo limpar todo o balde.
 
 Hoje novamente não é dia de trocar de altitude. Decido não fazer grandes esforços. Enquanto muitos sobem acima dos 5000 metros de altitude, prefiro não arriscar e ficar no meio do caminho (4800 metros).
 
