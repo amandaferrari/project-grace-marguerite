@@ -174,26 +174,26 @@ Bhutan:
 
 Japan:
  - date: 25/03/2017
-    city: Tokyo
-    message: "Reencontrando os amigos!"
-    mood: happy
+   city: Tokyo
+   message: "Reencontrando os amigos!"
+   mood: happy
  - date: 27/03/2017
-    city: Hakone
-    message: "Cadê o Monte Fuji?"
-    mood: furious
+   city: Hakone
+   message: "Cadê o Monte Fuji?"
+   mood: furious
 
 China:
  - date: 08/04/2017
-    city: Pequim
-    message: "Pior pesadelo do mundo! Perdendo as malas na China!"
-    mood: furious
+   city: Pequim
+   message: "Pior pesadelo do mundo! Perdendo as malas na China!"
+   mood: furious
 
 Phillipines:
  - date: 25/04/2017
-    city: Manilla
-    message: "Em busca do tubarão baleia"
-    mood: happy
+   city: Manilla
+   message: "Em busca do tubarão baleia"
+   mood: happy
  - date: 27/04/2017
-    city: Manilla
-    message: "Provando da sensação de insegurança das Filipinas."
-    mood: worry
+   city: Manilla
+   message: "Provando da sensação de insegurança das Filipinas."
+   mood: worry
