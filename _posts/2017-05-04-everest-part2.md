@@ -57,7 +57,7 @@ Nessa tarde o monte Everest me fez companhia e me sinto agraciada e privilegiada
 
 A última noite não foi fácil. O frio de -8°C dentro do meu quarto me impediu de dormir ininterruptamente por mais de 1 hora.
 
-Durante a madrugada pela primeira vez em toda minha vida senti fome. Apesar de estar comendo bem e com qualidade a energia que gasto ao longo do dia para caminhar e me manter aquecida estão consumindo todas minhas reservas energéticas. Pelo meu aplicativo de exercícios estou perdendo em média 2600 kcal por dia de caminhada. Mas me manter aquecida certamente tem exigido muito mais calorias do meu corpo.
+Durante a madrugada pela primeira vez em toda minha vida senti fome. Apesar de estar comendo bem e com qualidade a energia que gasto ao longo do dia para caminhar e me manter aquecida está consumindo todas minhas reservas energéticas. Pelo meu aplicativo de exercícios estou perdendo em média 2600 kcal por dia de caminhada. Mas me manter aquecida certamente tem exigido muito mais calorias do meu corpo.
 
 A cada vez que acordo fica muito difícil voltar a dormir. Estou usando dois *sleeping bags*, um para 0°C que trouxe comigo do Brasil e um para -20°C que aluguei em Catmandu. Não sendo suficiente, pedi dois cobertos emprestados no *lodge* onde estou.
 
@@ -71,7 +71,7 @@ O trajeto é repleto de longas descidas e subidas extenuantes. Às vezes você s
 
 Hoje a caminhada foi difícil. No meio do caminho tive uma discussão com meu guia. Como passei muito frio na noite anterior e não consegui dormir direito, um casal que encontrei no meio do caminho me recomendou ficar em algum lugar com cobertor elétrico que tinha um preço razoável. Meu guia não gostou que outras pessoas estivessem me dando dicas e começou a brigar com o casal. Fiquei muito irritada e pedi para que ele não interferisse nas minhas conversas ao longo do caminho, já que eu não admitiria a situação novamente. 
 
-Ao longo do caminho para piorar nossa relação, sinto que ele tenta me desencorajar em chegar ao acampamento base falando incessantemente sobre a possibilidade de neve e sobre os limites do meu corpo ao longo do caminho.
+Ao longo do caminho, para piorar nossa relação, sinto que ele tenta me desencorajar em chegar ao acampamento base falando incessantemente sobre a possibilidade de neve e sobre os limites do meu corpo ao longo do caminho.
 
 Tenho consciência de que a altitude pode me derrubar amanhã, mas quero conseguir ao menos atingir meus limites pessoais e não sinto que estou perto deles. Enquanto meu corpo permitir, seguirei nessa jornada de conhecimento e de inspiração.
 
