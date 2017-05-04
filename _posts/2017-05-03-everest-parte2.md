@@ -39,7 +39,7 @@ O vento dá uma trégua, mas os *yaks* caminhando e levantando poeira só pioram
 
 Chegamos a Tengboche e como prêmio recebo um quarto com vista privilegiada. Praticamente um porta retrato do monte Everest. 
 
-Decido ir até o monastério dessa pequena vila assistir um ritual budista. Sentada em um tapete o frio penetra todas as minhas entranhas e fico impossibilitada de continuar na cerimônia.
+Decido ir até o monastério dessa pequena vila assistir um ritual budista. Sentada em um tapete, o frio penetra todas as minhas entranhas e fico impossibilitada de continuar na cerimônia.
 
 ![Monastério Budista de Tengboche]({{site.baseurl}}/assets/images/photos/posts/monasterio.jpg)*Monastério Budista de Tengboche*
 
@@ -57,7 +57,7 @@ Nessa tarde o monte Everest me fez companhia e me sinto agraciada e privilegiada
 
 A última noite não foi fácil. O frio de -8°C dentro do meu quarto me impediu de dormir ininterruptamente por mais de 1 hora.
 
-Durante a madrugada pela primeira vez em toda minha vida senti fome. Apesar de estar comendo bem e com qualidade a energia que gasto ao longo do dia para caminhar e me manter aquecida está consumindo todas minhas reservas energéticas. Pelo meu aplicativo de exercícios estou perdendo em média 2600 kcal por dia de caminhada. Mas me manter aquecida certamente tem exigido muito mais calorias do meu corpo.
+Durante a madrugada pela primeira vez em toda minha vida senti fome. Apesar de estar comendo bem e com qualidade, a energia que gasto ao longo do dia para caminhar e me manter aquecida está consumindo todas minhas reservas energéticas. Pelo meu aplicativo de exercícios estou perdendo em média 2600 kcal por dia de caminhada. Mas me manter aquecida certamente tem exigido muito mais calorias do meu corpo.
 
 A cada vez que acordo fica muito difícil voltar a dormir. Estou usando dois *sleeping bags*, um para 0°C que trouxe comigo do Brasil e um para -20°C que aluguei em Catmandu. Não sendo suficiente, pedi dois cobertos emprestados no *lodge* onde estou.
 
