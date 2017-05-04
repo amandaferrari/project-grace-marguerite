@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Um desafio diário... (Parte II)
-description: Um desafio pessoal
+description: Quando dormir é um desafio
 category: travel
 tags: ['Aventura','Comportamento']
 image: post14.jpg
