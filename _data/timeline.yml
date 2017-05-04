@@ -171,3 +171,29 @@ Bhutan:
     city: Thimphu
     message: "Saúde e Educação públicas de qualidade. Uma utopia possível. Cuba e Butão podem provar isso."
     mood: mafalda
+
+Japan:
+ - date: 25/03/2017
+    city: Tokyo
+    message: "Reencontrando os amigos!"
+    mood: happy
+ - date: 27/03/2017
+    city: Hakone
+    message: "Cadê o Monte Fuji?"
+    mood: furious
+
+China:
+ - date: 08/04/2017
+    city: Pequim
+    message: "Pior pesadelo do mundo! Perdendo as malas na China!"
+    mood: furious
+
+Phillipines:
+ - date: 25/04/2017
+    city: Manilla
+    message: "Em busca do tubarão baleia"
+    mood: happy
+ - date: 27/04/2017
+    city: Manilla
+    message: "Provando da sensação de insegurança das Filipinas."
+    mood: worry
