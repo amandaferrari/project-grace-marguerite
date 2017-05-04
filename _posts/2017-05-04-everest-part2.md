@@ -5,7 +5,7 @@ description: Um desafio pessoal
 category: travel
 tags: ['Aventura','Comportamento']
 image: post14.jpg
-image-description: "Foto: Yaks nas montanhas."
+image-description: "Foto: Trekking no Himalaia com Ama Dablam ao fundo."
 country-code: np
 country: Nepal
 comments: true
