@@ -194,6 +194,30 @@ Philippines:
    message: "Em busca do tubarão baleia"
    mood: happy
  - date: 27/04/2017
-   city: Manilla
+   city: Puerto Princesa
    message: "Provando da sensação de insegurança das Filipinas."
    mood: worry
+ - date: 29/04/2017
+   city: El Nido
+   message: "Ratos, saiam do telhado!"
+   mood: worry
+ - date: 30/04/2017
+   city: El Nido
+   message: "Quando você pede um suco de melancia e ele vem amarelo."
+   mood: mafalda
+ - date: 03/05/2017
+   city: Puerto Princesa
+   message: "Golfinhos e Tubarão Baleia: um dia para ser lembrado."
+   mood: happy
+    
+Singapore:
+ - date: 07/05/2017
+   city: Singapore
+   message: "Breve parada em Cingapura. Um conceito interessante de cidade verde para diminuir a média da temperatura da cidade."
+   mood: happy
+   
+Indonesia:
+ - date: 07/05/2017
+   city: Jakarta
+   message: "Depois de 22 horas de viagem, chego à Indonésia. Em busca de vulgões e de dragões."
+   mood: happy
