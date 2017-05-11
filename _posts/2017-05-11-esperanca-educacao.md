@@ -3,13 +3,14 @@ layout: post
 title: A educação é o futuro...
 description: Quando os estranhos se unem
 category: travel
-tags: ['Educação','Sociedade']
+tags: ['Aventura','Comportamento']
 image: post15.jpg
 image-description: "Foto: Templo de Borobudur."
 country-code: id
-country:Indonesia
+country: Indonesia
 comments: true
 ---
+
 
 Esses dois meninos, com metade da minha idade e que seguramente poderiam ser meus filhos, me abordaram timidamente hoje no Templo de Borobudur em Yogyakarta, Indonésia, para saber se poderiam me acompanhar na minha visita, com o único intuito de que pudessem treinar seu inglês com um estrangeiro (não sei como perceberam que eu era estrangeira! rs).
 
