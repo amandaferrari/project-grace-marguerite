@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A educação é o futuro...
-description: Quando os estranhos se unem.
+description: Quando os estranhos se unem
 category: travel
 tags: ['Educação','Sociedade']
 image: post15.jpg
@@ -31,7 +31,7 @@ Quando reparei, lá estava eu falando com o mesmo entusiasmo de 10 anos atrás s
 
 Eles ficaram tão interessados sobre o assunto que quiseram saber como era feita a perfuração de poços marítimos. E lá comecei eu a desenhar os esquemas de um sistema de exploração e produção de uma plataforma. 
 
-Não tem jeito. Eu tento acabar com os resquícios de engenharia em meu corpo, mas ela corre profundamente em minhas veias, sem tréguas 
+Não tem jeito. Eu tento acabar com os resquícios de engenharia em meu corpo, mas ela corre profundamente em minhas veias, sem tréguas. 
 
 Falando com esses dois meninos fiquei lembrando de quando tinha 16 anos. Eu jamais me atreveria a falar com um estrangeiro em outra língua. Só de pensar ficaria trêmula. Ainda mais sobre um assunto que eu não tinha domínio.
 
