@@ -38,4 +38,4 @@ Falando com esses dois meninos fiquei lembrando de quando tinha 16 anos. Eu jama
 
 Hoje vou dormir feliz. Compartilhar conhecimento e sentir que o outro realmente está interessado no que você está dizendo é uma das sementes da esperança que eu estava em busca nessa viagem. 
 
-Se em algum momento nessa vida senti que meu trabalho era inútil, hoje em meio às stupas e aos budas, um ambiente totalmente diferente daquele cheio de ego e arrogância em que estou acostumada a trabalhar, eu senti que aquilo com que minha profissão era a mais importante do mundo.
+Se em algum momento nessa vida senti que meu trabalho era inútil, hoje em meio às stupas e aos budas, um ambiente totalmente diferente daquele cheio de ego e arrogância em que estou acostumada a trabalhar, eu senti que minha profissão era a mais importante do mundo e que todo mundo tem uma história a ser contada. Até mesmo eu. 
