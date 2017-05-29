@@ -85,7 +85,7 @@ Os yaks ao longo do caminho cobertos por neve mostram que a situação não tend
 
 ![Yaks congelados]({{site.baseurl}}/assets/images/photos/posts/yakcongelado.jpg)*Yaks congelados*
 
-Acabada, decido parar no meio do caminho para evitar caminhar debaixo de tanta neve. Meu guia não gosta. Mas nessa altura do campeonato eu não faço consultas, eu simplesmente comunico minhas decisões. 
+Acabada, decido parar no meio do caminho na vila de Pangboche (5 km antes do planejamento inicial), para evitar caminhar debaixo de tanta neve. Meu guia não gosta. Mas nessa altura do campeonato eu não faço consultas, eu simplesmente comunico minhas decisões. 
 
 A neve toma conta da região. Não sei como será caminhar no dia seguinte. 
 
