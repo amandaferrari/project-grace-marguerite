@@ -4,7 +4,7 @@ title: Uma conquista pessoal... (Parte III)
 description: Saindo da zona de conforto
 category: travel
 tags: ['Aventura','Comportamento']
-image: post15.jpg
+image: post16.jpg
 image-description: "Foto: Acampamento base do monte Everest."
 country-code: np
 country: Nepal
