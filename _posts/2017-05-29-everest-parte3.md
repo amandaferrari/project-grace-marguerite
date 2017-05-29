@@ -17,7 +17,7 @@ comments: true
 
 **12 km - 5h30min**
 
-Mais uma noite dormindo mal. O frio não dá trégua. Por muitas vezes desejei os dias de infância em que pedia para minha mãe para dormir com ela para colocar meu pé embaixo da sua bunda para eles ficarem quentinhos.
+Mais uma noite dormindo mal. O frio não dá trégua. Por muitas vezes desejei os dias de infância em que pedia para minha mãe para dormir com ela para colocar meu pé embaixo da sua bunda e deixá-los quentinhos.
 
 Quando vou sair do meu quarto pela manhã, percebo que alguém vomitou próximo à porta. Congelado e esparramado pelo chão, ele vira quase um ringue de patinação. Quase escorrego. 
 
@@ -27,11 +27,11 @@ O caminho até Lobuche é longo e desafiador. Trechos íngremes de subida dão o
 
 ![Recuperando o fôlego]({{site.baseurl}}/assets/images/photos/posts/intheway.jpg)*Recuperando o fôlego*
 
-Não sei se é uma questão de cansaço, mas eu começo a prestar atenção em coisas bobas que vejo ao longo do caminho. Um menino com um macaco de pelúcia agarrado ao pescoço sorri sem parar. Fico pensando se o segredo é ter um macaco desses para manter o humor afiado. Mas não encontro um macaco para comprar. 
+Não sei se é uma questão de cansaço, mas eu começo a prestar atenção em coisas bobas que vejo ao longo do caminho. Um menino com um macaco de pelúcia agarrado ao pescoço sorri sem parar. Fico pensando se o segredo é ter um macaco desses para manter o humor afiado. Mas não encontro um macaco para comprar. Uso do truque do chocolate mesmo.
 
-Chego a Lobuche muito cansada. A 4900 m de altitude não há mais combustível em forma de lenha para as fornalhas que aquecem a área comum dos abrigos onde costumamos fazer as refeições. A solução usada pelos sherpas é queimar bosta de yak seca. O cabelo que não sabe o que é água há 9 dias agora fica defumado por fumaça aromática de bosta de yak. Minha condição de existência só agrava. 
+Chego a Lobuche muito cansada. A 4900 m de altitude não há mais combustível em forma de lenha para as fornalhas que aquecem a área comum dos abrigos onde costumamos fazer as refeições. A solução usada pelos sherpas é queimar bosta de yak seca. O cabelo, que não sabe o que é água há 9 dias, agora fica defumado por fumaça aromática de bosta de yak. Minha condição de existência só agrava. 
 
-Os banheiros estilos ocidentais nessa altura são itens de colecionador. Você chega cansada aos abrigos e ainda precisa ficar de cócoras para fazer xixi e cocô. As pernas já pedem férias. Água líquida para escovar os dentes só usando truques químicos ou mantendo a garrafa próxima ao corpo para manter a temperatura levemente elevada. Não vejo perspectivas das condições melhorarem.
+Os banheiros estilos ocidentais nessa altura são itens de colecionador. Você chega cansada aos abrigos e ainda precisa ficar de cócoras para fazer xixi e cocô. As pernas já pedem férias. Água líquida para escovar os dentes só usando truques químicos ou mantendo a garrafa próxima ao corpo para manter a temperatura levemente positiva. Não vejo perspectivas das condições melhorarem.
 
 # Lobuche (4910 m) - Gorakshep (5180 m) - Everest Base Camp (5365 m)
 
@@ -57,9 +57,9 @@ Apesar da exaustão, me sinto preparada para alcançar meu objetivo.
 
 Passo a passo vou me aproximando do acampamento base. Por todo o caminho uma visão nítida do Everest me faz companhia como um daqueles wallpapers de computador.
 
-Quando avisto o acampamento base pela primeira vez com suas bandeirinhas tremulando uma sensação inexplicável de alegria toma conta de mim e começo a chorar. Queria ter uma foto desse momento registrada eternamente. Mas viajar sozinha tem essas limitações. Os maiores registros de nós mesmos está na nossa memória e nas nossas pequenas anotações.
+Quando avisto o acampamento base pela primeira vez, com suas bandeirinhas tremulando, uma sensação inexplicável de alegria toma conta de mim e começo a chorar. Queria ter uma foto desse momento registrada eternamente. Mas viajar sozinha tem essas limitações. Os maiores registros de nós mesmos está na nossa memória e nas nossas pequenas anotações.
 
-Por 1 hora fico ali sentada apreciando a calma e a beleza daquele lugar. Silencioso e misterioso, o Everest constantemente me observa do alto da sua esplendecência. Estar ali me coloca no grupo de privilegiados que puderam contemplar de tão perto um lindo entardecer de céu azul e sol intenso, mostrando que a natureza pode nos fazer querer viver mais sempre...
+Por uma hora fico ali sentada apreciando a calma e a beleza daquele lugar. Silencioso e misterioso, o Everest constantemente me observa do alto da sua esplendecência. Estar ali me coloca no grupo de privilegiados que puderam contemplar de tão perto um lindo entardecer de céu azul e sol intenso, mostrando que a natureza pode nos fazer querer viver sempre mais...
 
 ![Uma conquista e um protesto]({{site.baseurl}}/assets/images/photos/posts/basecamp.jpg)*Uma conquista e um protesto*
 
@@ -67,7 +67,7 @@ Por 1 hora fico ali sentada apreciando a calma e a beleza daquele lugar. Silenci
 
 **17,6 km - 8h**
 
-Não consegui dormir. Durante a noite meu quarto estava na incrívell casa dos -17°C! Às 4:30 am já estou pronta para o próximo desafio.Assistir o nascer do sol no Himalaia do topo do Kalapathar. O único lugar nesse trekking que é possível ter a certeza que o monte Everest é maior que todas as outras montanhas da região. 
+Não consegui dormir. Durante a noite meu quarto estava na incrível casa dos -17°C! Às 4:30 am já estou pronta para o próximo desafio.Assistir o nascer do sol no Himalaia do topo do Kalapathar. O único lugar nesse trekking que é possível ter a certeza que o monte Everest é maior que todas as outras montanhas da região. 
 
 A silhueta da cadeia de montanhas durante o crepúsculo em contraste com o céu estrelado é incrivelmente bela. A temperatura é extenuantemente baixa: -30*C! 
 
