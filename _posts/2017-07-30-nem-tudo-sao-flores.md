@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Próxima aula de inglês: the men is in jail 
+title: Próxima aula de inglês
 description: Nem tudo são flores
 category: travel
 tags: ['Social','Comportamento']
