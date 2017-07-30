@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Próxima aula de inglês,the men is in jail 
+title: Próxima aula de inglês: the men is in jail 
 description: Nem tudo são flores
 category: travel
 tags: ['Social','Comportamento']
@@ -12,7 +12,7 @@ comments: true
 ---
 
 
-# Próxima aula de inglês,the men is in jail
+# Próxima aula de inglês: the men is in jail
 
 Quando sai do Brasil há 6 meses, sabia que minha vida na estrada não seria eternamente ornamentada por experiências incríveis. E de fato não foi. A vida de viajar sozinha sendo mulher em alguns lugares do mundo exige uma certa dose de coragem, de resiliência e de pulso firme que faz até as mais despachadas repensarem suas escolhas. 
 
